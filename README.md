@@ -15,3 +15,5 @@
 * 리갈 하이 (リーガル・ハイ)
   * Season 1 (Episode 1-11)
   * Season 2 (Episode 1-10)
+* 한자와 나오키 (半沢直樹)
+  * Season 1 (Episode 1-10)
