@@ -9,4 +9,8 @@
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 
 ## TV Shows
-* 갈릴레오 시즌1 (ガリレオ)
+* 갈릴레오 (ガリレオ)
+  * Season 1 (Episode 1-10)
+* 리갈 하이 (リーガル・ハイ)
+  * Season 1 (Episode 1-11)
+  * Season 2 (Episode 1-10)
