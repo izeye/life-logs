@@ -7,6 +7,7 @@
 * 다이버전트 시리즈: 얼리전트 (The Divergent Series: Allegiant, 2016)
 * 더 킹 (The King, 2016)
 * 둠 (Doom, 2005)
+* 아이보이 (iBoy, 2017)
 * 언피니시드 (The Debt, 2010)
 * 옥자 (Okja, 2017)
 * 제보자 (The Whistleblower, 2014)
