@@ -10,6 +10,7 @@
 * 더 킹 (The King, 2016)
 * 둠 (Doom, 2005)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
+* 싱크로니시티 (Synchronicity, 2016)
 * 아이보이 (iBoy, 2017)
 * 언피니시드 (The Debt, 2010)
 * 옥자 (Okja, 2017)
