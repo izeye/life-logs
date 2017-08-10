@@ -18,6 +18,7 @@
 * 잭 리처: 네버 고 백 (Jack Reacher: Never Go Back, 2016)
 * 제보자 (The Whistleblower, 2014)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
+* 파라독스 (Paradox, 2016)
 
 ## TV Shows
 * 갈릴레오 (ガリレオ)
