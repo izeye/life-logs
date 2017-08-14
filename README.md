@@ -23,6 +23,7 @@
 * 제보자 (The Whistleblower, 2014)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 파라독스 (Paradox, 2016)
+* 퍼시픽 림 (Pacific Rim, 2013)
 
 ## TV Shows
 * 갈릴레오 (ガリレオ)
