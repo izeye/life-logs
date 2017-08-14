@@ -10,6 +10,7 @@
 * 다크 아워 (The Darkest Hour, 2011)
 * 더 킹 (The King, 2016)
 * 둠 (Doom, 2005)
+* 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 슈퍼 에이트 (Super 8, 2011)
 * 스테이시스 (Stasis, 2017)
