@@ -25,6 +25,7 @@
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 파라독스 (Paradox, 2016)
 * 퍼시픽 림 (Pacific Rim, 2013)
+* 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
 
 ## TV Shows
 * 갈릴레오 (ガリレオ)
