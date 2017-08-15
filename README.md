@@ -22,6 +22,7 @@
 * 인 타임 (In Time, 2011)
 * 잭 리처: 네버 고 백 (Jack Reacher: Never Go Back, 2016)
 * 제보자 (The Whistleblower, 2014)
+* 지옥에서 온 전언
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 파라독스 (Paradox, 2016)
 * 퍼시픽 림 (Pacific Rim, 2013)
