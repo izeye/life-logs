@@ -20,6 +20,7 @@
 * 슬로우 웨스트 (Slow West, 2015)
 * 싱크로니시티 (Synchronicity, 2016)
 * 써클 (Circle, 2015)
+* 쏜다 (Big Bang, 2007)
 * 쓰리데이즈 투 킬 (3 Days to Kill, 2014)
 * 아이보이 (iBoy, 2017)
 * 언피니시드 (The Debt, 2010)
