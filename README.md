@@ -16,6 +16,7 @@
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 슈퍼 에이트 (Super 8, 2011)
+* 스타게이트 (Stargate, 1994)
 * 스테이시스 (Stasis, 2017)
 * 스파이 게임 (Spy Game, 2001)
 * 슬로우 웨스트 (Slow West, 2015)
