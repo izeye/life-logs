@@ -15,6 +15,7 @@
 * 둠 (Doom, 2005)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
+* 비스틀리 (Beastly, 2011)
 * 성룡의 미라클 (奇蹟: Mr Canton And Lady Rose, Miracle, 1989)
 * 성룡의 신주쿠 살인사건 (新宿事件, The Shinjuku Incident, 2008)
 * 성룡의 신화 (神話: The Myth, 2005)
