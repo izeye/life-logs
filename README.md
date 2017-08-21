@@ -15,6 +15,7 @@
 * 둠 (Doom, 2005)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
+* 성룡의 신화 (神話: The Myth, 2005)
 * 슈퍼 에이트 (Super 8, 2011)
 * 스니치 (Snitch, 2013)
 * 스카페이스 (Scarface, 1983)
