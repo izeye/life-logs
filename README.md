@@ -42,6 +42,7 @@
 * 아이보이 (iBoy, 2017)
 * 언피니시드 (The Debt, 2010)
 * 에너미 앳 더 게이트 (Enemy At The Gates, 2001)
+* 에너미 오브 스테이트 (Enemy Of The State, 1998)
 * 애프터 어스 (After Earth, 2013)
 * 액트 오브 밸러: 최정예 특수부대 (Act of Valor, 2011)
 * 옥자 (Okja, 2017)
