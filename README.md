@@ -38,6 +38,7 @@
 * 스테이시스 (Stasis, 2017)
 * 스파이 게임 (Spy Game, 2001)
 * 슬로우 웨스트 (Slow West, 2015)
+* 시카리오: 암살자의 도시 (Sicario, 2015)
 * 싱크로니시티 (Synchronicity, 2016)
 * 써클 (Circle, 2015)
 * 쏜다 (Big Bang, 2007)
