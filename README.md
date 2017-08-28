@@ -47,6 +47,7 @@
 * 액트 오브 밸러: 최정예 특수부대 (Act of Valor, 2011)
 * 옥자 (Okja, 2017)
 * 윌리엄 제로의 재건
+* 이글 아이 (Eagle Eye, 2008)
 * 인 타임 (In Time, 2011)
 * 인페르노 (Inferno, 2016)
 * 잭 리처: 네버 고 백 (Jack Reacher: Never Go Back, 2016)
