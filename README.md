@@ -37,6 +37,7 @@
 * 부산행 (TRAIN TO BUSAN, 2016)
 * 블랙 호크 다운 (Black Hawk Down, 2001)
 * 비스틀리 (Beastly, 2011)
+* 사도 (The Throne, 2014)
 * 성룡의 미라클 (奇蹟: Mr Canton And Lady Rose, Miracle, 1989)
 * 성룡의 신주쿠 살인사건 (新宿事件, The Shinjuku Incident, 2008)
 * 성룡의 신화 (神話: The Myth, 2005)
