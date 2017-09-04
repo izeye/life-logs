@@ -29,6 +29,7 @@
 * 미션 임파서블: 로그네이션 (Mission: Impossible - Rogue Nation, 2015)
 * 바스터즈: 거친 녀석들 (Inglourious Basterds, 2009)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
+* 베테랑 (Veteran, 2015)
 * 복수는 나의 것 (Sympathy For Mr. Vengeance, 2002)
 * 본 슈프리머시 (The Bourne Supremacy, 2004)
 * 본 아이덴티티 (The Bourne Identity, 2002)
