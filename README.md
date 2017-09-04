@@ -6,6 +6,7 @@
 * U-571 (2000)
 * 가면 (Rainbow Eyes, 2007)
 * 갓 오브 이집트 (Gods of Egypt, 2016)
+* 검사외전 (A Violent Prosecutor, 2015)
 * 고스트 워
 * 공조 (共助, Confidential Assignment, 2016)
 * 나이트 크롤러 (Nightcrawler, 2014)
