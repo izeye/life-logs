@@ -76,6 +76,7 @@
 * 주토피아 (Zootopia, 2016)
 * 지옥에서 온 전언
 * 천년을 흐르는 사랑 (The Fountain, 2006)
+* 취화선 (醉畵仙, Chihwaseon, 2002)
 * 캡틴 아메리카: 시빌 워 (Captain America: Civil War, 2016)
 * 캡틴 필립스 (Captain Phillips, 2013)
 * 클로버필드 (Cloverfield, 2008)
