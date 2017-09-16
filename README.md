@@ -31,6 +31,7 @@
 * 메이즈 러너: 스코치 트라이얼 (Maze Runner: Scorch Trials, 2015)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 미션 임파서블: 로그네이션 (Mission: Impossible - Rogue Nation, 2015)
+* 미스 슬로운 (Miss Sloane, 2016)
 * 바스터즈: 거친 녀석들 (Inglourious Basterds, 2009)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 베테랑 (Veteran, 2015)
