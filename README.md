@@ -111,6 +111,8 @@
   * Season 2 (Episode 1-13)
 * 마블 루크 케이지 (Marvel's Luke Cage)
   * Season 1 (Episode 1-13)
+* 마블 디펜더스 (Marvel's Defenders)
+  * Season 1 (Episode 1-8)
 * 마블 아이언 피스트 (Marvel's Iron Fist)
   * Season 1 (Episode 1-13)
 * 마블 제시카 존스 (Marvel's Jessica Jones)
