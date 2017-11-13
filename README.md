@@ -97,6 +97,7 @@
 * 클로버필드 (Cloverfield, 2008)
 * 킹스맨: 시크릿 에이전트 (Kingsman: The Secret Service, 2015)
 * 킹스맨: 골든 서클 (Kingsman: The Golden Circle, 2017)
+* 토르: 라그나로크 (Thor: Ragnarok, 2017)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 파라독스 (Paradox, 2016)
 * 퍼시픽 림 (Pacific Rim, 2013)
