@@ -131,6 +131,9 @@
   * Season 1 (Episode 1-13)
 * 비밀의 숲
   * Season 1 (Episode 1-16)
+* 시간 여행자 (Travelers)
+  * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-12)
 * 애로우 (Arrow)
   * Season 1 (Episode 1-23)
   * Season 2 (Episode 1-23)
