@@ -4,6 +4,7 @@
 * 3:10 투 유마 (3:10 To Yuma, 2007)
 * ARQ (2016)
 * U-571 (2000)
+* 가디언즈 (Rise of the Guardians, 2012)
 * 가면 (Rainbow Eyes, 2007)
 * 갓 오브 이집트 (Gods of Egypt, 2016)
 * 걷기왕 (Queen of Walking, 2016)
