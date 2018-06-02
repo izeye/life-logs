@@ -34,6 +34,7 @@
 * 메이즈 러너 (The Maze Runner, 2014)
 * 메이즈 러너: 스코치 트라이얼 (Maze Runner: Scorch Trials, 2015)
 * 모아나 (Moana, 2016)
+* 몬스터 대학교 (Monsters University, 2013)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 미션 임파서블: 로그네이션 (Mission: Impossible - Rogue Nation, 2015)
 * 미스 슬로운 (Miss Sloane, 2016)
