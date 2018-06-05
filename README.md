@@ -8,6 +8,7 @@
 * 가디언즈 오브 갤럭시 (Guardians of the Galaxy, 2014)
 * 가면 (Rainbow Eyes, 2007)
 * 갓 오브 이집트 (Gods of Egypt, 2016)
+* 개구쟁이 스머프 2 (The Smurfs 2, 2013)
 * 걷기왕 (Queen of Walking, 2016)
 * 검사외전 (A Violent Prosecutor, 2015)
 * 고스트 워
