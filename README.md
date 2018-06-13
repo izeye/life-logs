@@ -114,6 +114,8 @@
 ## TV Shows
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
+* 더 할로우 (The Hollow)
+  * Season 1 (Episode 1-10)
 * 루시퍼 (Lucifer)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-18)
