@@ -115,6 +115,13 @@
 ## TV Shows
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
+* 그림 (Grimm)
+  * Season 1 (Episode 1-22)
+  * Season 2 (Episode 1-22)
+  * Season 3 (Episode 1-22)
+  * Season 4 (Episode 1-22)
+  * Season 5 (Episode 1-22)
+  * Season 6 (Episode 1-13)
 * 더 할로우 (The Hollow)
   * Season 1 (Episode 1-10)
 * 루시퍼 (Lucifer)
