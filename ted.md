@@ -3,3 +3,5 @@
   * https://www.ted.com/talks/kasiva_mutua_how_i_use_the_drum_to_tell_my_story
 * Kelly McGonigal: How to make stress your friend
   * https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend
+* Tim Urban: Inside the mind of a master procrastinato
+  * https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator
