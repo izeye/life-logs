@@ -82,6 +82,7 @@
 * 언피니시드 (The Debt, 2010)
 * 에너미 앳 더 게이트 (Enemy At The Gates, 2001)
 * 에너미 오브 스테이트 (Enemy Of The State, 1998)
+* 엘도라도 (The Road To El Dorado, 2000)
 * 애프터 어스 (After Earth, 2013)
 * 액트 오브 밸러: 최정예 특수부대 (Act of Valor, 2011)
 * 앤트맨 (Ant-Man, 2015)
