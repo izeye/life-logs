@@ -22,6 +22,7 @@
 * 더 울프 오브 월 스트리트 (The Wolf of Wall Street, 2013)
 * 더 킹 (The King, 2016)
 * 데드풀 (Deadpool, 2016)
+* 도라에몽:스탠바이미 (Stand by Me Doraemon, 2014)
 * 돈 세이 워드 (Don't Say A Word, 2001)
 * 둠 (Doom, 2005)
 * 럭키 (LUCK-KEY, 2015)
