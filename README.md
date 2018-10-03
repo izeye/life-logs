@@ -59,6 +59,7 @@
 * 소스 코드 (Source Code, 2011)
 * 슈퍼 에이트 (Super 8, 2011)
 * 스니치 (Snitch, 2013)
+* 스머프: 비밀의 숲 (Smurfs: The Lost Village, 2017)
 * 스물 (Twenty, 2014)
 * 스카페이스 (Scarface, 1983)
 * 스타게이트 (Stargate, 1994)
