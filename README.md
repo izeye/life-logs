@@ -146,6 +146,7 @@
   * Season 1 (Episode 1-8)
 * 마블 아이언 피스트 (Marvel's Iron Fist)
   * Season 1 (Episode 1-13)
+  * Season 2 (Episode 1-10)
 * 마블 제시카 존스 (Marvel's Jessica Jones)
   * Season 1 (Episode 1-13)
 * 마블 퍼니셔 (The Punisher)
