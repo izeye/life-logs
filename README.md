@@ -12,6 +12,7 @@
 * 걷기왕 (Queen of Walking, 2016)
 * 검사외전 (A Violent Prosecutor, 2015)
 * 고스트 워
+* 곰돌이 푸 다시 만나 행복해 (Christopher Robin, 2018)
 * 공조 (共助, Confidential Assignment, 2016)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
