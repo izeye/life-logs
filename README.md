@@ -149,6 +149,7 @@
 * 마블 데어데블 (Marvel's Daredevil)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-13)
+  * Season 3 (Episode 1-13)
 * 마블 루크 케이지 (Marvel's Luke Cage)
   * Season 1 (Episode 1-13)
 * 마블 디펜더스 (Marvel's Defenders)
