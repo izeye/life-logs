@@ -196,3 +196,7 @@
   * Season 3 (Episode 1-23)
 * 한자와 나오키 (半沢直樹)
   * Season 1 (Episode 1-10)
+
+## Cartoon
+* 라바 아일랜드 (Larva Island)
+  * Season 1 (Episode 1-13)
