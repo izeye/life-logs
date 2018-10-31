@@ -194,6 +194,7 @@
   * Season 1 (Episode 1-23)
   * Season 2 (Episode 1-23)
   * Season 3 (Episode 1-23)
+  * Season 4 (Episode 1-23)
 * 한자와 나오키 (半沢直樹)
   * Season 1 (Episode 1-10)
 
