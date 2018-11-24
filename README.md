@@ -68,6 +68,7 @@
 * 스테이시스 (Stasis, 2017)
 * 스파이 게임 (Spy Game, 2001)
 * 스파이더맨: 홈커밍 (Spider-Man: Homecoming, 2017)
+* 스파이더위크가의 비밀 (The Spiderwick Chronicles, 2008)
 * 스플릿 (Split, 2016)
 * 슬로우 웨스트 (Slow West, 2015)
 * 시카리오: 암살자의 도시 (Sicario, 2015)
