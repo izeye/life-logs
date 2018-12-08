@@ -203,3 +203,5 @@
 ## Cartoons
 * 라바 아일랜드 (Larva Island)
   * Season 1 (Episode 1-13)
+* 요괴워치 (妖怪 ウォッチ)
+  * Season 1 (Episode 1-26)
