@@ -113,6 +113,7 @@
 * 취화선 (醉畵仙, Chihwaseon, 2002)
 * 캡틴 아메리카: 시빌 워 (Captain America: Civil War, 2016)
 * 캡틴 필립스 (Captain Phillips, 2013)
+* 코코 (Coco, 2017)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
 * 클로버필드 (Cloverfield, 2008)
 * 킹스맨: 시크릿 에이전트 (Kingsman: The Secret Service, 2015)
