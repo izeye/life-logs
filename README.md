@@ -26,6 +26,7 @@
 * 도라에몽:스탠바이미 (Stand by Me Doraemon, 2014)
 * 돈 세이 워드 (Don't Say A Word, 2001)
 * 둠 (Doom, 2005)
+* 라이온 킹 (The Lion King, 1994)
 * 럭키 (LUCK-KEY, 2015)
 * 런던 해즈 폴른 (London Has Fallen, 2016)
 * 레인 오브 파이어 (Reign Of Fire, 2002)
