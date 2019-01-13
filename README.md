@@ -74,6 +74,7 @@
 * 스플릿 (Split, 2016)
 * 슬로우 웨스트 (Slow West, 2015)
 * 시카리오: 암살자의 도시 (Sicario, 2015)
+* 신과함께-인과 연 (Along with the Gods: The Last 49 Days, 2017)
 * 신비한 동물사전 (Fantastic Beasts and Where to Find Them, 2016)
 * 싱크로니시티 (Synchronicity, 2016)
 * 써클 (Circle, 2015)
