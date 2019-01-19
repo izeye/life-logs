@@ -145,6 +145,7 @@
 * 루시퍼 (Lucifer)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-18)
+  * Season 3 (Episode 1-26)
 * 리갈 하이 (リーガル・ハイ)
   * Season 1 (Episode 1-11)
   * Season 2 (Episode 1-10)
