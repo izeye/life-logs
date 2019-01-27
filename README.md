@@ -170,6 +170,7 @@
   * Season 1 (Episode 1-13)
 * 마블 퍼니셔 (The Punisher)
   * Season 1 (Episode 1-13)
+  * Season 2 (Episode 1-13)
 * 비밀의 숲
   * Season 1 (Episode 1-16)
 * 시간 여행자 (Travelers)
