@@ -33,6 +33,7 @@
 * 레인 오브 파이어 (Reign Of Fire, 2002)
 * 로건 (Logan, 2017)
 * 로우리스 : 나쁜 영웅들 (Lawless, 2012)
+* 리벤져 (Revenger, 2018)
 * 리크루트 (The Recruit, 2003)
 * 마스터 (Master, 2016)
 * 마파도 2 (Mapado 2, 2007)
