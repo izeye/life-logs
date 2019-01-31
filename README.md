@@ -208,6 +208,8 @@
   * Season 6 (Episode 1-16)
   * Season 7 (Episode 1-16)
   * Season 8 (Episode 1-16)
+* 킹덤 (Kingdom)
+  * Season 1 (Episode 1-6)
 * 타임리스 (Timeless)
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-10)
