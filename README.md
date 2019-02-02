@@ -114,6 +114,7 @@
 * 제이슨 본 (JASON BOURNE, 2016)
 * 존 윅 - 리로드 (John Wick Chapter Two, 2017)
 * 주토피아 (Zootopia, 2016)
+* 쥬만지 (Jumanji, 1995)
 * 지옥에서 온 전언
 * 차일드 44 (Child 44, 2015)
 * 천국의 우편배달부 (Postman To Heaven, 2009)
