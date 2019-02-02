@@ -63,6 +63,7 @@
 * 성룡의 신주쿠 살인사건 (新宿事件, The Shinjuku Incident, 2008)
 * 성룡의 신화 (神話: The Myth, 2005)
 * 소스 코드 (Source Code, 2011)
+* 슈퍼배드 (Despicable Me, 2010)
 * 슈퍼 에이트 (Super 8, 2011)
 * 스니치 (Snitch, 2013)
 * 스머프: 비밀의 숲 (Smurfs: The Lost Village, 2017)
