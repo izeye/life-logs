@@ -57,6 +57,7 @@
 * 부산행 (TRAIN TO BUSAN, 2016)
 * 분노의 질주: 더 세븐 (Fast & Furious 7, 2015)
 * 블랙 호크 다운 (Black Hawk Down, 2001)
+* 블리치 (Bleach, 2018)
 * 비스틀리 (Beastly, 2011)
 * 사도 (The Throne, 2014)
 * 성룡의 미라클 (奇蹟: Mr Canton And Lady Rose, Miracle, 1989)
