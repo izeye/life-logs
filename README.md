@@ -227,6 +227,8 @@
   * Season 1 (Episode 1-10)
 
 ## Cartoons
+* BLEACH
+  * Episode 1-63
 * 라바 아일랜드 (Larva Island)
   * Season 1 (Episode 1-13)
 * 요괴워치 (妖怪 ウォッチ)
