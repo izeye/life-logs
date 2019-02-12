@@ -222,7 +222,7 @@
   * Season 1 (Episode 1-6)
 * 타임리스 (Timeless)
   * Season 1 (Episode 1-16)
-  * Season 2 (Episode 1-10)
+  * Season 2 (Episode 1-12)
 * 플래시 (The Flash)
   * Season 1 (Episode 1-23)
   * Season 2 (Episode 1-23)
