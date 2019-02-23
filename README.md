@@ -143,6 +143,9 @@
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
 
 ## TV Shows
+* 12 몽키즈 (12 Monkeys)
+  * Season 1 (Episode 1-13)
+  * Season 2 (Episode 1-13)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
 * 그림 (Grimm)
