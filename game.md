@@ -8,3 +8,8 @@
   * https://www.youtube.com/watch?v=15Qso9aiw7I
 * Top 5 Tips for Mario Kart 8 Deluxe Domination!
   * https://www.youtube.com/watch?v=KR1LNQptuYw
+
+## Board games
+### Pokémon Trading Card Game
+* 포켓몬 카드 게임이란?
+  * https://pokemonkorea.co.kr/card/147
