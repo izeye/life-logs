@@ -51,6 +51,7 @@
 * 미스 슬로운 (Miss Sloane, 2016)
 * 바스터즈: 거친 녀석들 (Inglourious Basterds, 2009)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
+* 베놈 (Venom, 2018)
 * 베테랑 (Veteran, 2015)
 * 복수는 나의 것 (Sympathy For Mr. Vengeance, 2002)
 * 본 슈프리머시 (The Bourne Supremacy, 2004)
