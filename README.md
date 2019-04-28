@@ -147,6 +147,7 @@
 * 해리 포터와 아즈카반의 죄수 (Harry Potter And The Prisoner Of Azkaban, 2004)
 * 해리 포터와 불의 잔 (Harry Potter And The Goblet Of Fire, 2005)
 * 해리 포터와 불사조 기사단 (Harry Potter And The Order Of The Phoenix, 2007)
+* 해리 포터와 혼혈 왕자 (Harry Potter And The Half-Blood Prince, 2009)
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
 
 ## TV Shows
