@@ -206,6 +206,8 @@
   * Season 3 (Episode 1-23)
   * Season 4 (Episode 1-23)
   * Season 5 (Episode 1-23)
+* 엄브렐러 아카데미 (Umbrella Academy)
+  * Season 1 (Episode 1-10)
 * 에이전트 오브 쉴.드. (Agents of S.H.I.E.L.D.)
   * Season 1 (Episode 1-22)
   * Season 2 (Episode 1-22)
