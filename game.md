@@ -1,4 +1,9 @@
 # Games
+## Android
+### Pokémon Go
+* HOW TO THROW THE PERFECT CURVEBALL IN POKÉMON GO
+  * https://www.youtube.com/watch?v=J1nAdDEO-Hs
+
 ## iPad
 * The Birdcage
 
