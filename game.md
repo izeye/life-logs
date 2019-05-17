@@ -21,3 +21,8 @@
 ### Pokémon Trading Card Game
 * 포켓몬 카드 게임이란?
   * https://pokemonkorea.co.kr/card/147
+
+## Etc.
+### Cat's cradle
+* String games: how to do a cat's cradle string figure
+  * https://www.youtube.com/watch?v=HTSxcN9Ih5M
