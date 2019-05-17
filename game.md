@@ -24,5 +24,7 @@
 
 ## Etc.
 ### Cat's cradle
+* How to do Cat's Cradle EASY! Step by step, with string
+  * https://www.youtube.com/watch?v=VpHTPnrYLzQ
 * String games: how to do a cat's cradle string figure
   * https://www.youtube.com/watch?v=HTSxcN9Ih5M
