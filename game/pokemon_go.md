@@ -16,6 +16,9 @@
 ### Growlithe
 * Korean name: 가디
 
+### Makuhita
+* Korean name: 마크탕
+
 ### Numel
 * Korean name: 둔타
 
