@@ -10,6 +10,9 @@
 ### Clefairy
 * Korean name: 삐삐
 
+### Geodude
+* Korean name: 꼬마돌
+
 ### Growlithe
 * Korean name: 가디
 
