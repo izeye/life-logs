@@ -30,3 +30,6 @@
 
 ### Whismur
 * Korean name: 소곤룡
+
+### Wurmple
+* Korean name: 개무소
