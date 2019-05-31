@@ -16,6 +16,9 @@
 ### Growlithe
 * Korean name: 가디
 
+### Hippopotas
+* Korean name: 히포포타스
+
 ### Makuhita
 * Korean name: 마크탕
 
