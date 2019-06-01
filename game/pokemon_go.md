@@ -34,6 +34,9 @@
 ### Squirtle
 * Korean name: 꼬부기
 
+### Starly
+* Korean name: 찌르꼬
+
 ### Surskit
 * Korean name: 비구술
 
