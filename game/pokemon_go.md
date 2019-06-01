@@ -30,6 +30,9 @@
 ### Drowzee
 * Korean name: 슬리프
 
+### Farfetch'd
+* Korean name: 파오리
+
 ### Finneon
 * Korean name: 형광어
 
