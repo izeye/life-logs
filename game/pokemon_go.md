@@ -9,6 +9,9 @@
 ### Barboach
 * Korean name: 미꾸리
 
+### Bidoof
+* Korean name: 비버니
+
 ### Bellsprout
 * Korean name: 모다피
 
