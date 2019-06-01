@@ -48,6 +48,9 @@
 ### Makuhita
 * Korean name: 마크탕
 
+### Masquerain
+* Korean name: 비나방
+
 ### Meowth
 * Korean name: 나옹
 
