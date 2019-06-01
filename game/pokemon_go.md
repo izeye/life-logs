@@ -24,6 +24,9 @@
 ### Clefairy
 * Korean name: 삐삐
 
+### Drowzee
+* Korean name: 슬리프
+
 ### Finneon
 * Korean name: 형광어
 
