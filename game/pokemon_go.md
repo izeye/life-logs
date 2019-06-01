@@ -57,6 +57,9 @@
 ### Plusle
 * Korean name: 플러시
 
+### Poochyena
+* Korean name: 포챠나
+
 ### Snorlax
 * Korean name: 잠만보
 
