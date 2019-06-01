@@ -60,6 +60,9 @@
 ### Surskit
 * Korean name: 비구술
 
+### Torchic
+* Korean name: 아차모
+
 ### Whismur
 * Korean name: 소곤룡
 
