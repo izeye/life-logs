@@ -1,5 +1,8 @@
 # Pokémon Go
 ## Pokémon
+### Abra
+* Korean name: 캐이시
+
 ### Aipom
 * Korean name: 에이팜
 
