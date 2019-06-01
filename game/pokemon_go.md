@@ -111,6 +111,9 @@
 ### Torchic
 * Korean name: 아차모
 
+### Voltorb
+* Korean name: 찌리리공
+
 ### Whismur
 * Korean name: 소곤룡
 
