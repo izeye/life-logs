@@ -69,6 +69,9 @@
 ### Minun
 * Korean name: 마이농
 
+### Natu
+* Korean name: 네이티
+
 ### Numel
 * Korean name: 둔타
 
