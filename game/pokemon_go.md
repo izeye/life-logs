@@ -69,6 +69,9 @@
 ### Minun
 * Korean name: 마이농
 
+### Murkrow
+* Korean name: 니로우
+
 ### Natu
 * Korean name: 네이티
 
