@@ -30,6 +30,9 @@
 ### Hippopotas
 * Korean name: 히포포타스
 
+### Hoothoot
+* Korean name: 부우부
+
 ### Koffing
 * Korean name: 또가스
 
