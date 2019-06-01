@@ -69,6 +69,9 @@
 ### Poochyena
 * Korean name: 포챠나
 
+### Slugma
+* Korean name: 마그마그
+
 ### Snorlax
 * Korean name: 잠만보
 
