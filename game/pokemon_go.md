@@ -1,8 +1,10 @@
 # Pokémon Go
-
 ## Pokémon
 ### Barboach
 * Korean name: 미꾸리
+
+### Bellsprout
+* Korean name: 모다피
 
 ### Castform
 * Korean name: 캐스퐁
