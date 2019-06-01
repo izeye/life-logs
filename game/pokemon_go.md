@@ -54,6 +54,9 @@
 ### Numel
 * Korean name: 둔타
 
+### Piplup
+* Korean name: 팽도리
+
 ### Plusle
 * Korean name: 플러시
 
