@@ -27,6 +27,9 @@
 ### Makuhita
 * Korean name: 마크탕
 
+### Minun
+* Korean name: 마이농
+
 ### Numel
 * Korean name: 둔타
 
