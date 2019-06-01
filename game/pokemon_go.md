@@ -18,6 +18,9 @@
 ### Clefairy
 * Korean name: 삐삐
 
+### Finneon
+* Korean name: 형광어
+
 ### Geodude
 * Korean name: 꼬마돌
 
