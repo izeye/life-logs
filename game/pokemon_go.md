@@ -48,6 +48,9 @@
 ### Hoothoot
 * Korean name: 부우부
 
+### Jynx
+* Korean name: 루주라
+
 ### Koffing
 * Korean name: 또가스
 
