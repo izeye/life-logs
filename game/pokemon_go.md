@@ -27,6 +27,9 @@
 ### Hippopotas
 * Korean name: 히포포타스
 
+### Machop
+* Korean name: 알통몬
+
 ### Makuhita
 * Korean name: 마크탕
 
