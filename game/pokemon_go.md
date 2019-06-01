@@ -69,6 +69,9 @@
 ### Poochyena
 * Korean name: 포챠나
 
+### Rattata
+* Korean name: 꼬렛
+
 ### Slugma
 * Korean name: 마그마그
 
