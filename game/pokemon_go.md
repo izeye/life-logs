@@ -18,6 +18,9 @@
 ### Castform
 * Korean name: 캐스퐁
 
+### Cherrim
+* Korean name: 체리꼬
+
 ### Chimchar
 * Korean name: 불꽃숭이
 
