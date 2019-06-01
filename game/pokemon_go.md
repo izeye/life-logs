@@ -30,6 +30,9 @@
 ### Hippopotas
 * Korean name: 히포포타스
 
+### Koffing
+* Korean name: 또가스
+
 ### Machop
 * Korean name: 알통몬
 
