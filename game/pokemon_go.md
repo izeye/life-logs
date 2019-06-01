@@ -92,3 +92,6 @@
 
 ### Wurmple
 * Korean name: 개무소
+
+### Zubat
+* Korean name: 주뱃
