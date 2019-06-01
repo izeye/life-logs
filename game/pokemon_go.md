@@ -18,6 +18,9 @@
 ### Growlithe
 * Korean name: 가디
 
+### Gulpin
+* Korean name: 꼴깍몬
+
 ### Hippopotas
 * Korean name: 히포포타스
 
