@@ -18,6 +18,9 @@
 ### Castform
 * Korean name: 캐스퐁
 
+### Chimchar
+* Korean name: 불꽃숭이
+
 ### Clefairy
 * Korean name: 삐삐
 
