@@ -36,6 +36,9 @@
 ### Makuhita
 * Korean name: 마크탕
 
+### Meowth
+* Korean name: 나옹
+
 ### Minun
 * Korean name: 마이농
 
