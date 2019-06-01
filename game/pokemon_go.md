@@ -1,5 +1,8 @@
 # Pokémon Go
 ## Pokémon
+### Aipom
+* Korean name: 에이팜
+
 ### Barboach
 * Korean name: 미꾸리
 
