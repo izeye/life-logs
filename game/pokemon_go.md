@@ -6,6 +6,9 @@
 ### Bellsprout
 * Korean name: 모다피
 
+### Burmy
+* Korean name: 도롱충이
+
 ### Castform
 * Korean name: 캐스퐁
 
