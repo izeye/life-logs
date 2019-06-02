@@ -78,6 +78,9 @@
 ### Makuhita
 * Korean name: 마크탕
 
+### Mantine
+* Korean name: 만타인
+
 ### Masquerain
 * Korean name: 비나방
 
