@@ -126,6 +126,9 @@
 ### Surskit
 * Korean name: 비구술
 
+### Swablu
+* Korean name: 파비코
+
 ### Taillow
 * Korean name: 테일로
 
