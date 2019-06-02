@@ -108,6 +108,9 @@
 ### Plusle
 * Korean name: 플러시
 
+### Ponyta
+* Korean name: 포니타
+
 ### Poochyena
 * Korean name: 포챠나
 
