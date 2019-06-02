@@ -72,6 +72,9 @@
 ### Masquerain
 * Korean name: 비나방
 
+### Meditite
+* Korean name: 요가랑
+
 ### Meowth
 * Korean name: 나옹
 
