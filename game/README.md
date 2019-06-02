@@ -21,6 +21,9 @@
 ### Pokémon Trading Card Game
 * 포켓몬 카드 게임이란?
   * https://pokemonkorea.co.kr/card/147
+### Tetris Link
+* Official Tetris Link Game Rules
+  * http://www.boardgamecapital.com/game_rules/tetris-link.pdf
 
 ## Etc.
 ### Cat's cradle
