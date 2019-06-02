@@ -63,6 +63,9 @@
 ### Koffing
 * Korean name: 또가스
 
+### Lileep
+* Korean name: 릴링
+
 ### Machop
 * Korean name: 알통몬
 
