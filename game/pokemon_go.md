@@ -63,6 +63,9 @@
 ### Machop
 * Korean name: 알통몬
 
+### Magikarp
+* Korean name: 잉어킹
+
 ### Makuhita
 * Korean name: 마크탕
 
