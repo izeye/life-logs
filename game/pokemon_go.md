@@ -18,6 +18,9 @@
 ### Burmy
 * Korean name: 도롱충이
 
+### Cacnea
+* Korean name: 선인왕
+
 ### Castform
 * Korean name: 캐스퐁
 
