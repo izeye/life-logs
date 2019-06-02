@@ -90,6 +90,9 @@
 ### Natu
 * Korean name: 네이티
 
+### Nosepass
+* Korean name: 네이티
+
 ### Numel
 * Korean name: 둔타
 
