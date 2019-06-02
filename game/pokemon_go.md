@@ -111,6 +111,9 @@
 ### Surskit
 * Korean name: 비구술
 
+### Taillow
+* Korean name: 테일로
+
 ### Torchic
 * Korean name: 아차모
 
