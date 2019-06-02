@@ -3,6 +3,9 @@
 ### Abra
 * Korean name: 캐이시
 
+### Aerodactyl
+* Korean name: 프테라
+
 ### Aipom
 * Korean name: 에이팜
 
