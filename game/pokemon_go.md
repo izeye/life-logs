@@ -126,6 +126,9 @@
 ### Rattata
 * Korean name: 꼬렛
 
+### Rhyhorn
+* Korean name: 뿔카노
+
 ### Slugma
 * Korean name: 마그마그
 
