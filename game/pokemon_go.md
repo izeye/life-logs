@@ -24,6 +24,9 @@
 ### Cacnea
 * Korean name: 선인왕
 
+### Carvanha
+* Korean name: 샤프니아
+
 ### Castform
 * Korean name: 캐스퐁
 
