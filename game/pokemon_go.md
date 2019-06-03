@@ -153,5 +153,8 @@
 ### Wurmple
 * Korean name: 개무소
 
+### Zigzagoon
+* Korean name: 지그제구리
+
 ### Zubat
 * Korean name: 주뱃
