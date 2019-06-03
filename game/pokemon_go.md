@@ -39,6 +39,9 @@
 ### Clefairy
 * Korean name: 삐삐
 
+### Cyndaquil
+* Korean name: 브케인
+
 ### Drowzee
 * Korean name: 슬리프
 
