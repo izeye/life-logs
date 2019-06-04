@@ -141,6 +141,9 @@
 ### Starly
 * Korean name: 찌르꼬
 
+### Stunky
+* Korean name: 스컹뿡
+
 ### Surskit
 * Korean name: 비구술
 
