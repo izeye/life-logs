@@ -135,6 +135,9 @@
 ### Shellos
 * Korean name: 깝질무
 
+### Shroomish
+* Korean name: 버섯꼬
+
 ### Slugma
 * Korean name: 마그마그
 
