@@ -54,6 +54,9 @@
 ### Duskull
 * Korean name: 해골몽
 
+### Ekans
+* Korean name: 아보
+
 ### Farfetch'd
 * Korean name: 파오리
 
