@@ -117,6 +117,9 @@
 ### Minun
 * Korean name: 마이농
 
+### Mudkip
+* Korean name: 물짱이
+
 ### Murkrow
 * Korean name: 니로우
 
