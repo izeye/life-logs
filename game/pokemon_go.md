@@ -9,6 +9,9 @@
 ### Aipom
 * Korean name: 에이팜
 
+### Baltoy
+* Korean name: 오뚝군
+
 ### Barboach
 * Korean name: 미꾸리
 
