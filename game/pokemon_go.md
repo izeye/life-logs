@@ -75,6 +75,9 @@
 ### Jynx
 * Korean name: 루주라
 
+### Kabuto
+* Korean name: 투구
+
 ### Koffing
 * Korean name: 또가스
 
