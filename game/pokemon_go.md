@@ -129,6 +129,9 @@
 ### Rhyhorn
 * Korean name: 뿔카노
 
+### Shellos
+* Korean name: 깝질무
+
 ### Slugma
 * Korean name: 마그마그
 
