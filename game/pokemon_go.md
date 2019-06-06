@@ -189,6 +189,9 @@
 ### Voltorb
 * Korean name: 찌리리공
 
+### Vulpix
+* Korean name: 식스테일
+
 ### Whismur
 * Korean name: 소곤룡
 
