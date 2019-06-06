@@ -48,6 +48,9 @@
 ### Drowzee
 * Korean name: 슬리프
 
+### Duskull
+* Korean name: 해골몽
+
 ### Farfetch'd
 * Korean name: 파오리
 
