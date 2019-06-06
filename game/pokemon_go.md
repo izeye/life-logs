@@ -33,6 +33,9 @@
 ### Castform
 * Korean name: 캐스퐁
 
+### Charmander
+* Korean name: 파이리
+
 ### Cherrim
 * Korean name: 체리꼬
 
