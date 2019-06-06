@@ -15,6 +15,9 @@
 ### Barboach
 * Korean name: 미꾸리
 
+### Beldum
+* Korean name: 메탕
+
 ### Bellsprout
 * Korean name: 모다피
 
