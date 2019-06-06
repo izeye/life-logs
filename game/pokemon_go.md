@@ -93,6 +93,9 @@
 ### Mantine
 * Korean name: 만타인
 
+### Mareep
+* Korean name: 메리프
+
 ### Masquerain
 * Korean name: 비나방
 
