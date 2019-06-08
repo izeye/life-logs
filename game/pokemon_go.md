@@ -96,6 +96,9 @@
 ### Koffing
 * Korean name: 또가스
 
+### Larvitar
+* Korean name: 애버라스
+
 ### Lileep
 * Korean name: 릴링
 
