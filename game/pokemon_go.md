@@ -9,6 +9,9 @@
 ### Aipom
 * Korean name: 에이팜
 
+### Anorith
+* Korean name: 아노딥스
+
 ### Baltoy
 * Korean name: 오뚝군
 
