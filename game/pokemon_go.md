@@ -30,6 +30,9 @@
 ### Breloom
 * Korean name: 버섯모
 
+### Budew
+* Korean name: 꼬몽울
+
 ### Burmy
 * Korean name: 도롱충이
 
