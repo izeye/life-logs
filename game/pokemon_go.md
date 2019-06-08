@@ -207,6 +207,9 @@
 ### Torchic
 * Korean name: 아차모
 
+### Turtwig
+* Korean name: 모부기
+
 ### Voltorb
 * Korean name: 찌리리공
 
