@@ -243,6 +243,9 @@
 ### Turtwig
 * Korean name: 모부기
 
+### Venonat
+* Korean name: 콘팡
+
 ### Volbeat
 * Korean name: 볼비트
 
