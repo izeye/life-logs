@@ -183,6 +183,9 @@
 ### Shroomish
 * Korean name: 버섯꼬
 
+### Shuckle
+* Korean name: 단단지
+
 ### Skitty
 * Korean name: 에나비
 
