@@ -87,6 +87,9 @@
 ### Hoothoot
 * Korean name: 부우부
 
+### Hoppip
+* Korean name: 통통코
+
 ### Jynx
 * Korean name: 루주라
 
