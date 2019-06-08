@@ -24,6 +24,9 @@
 ### Bidoof
 * Korean name: 비버니
 
+### Breloom
+* Korean name: 버섯모
+
 ### Burmy
 * Korean name: 도롱충이
 
