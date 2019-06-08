@@ -159,6 +159,9 @@
 ### Poochyena
 * Korean name: 포챠나
 
+### Psyduck
+* Korean name: 고라파덕
+
 ### Rattata
 * Korean name: 꼬렛
 
