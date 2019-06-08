@@ -45,6 +45,9 @@
 ### Cherrim
 * Korean name: 체리꼬
 
+### Chikorita
+* Korean name: 치코리타
+
 ### Chimchar
 * Korean name: 불꽃숭이
 
