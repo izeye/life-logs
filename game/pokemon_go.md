@@ -168,6 +168,9 @@
 ### Shroomish
 * Korean name: 버섯꼬
 
+### Skitty
+* Korean name: 에나비
+
 ### Slugma
 * Korean name: 마그마그
 
