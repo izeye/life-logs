@@ -231,6 +231,9 @@
 ### Vulpix
 * Korean name: 식스테일
 
+### Whiscash
+* Korean name: 메깅
+
 ### Whismur
 * Korean name: 소곤룡
 
