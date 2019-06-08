@@ -186,6 +186,9 @@
 ### Rhyhorn
 * Korean name: 뿔카노
 
+### Roselia
+* Korean name: 로젤리아
+
 ### Sableye
 * Korean name: 깜까미
 
