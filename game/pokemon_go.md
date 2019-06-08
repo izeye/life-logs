@@ -243,6 +243,9 @@
 ### Turtwig
 * Korean name: 모부기
 
+### Volbeat
+* Korean name: 볼비트
+
 ### Voltorb
 * Korean name: 찌리리공
 
