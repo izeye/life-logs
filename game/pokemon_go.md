@@ -183,6 +183,9 @@
 ### Rhyhorn
 * Korean name: 뿔카노
 
+### Sableye
+* Korean name: 깜까미
+
 ### Shellos
 * Korean name: 깝질무
 
