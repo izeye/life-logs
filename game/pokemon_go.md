@@ -159,6 +159,9 @@
 ### Numel
 * Korean name: 둔타
 
+### Onix
+* Korean name: 롱스톤
+
 ### Piplup
 * Korean name: 팽도리
 
