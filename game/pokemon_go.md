@@ -210,6 +210,9 @@
 ### Snorlax
 * Korean name: 잠만보
 
+### Spoink
+* Korean name: 피그점프
+
 ### Squirtle
 * Korean name: 꼬부기
 
