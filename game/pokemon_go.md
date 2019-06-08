@@ -165,8 +165,11 @@
 ### Onix
 * Korean name: 롱스톤
 
-### Piplup
+### Pinsir
 * Korean name: 팽도리
+
+### Piplup
+* Korean name: 쁘사이저
 
 ### Plusle
 * Korean name: 플러시
