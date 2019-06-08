@@ -36,6 +36,9 @@
 ### Cacnea
 * Korean name: 선인왕
 
+### Camerupt
+* Korean name: 폭타
+
 ### Carvanha
 * Korean name: 샤프니아
 
