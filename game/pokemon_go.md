@@ -204,6 +204,9 @@
 ### Swablu
 * Korean name: 파비코
 
+### Swalot
+* Korean name: 꿀꺽몬
+
 ### Taillow
 * Korean name: 테일로
 
