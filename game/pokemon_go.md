@@ -51,6 +51,9 @@
 ### Clefairy
 * Korean name: 삐삐
 
+### Croagunk
+* Korean name: 삐딱구리
+
 ### Cyndaquil
 * Korean name: 브케인
 
