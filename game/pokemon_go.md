@@ -166,10 +166,10 @@
 * Korean name: 롱스톤
 
 ### Pinsir
-* Korean name: 팽도리
+* Korean name: 쁘사이저
 
 ### Piplup
-* Korean name: 쁘사이저
+* Korean name: 팽도리
 
 ### Plusle
 * Korean name: 플러시
