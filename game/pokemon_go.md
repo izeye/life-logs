@@ -120,6 +120,9 @@
 ### Minun
 * Korean name: 마이농
 
+### Misdreavus
+* Korean name: 무우마
+
 ### Mudkip
 * Korean name: 물짱이
 
