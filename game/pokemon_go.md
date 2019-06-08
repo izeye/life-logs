@@ -213,6 +213,9 @@
 ### Whismur
 * Korean name: 소곤룡
 
+### Wooper
+* Korean name: 우파
+
 ### Wurmple
 * Korean name: 개무소
 
