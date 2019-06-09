@@ -16,6 +16,8 @@
 ### Pokémon: Let's Go, Pikachu!
 * Pokemon Let's Go: 7 tips before you play
   * https://www.youtube.com/watch?v=HB0UkSjbuWA
+* Where to Find Tea in Pokemon Let’s Go
+  * https://heavy.com/games/2018/11/tea-pokemon-lets-go/
 
 ## Board games
 ### Pokémon Trading Card Game
