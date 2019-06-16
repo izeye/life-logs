@@ -15,6 +15,7 @@
 * 고스트 워
 * 곰돌이 푸 다시 만나 행복해 (Christopher Robin, 2018)
 * 공조 (共助, Confidential Assignment, 2016)
+* 극장판 포켓몬스터 너로 정했다! (Pokemon the movie: I Choose You!, 2017)
 * 극한직업 (Extreme Job, 2018)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
