@@ -156,6 +156,9 @@
 ### Natu
 * Korean name: 네이티
 
+### Nidoran♀
+* Korean name: 니드런♀
+
 ### Nosepass
 * Korean name: 네이티
 
