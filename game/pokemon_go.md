@@ -162,6 +162,9 @@
 ### Numel
 * Korean name: 둔타
 
+### Omanyte
+* Korean name: 암나이트
+
 ### Onix
 * Korean name: 롱스톤
 
