@@ -195,6 +195,9 @@
 ### Sableye
 * Korean name: 깜까미
 
+### Seedot
+* Korean name: 도토링
+
 ### Shellos
 * Korean name: 깝질무
 
