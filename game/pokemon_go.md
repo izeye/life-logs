@@ -66,6 +66,9 @@
 ### Clefairy
 * Korean name: 삐삐
 
+### Cradily
+* Korean name: 릴리요
+
 ### Croagunk
 * Korean name: 삐딱구리
 
