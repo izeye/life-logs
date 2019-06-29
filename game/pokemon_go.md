@@ -93,6 +93,9 @@
 ### Geodude
 * Korean name: 꼬마돌
 
+### Graveler
+* Korean name: 데구리
+
 ### Growlithe
 * Korean name: 가디
 
