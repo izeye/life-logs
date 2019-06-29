@@ -135,6 +135,9 @@
 ### Makuhita
 * Korean name: 마크탕
 
+### Mankey
+* Korean name: 망키
+
 ### Mantine
 * Korean name: 만타인
 
