@@ -12,6 +12,9 @@
 ### Anorith
 * Korean name: 아노딥스
 
+### Armaldo
+* Korean name: 아말도
+
 ### Baltoy
 * Korean name: 오뚝군
 
