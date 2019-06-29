@@ -231,6 +231,9 @@
 ### Snorlax
 * Korean name: 잠만보
 
+### Spinarak
+* Korean name: 페이검
+
 ### Spoink
 * Korean name: 피그점프
 
