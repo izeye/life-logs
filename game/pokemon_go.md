@@ -42,6 +42,9 @@
 ### Bulbasaur
 * Korean name: 이상해씨
 
+### Buneary
+* Korean name: 이어롤
+
 ### Burmy
 * Korean name: 도롱충이
 
