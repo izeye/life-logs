@@ -144,6 +144,9 @@
 ### Magcargo
 * Korean name: 마그카르고
 
+### Magikarp
+* Korean name: 잉어킹
+
 ### Magnemite
 * Korean name: 코일
 
