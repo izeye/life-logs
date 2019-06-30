@@ -162,6 +162,9 @@
 ### Masquerain
 * Korean name: 비나방
 
+### Mawile
+* Korean name: 입치트
+
 ### Meditite
 * Korean name: 요가랑
 
