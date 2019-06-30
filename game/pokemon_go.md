@@ -15,6 +15,9 @@
 ### Armaldo
 * Korean name: 아말도
 
+### Aron
+* Korean name: 가보리
+
 ### Baltoy
 * Korean name: 오뚝군
 
