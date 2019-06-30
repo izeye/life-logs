@@ -189,6 +189,9 @@
 ### Onix
 * Korean name: 롱스톤
 
+### Paras
+* Korean name: 파라스
+
 ### Pinsir
 * Korean name: 쁘사이저
 
