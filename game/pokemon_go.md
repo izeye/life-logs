@@ -84,6 +84,9 @@
 ### Duskull
 * Korean name: 해골몽
 
+### Eevee
+* Korean name: 이브이
+
 ### Ekans
 * Korean name: 아보
 
