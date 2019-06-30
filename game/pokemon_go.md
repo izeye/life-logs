@@ -249,6 +249,9 @@
 ### Starly
 * Korean name: 찌르꼬
 
+### Staryu
+* Korean name: 별가사리
+
 ### Stunky
 * Korean name: 스컹뿡
 
