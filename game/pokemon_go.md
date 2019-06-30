@@ -141,6 +141,9 @@
 ### Magikarp
 * Korean name: 잉어킹
 
+### Magnemite
+* Korean name: 코일
+
 ### Makuhita
 * Korean name: 마크탕
 
