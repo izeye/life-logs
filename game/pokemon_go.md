@@ -36,6 +36,9 @@
 ### Budew
 * Korean name: 꼬몽울
 
+### Bulbasaur
+* Korean name: 이상해씨
+
 ### Burmy
 * Korean name: 도롱충이
 
