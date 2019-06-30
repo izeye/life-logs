@@ -141,8 +141,8 @@
 ### Machop
 * Korean name: 알통몬
 
-### Magikarp
-* Korean name: 잉어킹
+### Magcargo
+* Korean name: 마그카르고
 
 ### Magnemite
 * Korean name: 코일
