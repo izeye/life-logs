@@ -285,6 +285,9 @@
 ### Whismur
 * Korean name: 소곤룡
 
+### Wingull
+* Korean name: 갈모매
+
 ### Wooper
 * Korean name: 우파
 
