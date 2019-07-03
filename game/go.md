@@ -4,6 +4,8 @@
   * https://www.youtube.com/watch?v=RYLcQIBPZwA
 * 9줄 바둑판 초급자 시청자 바둑대결 반집승 vs lolㅣ프로연우(바둑,바둑복기,프로기사)
   * https://www.youtube.com/watch?v=1EobeVjaM9c
+* 한게임 9줄 바둑 레이팅 1700에 전승으로 도전해보자! [현재 18연승중]
+  * https://www.youtube.com/watch?v=ioR_jlOa24c
 
 ## WIKIBOOKS
 * 바둑 입문/두는 방법
