@@ -252,6 +252,9 @@
 ### Shuckle
 * Korean name: 단단지
 
+### Shuppet
+* Korean name: 어둠대신
+
 ### Skitty
 * Korean name: 에나비
 
