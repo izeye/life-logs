@@ -117,6 +117,9 @@
 ### Hippopotas
 * Korean name: 히포포타스
 
+### Ho-Oh
+* Korean name: 칠색조
+
 ### Hoothoot
 * Korean name: 부우부
 
