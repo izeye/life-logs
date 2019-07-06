@@ -312,6 +312,9 @@
 ### Vulpix
 * Korean name: 식스테일
 
+### Weedle
+* Korean name: 뿔충이
+
 ### Whiscash
 * Korean name: 메깅
 
