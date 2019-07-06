@@ -297,6 +297,9 @@
 ### Torchic
 * Korean name: 아차모
 
+### Totodile
+* Korean name: 리아코
+
 ### Turtwig
 * Korean name: 모부기
 
