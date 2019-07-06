@@ -105,6 +105,9 @@
 ### Geodude
 * Korean name: 꼬마돌
 
+### Glameow
+* Korean name: 나옹마
+
 ### Graveler
 * Korean name: 데구리
 
