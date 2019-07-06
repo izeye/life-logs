@@ -276,6 +276,9 @@
 ### Stunky
 * Korean name: 스컹뿡
 
+### Sudowoodo
+* Korean name: 꼬지모
+
 ### Surskit
 * Korean name: 비구술
 
