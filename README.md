@@ -199,6 +199,8 @@
   * Season 2 (Episode 1-10)
 * 마블 제시카 존스 (Marvel's Jessica Jones)
   * Season 1 (Episode 1-13)
+  * Season 2 (Episode 1-13)
+  * Season 3 (Episode 1-13)
 * 마블 퍼니셔 (The Punisher)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-13)
