@@ -12,3 +12,7 @@
 ## WIKIBOOKS
 * 바둑 입문/두는 방법
   * https://ko.wikibooks.org/wiki/%EB%B0%94%EB%91%91_%EC%9E%85%EB%AC%B8/%EB%91%90%EB%8A%94_%EB%B0%A9%EB%B2%95
+
+## Articles
+* [바둑] "9점 접바둑은 덤 145집이나 마찬가지"
+  * http://weekly.hankooki.com/whan/199906/w61585.htm
