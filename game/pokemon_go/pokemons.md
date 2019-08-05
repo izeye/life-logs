@@ -1,346 +1,345 @@
-# Pokémon Go
-## Pokémon
-### Abra
+# Pokémon
+## Abra
 * Korean name: 캐이시
 
-### Aerodactyl
+## Aerodactyl
 * Korean name: 프테라
 
-### Aipom
+## Aipom
 * Korean name: 에이팜
 
-### Anorith
+## Anorith
 * Korean name: 아노딥스
 
-### Armaldo
+## Armaldo
 * Korean name: 아말도
 
-### Aron
+## Aron
 * Korean name: 가보리
 
-### Baltoy
+## Baltoy
 * Korean name: 오뚝군
 
-### Barboach
+## Barboach
 * Korean name: 미꾸리
 
-### Beldum
+## Beldum
 * Korean name: 메탕
 
-### Bellsprout
+## Bellsprout
 * Korean name: 모다피
 
-### Bidoof
+## Bidoof
 * Korean name: 비버니
 
-### Breloom
+## Breloom
 * Korean name: 버섯모
 
-### Budew
+## Budew
 * Korean name: 꼬몽울
 
-### Bulbasaur
+## Bulbasaur
 * Korean name: 이상해씨
 
-### Buneary
+## Buneary
 * Korean name: 이어롤
 
-### Burmy
+## Burmy
 * Korean name: 도롱충이
 
-### Cacnea
+## Cacnea
 * Korean name: 선인왕
 
-### Camerupt
+## Camerupt
 * Korean name: 폭타
 
-### Carvanha
+## Carvanha
 * Korean name: 샤프니아
 
-### Castform
+## Castform
 * Korean name: 캐스퐁
 
-### Charmander
+## Charmander
 * Korean name: 파이리
 
-### Cherrim
+## Cherrim
 * Korean name: 체리꼬
 
-### Chikorita
+## Chikorita
 * Korean name: 치코리타
 
-### Chimchar
+## Chimchar
 * Korean name: 불꽃숭이
 
-### Clefairy
+## Clefairy
 * Korean name: 삐삐
 
-### Cradily
+## Cradily
 * Korean name: 릴리요
 
-### Croagunk
+## Croagunk
 * Korean name: 삐딱구리
 
-### Cyndaquil
+## Cyndaquil
 * Korean name: 브케인
 
-### Drowzee
+## Drowzee
 * Korean name: 슬리프
 
-### Duskull
+## Duskull
 * Korean name: 해골몽
 
-### Eevee
+## Eevee
 * Korean name: 이브이
 
-### Ekans
+## Ekans
 * Korean name: 아보
 
-### Farfetch'd
+## Farfetch'd
 * Korean name: 파오리
 
-### Finneon
+## Finneon
 * Korean name: 형광어
 
-### Geodude
+## Geodude
 * Korean name: 꼬마돌
 
-### Glameow
+## Glameow
 * Korean name: 나옹마
 
-### Graveler
+## Graveler
 * Korean name: 데구리
 
-### Growlithe
+## Growlithe
 * Korean name: 가디
 
-### Gulpin
+## Gulpin
 * Korean name: 꼴깍몬
 
-### Hippopotas
+## Hippopotas
 * Korean name: 히포포타스
 
-### Ho-Oh
+## Ho-Oh
 * Korean name: 칠색조
 
-### Hoothoot
+## Hoothoot
 * Korean name: 부우부
 
-### Hoppip
+## Hoppip
 * Korean name: 통통코
 
-### Jynx
+## Jynx
 * Korean name: 루주라
 
-### Kabuto
+## Kabuto
 * Korean name: 투구
 
-### Koffing
+## Koffing
 * Korean name: 또가스
 
-### Larvitar
+## Larvitar
 * Korean name: 애버라스
 
-### Lileep
+## Lileep
 * Korean name: 릴링
 
-### Machop
+## Machop
 * Korean name: 알통몬
 
-### Magcargo
+## Magcargo
 * Korean name: 마그카르고
 
-### Magikarp
+## Magikarp
 * Korean name: 잉어킹
 
-### Magnemite
+## Magnemite
 * Korean name: 코일
 
-### Makuhita
+## Makuhita
 * Korean name: 마크탕
 
-### Mankey
+## Mankey
 * Korean name: 망키
 
-### Mantine
+## Mantine
 * Korean name: 만타인
 
-### Mareep
+## Mareep
 * Korean name: 메리프
 
-### Masquerain
+## Masquerain
 * Korean name: 비나방
 
-### Mawile
+## Mawile
 * Korean name: 입치트
 
-### Meditite
+## Meditite
 * Korean name: 요가랑
 
-### Meowth
+## Meowth
 * Korean name: 나옹
 
-### Minun
+## Minun
 * Korean name: 마이농
 
-### Misdreavus
+## Misdreavus
 * Korean name: 무우마
 
-### Mudkip
+## Mudkip
 * Korean name: 물짱이
 
-### Murkrow
+## Murkrow
 * Korean name: 니로우
 
-### Natu
+## Natu
 * Korean name: 네이티
 
-### Nidoran♀
+## Nidoran♀
 * Korean name: 니드런♀
 
-### Nosepass
+## Nosepass
 * Korean name: 네이티
 
-### Numel
+## Numel
 * Korean name: 둔타
 
-### Omanyte
+## Omanyte
 * Korean name: 암나이트
 
-### Onix
+## Onix
 * Korean name: 롱스톤
 
-### Paras
+## Paras
 * Korean name: 파라스
 
-### Pinsir
+## Pinsir
 * Korean name: 쁘사이저
 
-### Piplup
+## Piplup
 * Korean name: 팽도리
 
-### Plusle
+## Plusle
 * Korean name: 플러시
 
-### Ponyta
+## Ponyta
 * Korean name: 포니타
 
-### Poochyena
+## Poochyena
 * Korean name: 포챠나
 
-### Psyduck
+## Psyduck
 * Korean name: 고라파덕
 
-### Rattata
+## Rattata
 * Korean name: 꼬렛
 
-### Rhyhorn
+## Rhyhorn
 * Korean name: 뿔카노
 
-### Roselia
+## Roselia
 * Korean name: 로젤리아
 
-### Sableye
+## Sableye
 * Korean name: 깜까미
 
-### Seedot
+## Seedot
 * Korean name: 도토링
 
-### Shellos
+## Shellos
 * Korean name: 깝질무
 
-### Shroomish
+## Shroomish
 * Korean name: 버섯꼬
 
-### Shuckle
+## Shuckle
 * Korean name: 단단지
 
-### Shuppet
+## Shuppet
 * Korean name: 어둠대신
 
-### Skitty
+## Skitty
 * Korean name: 에나비
 
-### Slugma
+## Slugma
 * Korean name: 마그마그
 
-### Snorlax
+## Snorlax
 * Korean name: 잠만보
 
-### Spinarak
+## Spinarak
 * Korean name: 페이검
 
-### Spoink
+## Spoink
 * Korean name: 피그점프
 
-### Squirtle
+## Squirtle
 * Korean name: 꼬부기
 
-### Starly
+## Starly
 * Korean name: 찌르꼬
 
-### Staryu
+## Staryu
 * Korean name: 별가사리
 
-### Stunky
+## Stunky
 * Korean name: 스컹뿡
 
-### Sudowoodo
+## Sudowoodo
 * Korean name: 꼬지모
 
-### Surskit
+## Surskit
 * Korean name: 비구술
 
-### Swablu
+## Swablu
 * Korean name: 파비코
 
-### Swalot
+## Swalot
 * Korean name: 꿀꺽몬
 
-### Taillow
+## Taillow
 * Korean name: 테일로
 
-### Torchic
+## Torchic
 * Korean name: 아차모
 
-### Totodile
+## Totodile
 * Korean name: 리아코
 
-### Turtwig
+## Turtwig
 * Korean name: 모부기
 
-### Venonat
+## Venonat
 * Korean name: 콘팡
 
-### Volbeat
+## Volbeat
 * Korean name: 볼비트
 
-### Voltorb
+## Voltorb
 * Korean name: 찌리리공
 
-### Vulpix
+## Vulpix
 * Korean name: 식스테일
 
-### Weedle
+## Weedle
 * Korean name: 뿔충이
 
-### Whiscash
+## Whiscash
 * Korean name: 메깅
 
-### Whismur
+## Whismur
 * Korean name: 소곤룡
 
-### Wingull
+## Wingull
 * Korean name: 갈모매
 
-### Wooper
+## Wooper
 * Korean name: 우파
 
-### Wurmple
+## Wurmple
 * Korean name: 개무소
 
-### Zigzagoon
+## Zigzagoon
 * Korean name: 지그제구리
 
-### Zubat
+## Zubat
 * Korean name: 주뱃
