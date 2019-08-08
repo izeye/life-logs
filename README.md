@@ -104,6 +104,7 @@
 * 어메이징 스파이더맨 2 (The Amazing Spider-Man 2, 2014)
 * 어벤져스: 인피니티 워 (Avengers: Infinity War, 2018)
 * 언피니시드 (The Debt, 2010)
+* 업그레이드 (Upgrade, 2018)
 * 에너미 앳 더 게이트 (Enemy At The Gates, 2001)
 * 에너미 오브 스테이트 (Enemy Of The State, 1998)
 * 엘도라도 (The Road To El Dorado, 2000)
