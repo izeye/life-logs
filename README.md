@@ -110,6 +110,7 @@
 * 애프터 어스 (After Earth, 2013)
 * 액트 오브 밸러: 최정예 특수부대 (Act of Valor, 2011)
 * 앤트맨 (Ant-Man, 2015)
+* 앤트맨과 와스프 (Ant-Man and the Wasp, 2018)
 * 염력 (Psychokinesis, 2017)
 * 오늘의 연애 (Love Forecast, 2014)
 * 옥자 (Okja, 2017)
