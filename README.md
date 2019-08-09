@@ -176,6 +176,7 @@
 * 기묘한 이야기 (Stranger Things)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-9)
+  * Season 3 (Episode 1-8)
 * 더 할로우 (The Hollow)
   * Season 1 (Episode 1-10)
 * 루시퍼 (Lucifer)
