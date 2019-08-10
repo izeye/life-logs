@@ -248,6 +248,9 @@
 ## Sableye
 * Korean name: 깜까미
 
+## Scyther
+* Korean name: 스라크
+
 ## Seedot
 * Korean name: 도토링
 
