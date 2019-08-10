@@ -101,6 +101,9 @@
 ## Finneon
 * Korean name: 형광어
 
+## Gastly
+* Korean name: 고오스
+
 ## Geodude
 * Korean name: 꼬마돌
 
