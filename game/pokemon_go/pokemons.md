@@ -32,6 +32,9 @@
 ## Bidoof
 * Korean name: 비버니
 
+## Bonsly
+* Korean name: 꼬지지
+
 ## Breloom
 * Korean name: 버섯모
 
