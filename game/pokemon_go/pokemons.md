@@ -86,6 +86,9 @@
 ## Cyndaquil
 * Korean name: 브케인
 
+## Drifloon
+* Korean name: 흔들풍손
+
 ## Drowzee
 * Korean name: 슬리프
 
