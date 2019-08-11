@@ -311,6 +311,9 @@
 ## Swalot
 * Korean name: 꿀꺽몬
 
+## Swinub
+* Korean name: 꾸꾸리
+
 ## Taillow
 * Korean name: 테일로
 
