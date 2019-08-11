@@ -137,6 +137,9 @@
 ## Hoppip
 * Korean name: 통통코
 
+## Horsea
+* Korean name: 쏘드라
+
 ## Jynx
 * Korean name: 루주라
 
