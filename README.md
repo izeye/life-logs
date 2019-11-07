@@ -277,6 +277,10 @@
   * Season 5 (Episode 1-22)
 * 한자와 나오키 (半沢直樹)
   * Season 1 (Episode 1-10)
+* 황혼에서 새벽까지: 시리즈 (From Dusk till Dawn: The Series)
+  * Season 1 (Episode 1-10)
+  * Season 2 (Episode 1-10)
+  * Season 3 (Episode 1-10)
 
 ## Cartoons
 * BLEACH
