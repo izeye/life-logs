@@ -291,3 +291,5 @@
   * Season 1 (Episode 1-13)
 * 요괴워치 (妖怪 ウォッチ)
   * Season 1 (Episode 1-26)
+* 토끼네 집을 오세요 (Max & Ruby)
+  * Season 1 (Episode 1)
