@@ -240,6 +240,8 @@
   * Season 3 (Episode 1-23)
   * Season 4 (Episode 1-23)
   * Season 5 (Episode 1-23)
+  * Season 6 (Episode 1-23)
+  * Season 7 (Episode 1-22)
 * 애쉬 vs 이블 데드 (Ash vs Evil Dead)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
