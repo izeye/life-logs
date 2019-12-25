@@ -251,6 +251,7 @@
   * Season 3 (Episode 1-22)
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-22)
+  * Season 6 (Episode 1-13)
 * 워킹 데드 (The Walking Dead)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-13)
