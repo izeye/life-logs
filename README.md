@@ -12,6 +12,7 @@
 * 개구쟁이 스머프 2 (The Smurfs 2, 2013)
 * 걷기왕 (Queen of Walking, 2016)
 * 검사외전 (A Violent Prosecutor, 2015)
+* 겨울왕국 2 (Frozen 2, 2019)
 * 고스트 워
 * 곰돌이 푸 다시 만나 행복해 (Christopher Robin, 2018)
 * 공조 (共助, Confidential Assignment, 2016)
