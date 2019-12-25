@@ -188,6 +188,8 @@
 * 더크 젠틀리의 전체론적 탐정 사무소 (Dirk Gently's Holistic Detective Agency)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-10)
+* 동백꽃 필 무렵
+  * Season 1 (Episode 1-20)
 * 루시퍼 (Lucifer)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-18)
