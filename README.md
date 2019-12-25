@@ -35,6 +35,7 @@
 * 라이온 킹 (The Lion King, 1994)
 * 럭키 (LUCK-KEY, 2015)
 * 런던 해즈 폴른 (London Has Fallen, 2016)
+* 레드슈즈 (Red Shoes, 2019)
 * 레인 오브 파이어 (Reign Of Fire, 2002)
 * 로건 (Logan, 2017)
 * 로우리스 : 나쁜 영웅들 (Lawless, 2012)
