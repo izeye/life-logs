@@ -281,6 +281,8 @@
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-16)
   * Season 3 (Episode 1-16)
+* 위쳐 (The Witcher)
+  * Season 1 (Episode 1-8)
 * 착오 (Glitch)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
