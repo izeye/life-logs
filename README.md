@@ -194,6 +194,8 @@
 * 리갈 하이 (リーガル・ハイ)
   * Season 1 (Episode 1-11)
   * Season 2 (Episode 1-10)
+* 리미트리스 (Limitless)
+  * Season 1 (Episode 1-22)
 * 리전 (Legion)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-11)
