@@ -18,6 +18,7 @@
 * 극장판 포켓몬스터 너로 정했다! (Pokemon the movie: I Choose You!, 2017)
 * 극장판 포켓몬스터 모두의 이야기 (劇場版ポケットモンスター みんなの物語, Pokemon the Movie: The Power of Us)
 * 극한직업 (Extreme Job, 2018)
+* 기생충 (PARASITE, 2019)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
 * 나 홀로 집에 (Home Alone, 1990)
