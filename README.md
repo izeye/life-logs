@@ -101,6 +101,7 @@
 * 쏜다 (Big Bang, 2007)
 * 쓰리데이즈 투 킬 (3 Days to Kill, 2014)
 * 아이보이 (iBoy, 2017)
+* 알라딘 (Aladdin, 2019)
 * 알파고 (Alphago, 2017)
 * 암살 (Assassination, 2015)
 * 어린왕자 (The Little Prince, 2015)
