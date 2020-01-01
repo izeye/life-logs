@@ -1,5 +1,10 @@
 # Go
 ## YouTube
+### [바둑강좌] 김성룡 9단의 왕초보탈출
+* [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
+  * https://www.youtube.com/watch?v=_uXYWW1dsT8
+
+### Misc.
 * 7점 바둑은 어떻게 두어야 하나? [접바둑 강좌]
   * https://www.youtube.com/watch?v=XzQ4WKLrhlo
 * 9줄 바둑 도전기 [ 다른 사람들은 9줄 바둑을 어떻게 둘까?] 강남바둑센터
