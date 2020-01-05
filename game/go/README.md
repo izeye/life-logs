@@ -13,6 +13,8 @@
   * https://www.youtube.com/watch?v=RYLcQIBPZwA
 * 9줄 바둑판 초급자 시청자 바둑대결 반집승 vs lolㅣ프로연우(바둑,바둑복기,프로기사)
   * https://www.youtube.com/watch?v=1EobeVjaM9c
+* 바둑 초보자가 알아야 할 100가지 020 6점 접바둑 필승법 1
+  * https://www.youtube.com/watch?v=dO8Z8JlouuY
 * 필승 접바둑-8점 접바둑(1)
   * https://www.youtube.com/watch?v=Su23g7cOaA4
 * 한게임 9줄 바둑 레이팅 1700에 전승으로 도전해보자! [현재 18연승중]
