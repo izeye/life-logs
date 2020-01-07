@@ -7,6 +7,8 @@
   * https://www.youtube.com/watch?v=Oez_MoO0OuA
 
 ### Misc.
+* [중고급자가 꼭 알아야 할 5점 접바둑 복기해설 LIVE 2019. 5. 8]
+  * https://www.youtube.com/watch?v=qg_0DxvIRZk
 * 7점 바둑은 어떻게 두어야 하나? [접바둑 강좌]
   * https://www.youtube.com/watch?v=XzQ4WKLrhlo
 * 9줄 바둑 도전기 [ 다른 사람들은 9줄 바둑을 어떻게 둘까?] 강남바둑센터
