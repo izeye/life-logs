@@ -5,6 +5,9 @@
   * https://www.youtube.com/watch?v=_uXYWW1dsT8
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 2편/ 단수의 가치 2 (단수치는 방향)
   * https://www.youtube.com/watch?v=Oez_MoO0OuA
+### [바둑강좌] 김성룡 9단의 꼼수탈출
+* [바둑강좌] 김성룡 9단의 꼼수탈출 - 1편/ 4점 접바둑 (당황하지 말자)
+  * https://www.youtube.com/watch?v=s3aiMwMsIC4
 
 ### Misc.
 * (바둑해설)이번엔 실전이다!!.4점 접바둑 해설
