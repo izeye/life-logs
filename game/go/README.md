@@ -7,6 +7,8 @@
   * https://www.youtube.com/watch?v=Oez_MoO0OuA
 
 ### Misc.
+* (바둑해설)이번엔 실전이다!!.4점 접바둑 해설
+  * https://www.youtube.com/watch?v=flEXd2rETls
 * [중고급자가 꼭 알아야 할 5점 접바둑 복기해설 LIVE 2019. 5. 8]
   * https://www.youtube.com/watch?v=qg_0DxvIRZk
 * 7점 바둑은 어떻게 두어야 하나? [접바둑 강좌]
