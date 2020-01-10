@@ -8,6 +8,8 @@
 ### [바둑강좌] 김성룡 9단의 꼼수탈출
 * [바둑강좌] 김성룡 9단의 꼼수탈출 - 1편/ 4점 접바둑 (당황하지 말자)
   * https://www.youtube.com/watch?v=s3aiMwMsIC4
+* [바둑강좌] 김성룡 9단의 꼼수탈출 - 2편/ 4점 접바둑 (과감해야 한다)
+  * https://www.youtube.com/watch?v=vsoQtpE9Mqk
 
 ### Misc.
 * (바둑해설)이번엔 실전이다!!.4점 접바둑 해설
