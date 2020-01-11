@@ -12,6 +12,8 @@
   * https://www.youtube.com/watch?v=vpR0uSp_5vY
 * #바둑입문#바둑배우기#바둑강좌 상대방 돌을 잡는 수법 -환격편-
   * https://www.youtube.com/watch?v=OEDPrvRweaw
+* #바둑입문#바둑배우기#바둑강좌 모방은 창조의 어머니 -정석편-
+  * https://www.youtube.com/watch?v=KxACM4CGumU
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
