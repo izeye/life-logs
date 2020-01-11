@@ -6,6 +6,8 @@
   * https://www.youtube.com/watch?v=mOJQFDRldaE
 * #바둑입문#바둑배우기#바둑기초 바둑을 배워봅시다!! 돌의행마
   * https://www.youtube.com/watch?v=hs9knncbZic
+* #바둑입문#바둑배우기#바둑강좌 계단모양으로 상대방 돌 잡기 -축편-
+  * https://www.youtube.com/watch?v=VcFBEpPcPT0
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
