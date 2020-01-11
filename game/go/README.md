@@ -1,5 +1,10 @@
 # Go
 ## YouTube
+### 도은교의DO&GO
+#### 바둑배우기(바둑입문)
+* #바둑입문#바둑배우기#바둑기초 바둑을 배워봅시다!! 바둑두는법
+  * https://www.youtube.com/watch?v=mOJQFDRldaE
+
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
   * https://www.youtube.com/watch?v=_uXYWW1dsT8
