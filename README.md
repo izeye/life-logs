@@ -151,6 +151,7 @@
 * 캡틴 필립스 (Captain Phillips, 2013)
 * 코코 (Coco, 2017)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
+* 클라우스 (Klaus, 2019)
 * 클로버필드 (Cloverfield, 2008)
 * 킹스맨: 시크릿 에이전트 (Kingsman: The Secret Service, 2015)
 * 킹스맨: 골든 서클 (Kingsman: The Golden Circle, 2017)
