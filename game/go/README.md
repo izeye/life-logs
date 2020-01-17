@@ -16,6 +16,8 @@
   * https://www.youtube.com/watch?v=KxACM4CGumU
 * #바둑입문#바둑배우기#바둑강좌 초반30수 -포석편-
   * https://www.youtube.com/watch?v=DeJGWeGMs80
+* #바둑배우기#바둑입문#바둑기초 1강 옥집(가짜집)
+  * https://www.youtube.com/watch?v=T1uU-GvBM8g
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
