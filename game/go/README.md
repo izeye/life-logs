@@ -20,6 +20,8 @@
   * https://www.youtube.com/watch?v=T1uU-GvBM8g
 * #바둑배우기#바둑입문#바둑기초 2강 빅(둘다 삶)
   * https://www.youtube.com/watch?v=yeq6NtgoZMs
+* #바둑배우기#바둑입문#바둑기초 3강 수상전
+  * https://www.youtube.com/watch?v=DU3XzP2FfPU
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
