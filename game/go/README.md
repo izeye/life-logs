@@ -26,6 +26,8 @@
   * https://www.youtube.com/watch?v=C2guRsMauOE
 * #바둑배우기#바둑입문#바둑기초 5강 궁도
   * https://www.youtube.com/watch?v=hWKt4ry2404
+* #바둑배우기#바둑입문#바둑기초 6강 사활풀이
+  * https://www.youtube.com/watch?v=qfkLSW6Cn6Q
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
