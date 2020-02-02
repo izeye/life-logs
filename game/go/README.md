@@ -36,6 +36,8 @@
   * https://www.youtube.com/watch?v=KxQ_K58vl6E
 * #바둑배우기#바둑입문#바둑기초 10강 빈축
   * https://www.youtube.com/watch?v=R9HSWOSu_C4
+* #바둑입문#바둑배우기#바둑기초 플러스 1강 귀곡사
+  * https://www.youtube.com/watch?v=1C04FQlvQ-Q
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
