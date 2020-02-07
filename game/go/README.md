@@ -50,6 +50,8 @@
   * https://www.youtube.com/watch?v=qfgmnTk9ZOI
 * #바둑입문#바둑배우기#바둑기초 왕초보탈출 2편 상대방 진영에서 내 돌을 안정시키는 꿀팁~
   * https://www.youtube.com/watch?v=kA9X-cYf6dM
+* #바둑배우기#바둑입문#바둑기초 상대방진영에서 돌을 안정시키는 꿀팁2탄 상대의 약한 돌을 공략하라~
+  * https://www.youtube.com/watch?v=1OdMeUesbgk
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
