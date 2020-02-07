@@ -44,6 +44,8 @@
   * https://www.youtube.com/watch?v=NFHgW6FBLEQ
 * #바둑배우기#바둑입문#바둑기초 4강 유가무가
   * https://www.youtube.com/watch?v=C2guRsMauOE
+* #바둑배우기#바둑입문#바둑기초 플러스 5강 대궁소궁
+  * https://www.youtube.com/watch?v=nyGuf4hGJkg
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
