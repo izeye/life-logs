@@ -22,8 +22,8 @@
   * https://www.youtube.com/watch?v=yeq6NtgoZMs
 * #바둑배우기#바둑입문#바둑기초 3강 수상전
   * https://www.youtube.com/watch?v=DU3XzP2FfPU
-* #바둑배우기#바둑입문#바둑기초 4강 유가무가
-  * https://www.youtube.com/watch?v=C2guRsMauOE
+* #바둑배우기#바둑입문#바둑기초 4강 수상전2탄
+  * https://www.youtube.com/watch?v=09YR_eMx_f0
 * #바둑배우기#바둑입문#바둑기초 5강 궁도
   * https://www.youtube.com/watch?v=hWKt4ry2404
 * #바둑배우기#바둑입문#바둑기초 6강 사활풀이
@@ -42,6 +42,8 @@
   * https://www.youtube.com/watch?v=WsN2zGqrNQA
 * #바둑배우기#바둑입문#바둑기초 플러스 3강 만년패
   * https://www.youtube.com/watch?v=NFHgW6FBLEQ
+* #바둑배우기#바둑입문#바둑기초 4강 유가무가
+  * https://www.youtube.com/watch?v=C2guRsMauOE
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
