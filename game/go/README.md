@@ -48,6 +48,8 @@
   * https://www.youtube.com/watch?v=nyGuf4hGJkg
 * #바둑입문#바둑강좌#바둑기초 왕초보탈출 1.침투편 상대방 집을 부수자~
   * https://www.youtube.com/watch?v=qfgmnTk9ZOI
+* #바둑입문#바둑배우기#바둑기초 왕초보탈출 2편 상대방 진영에서 내 돌을 안정시키는 꿀팁~
+  * https://www.youtube.com/watch?v=kA9X-cYf6dM
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
