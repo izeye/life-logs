@@ -46,6 +46,8 @@
   * https://www.youtube.com/watch?v=C2guRsMauOE
 * #바둑배우기#바둑입문#바둑기초 플러스 5강 대궁소궁
   * https://www.youtube.com/watch?v=nyGuf4hGJkg
+* #바둑입문#바둑강좌#바둑기초 왕초보탈출 1.침투편 상대방 집을 부수자~
+  * https://www.youtube.com/watch?v=qfgmnTk9ZOI
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
