@@ -54,6 +54,8 @@
   * https://www.youtube.com/watch?v=1OdMeUesbgk
 * #바둑기초#바둑TV#바둑강좌 왕초보탈출 3편 침투이후 집모양 만들기~
   * https://www.youtube.com/watch?v=e2pVerLpF8s
+* #바둑강좌#바둑TV#바둑기초 왕초보탈출 4편 돌의사활 궁도넓히기
+  * https://www.youtube.com/watch?v=zv5QT6MMKcA
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
