@@ -145,6 +145,7 @@
 * 쥬만지 (Jumanji, 1995)
 * 지옥에서 온 전언
 * 차일드 44 (Child 44, 2015)
+* 천공의 성 라퓨타 (Laputa: Castle In The Sky, 1986)
 * 천국의 우편배달부 (Postman To Heaven, 2009)
 * 천년을 흐르는 사랑 (The Fountain, 2006)
 * 취화선 (醉畵仙, Chihwaseon, 2002)
