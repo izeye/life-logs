@@ -66,6 +66,8 @@
   * https://www.youtube.com/watch?v=hq5DDZqvH9s
 * #바둑기초#바둑강좌#바둑TV 왕초보탈출 7편 두터움과 엷음
   * https://www.youtube.com/watch?v=-DqhhELM0Qo
+* #바둑강좌#바둑기초#바둑초보 왕초보탈출 8편 공격과 수비
+  * https://www.youtube.com/watch?v=sKvkB7Atu9U
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
