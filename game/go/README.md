@@ -62,6 +62,8 @@
   * https://www.youtube.com/watch?v=tKFx1zr9UVA
 * #바둑강좌#바둑TV#바둑격언 입문자꿀팁! 입문자가 꼭 알아둬야 할 바둑격언 10가지(2)
   * https://www.youtube.com/watch?v=GDZ5_dzKiUw
+* #바둑강좌#바둑TV#바둑기초 왕초보탈출 6편 돌의강약
+  * https://www.youtube.com/watch?v=hq5DDZqvH9s
 
 ### [바둑강좌] 김성룡 9단의 왕초보탈출
 * [바둑강좌] 김성룡 9단의 왕초보탈출 - 1편/ 단수의 가치 1 (같은 단수도 가치가 다르다)
