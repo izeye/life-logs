@@ -304,6 +304,7 @@
   * Season 4 (Episode 1-6)
 * 킹덤 (Kingdom)
   * Season 1 (Episode 1-6)
+  * Season 2 (Episode 1-6)
 * 타임리스 (Timeless)
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-12)
