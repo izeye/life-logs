@@ -47,6 +47,7 @@
 * 리벤져 (Revenger, 2018)
 * 리크루트 (The Recruit, 2003)
 * 마녀 배달부 키키 (Kiki's Delivery Service, 1989)
+* 마루 밑 아리에티 (The Borrowers, 2010)
 * 마스터 (Master, 2016)
 * 마틸다 (Matilda, 1996)
 * 마파도 2 (Mapado 2, 2007)
