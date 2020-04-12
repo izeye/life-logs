@@ -154,6 +154,7 @@
 * 취화선 (醉畵仙, Chihwaseon, 2002)
 * 캡틴 아메리카: 시빌 워 (Captain America: Civil War, 2016)
 * 캡틴 필립스 (Captain Phillips, 2013)
+* 코드 8 (Code 8, 2019)
 * 코코 (Coco, 2017)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
 * 클라우스 (Klaus, 2019)
