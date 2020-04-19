@@ -61,6 +61,7 @@
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 미션 임파서블: 로그네이션 (Mission: Impossible - Rogue Nation, 2015)
 * 미스 슬로운 (Miss Sloane, 2016)
+* 바람계곡의 나우시카 (Nausicaa Of The Valley Of Wind, 1984)
 * 바스터즈: 거친 녀석들 (Inglourious Basterds, 2009)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 범죄도시 (THE OUTLAWS, 2017)
