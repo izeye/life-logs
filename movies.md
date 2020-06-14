@@ -169,6 +169,7 @@
 * 킹스맨: 시크릿 에이전트 (Kingsman: The Secret Service, 2015)
 * 킹스맨: 골든 서클 (Kingsman: The Golden Circle, 2017)
 * 터보 (Turbo, 2013)
+* 터키 (Free Birds, 2013)
 * 토르: 라그나로크 (Thor: Ragnarok, 2017)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 파라독스 (Paradox, 2016)
