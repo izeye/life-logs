@@ -49,6 +49,7 @@
 * 마루 밑 아리에티 (The Borrowers, 2010)
 * 마스터 (Master, 2016)
 * 마이펫의 이중생활 (The Secret Life of Pets, 2016)
+* 마이펫의 이중생활2 (The Secret Life of Pets 2, 2019)
 * 마틸다 (Matilda, 1996)
 * 마파도 2 (Mapado 2, 2007)
 * 매그니피센트 7 (The Magnificent Seven, 2016)
