@@ -64,6 +64,7 @@
 * 미스 슬로운 (Miss Sloane, 2016)
 * 바람계곡의 나우시카 (Nausicaa Of The Valley Of Wind, 1984)
 * 바스터즈: 거친 녀석들 (Inglourious Basterds, 2009)
+* 박물관이 살아있다! (Night At The Museum, 2006)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 범죄도시 (THE OUTLAWS, 2017)
 * 베놈 (Venom, 2018)
