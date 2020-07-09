@@ -84,6 +84,9 @@
 * [바둑강좌] 김성룡 9단의 꼼수탈출 - 2편/ 4점 접바둑 (과감해야 한다)
   * https://www.youtube.com/watch?v=vsoQtpE9Mqk
 
+### 바둑부부
+* [9줄 바둑 하이라이트 - 이 포석 외우면 랭킹 1위도 이긴다](https://www.youtube.com/watch?v=YPw6-yTnVZ4)
+
 ### Misc.
 * (바둑해설)이번엔 실전이다!!.4점 접바둑 해설
   * https://www.youtube.com/watch?v=flEXd2rETls
