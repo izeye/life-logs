@@ -87,7 +87,11 @@
 ### 바둑부부
 * [9줄 바둑 하이라이트 - 이 포석 외우면 랭킹 1위도 이긴다](https://www.youtube.com/watch?v=YPw6-yTnVZ4)
 
+### 바둑 BADUK TV
+* [한상조 프로 vs 시청자와 9줄 바둑 대결](https://www.youtube.com/watch?v=TIw8q6CKvgs)
+
 ### Misc.
+한상조 프로 vs 시청자와 9줄 바둑 대결
 * (바둑해설)이번엔 실전이다!!.4점 접바둑 해설
   * https://www.youtube.com/watch?v=flEXd2rETls
 * [중고급자가 꼭 알아야 할 5점 접바둑 복기해설 LIVE 2019. 5. 8]
