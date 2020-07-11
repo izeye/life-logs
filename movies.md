@@ -139,6 +139,7 @@
 * 예스터데이 (Yesterday, 2019)
 * 오늘의 연애 (Love Forecast, 2014)
 * 옥자 (Okja, 2017)
+* 올드 가드 (The Old Guard, 2020)
 * 윌리엄 제로의 재건
 * 이글 아이 (Eagle Eye, 2008)
 * 이미테이션 게임 (The Imitation Game, 2014)
