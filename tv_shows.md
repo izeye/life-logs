@@ -59,6 +59,8 @@
 * 마블 퍼니셔 (The Punisher)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-13)
+* 미스터 션샤인: Gun, Glory, Sad ending
+  * Season 1 (Episode 1-24)
 * 블랙리스트 (The Blacklist)
   * Season 1 (Episode 1-22)
   * Season 2 (Episode 1-22)
