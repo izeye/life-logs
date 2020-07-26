@@ -136,6 +136,8 @@
   * Season 5 (Episode 1-13)
 * 위쳐 (The Witcher)
   * Season 1 (Episode 1-8)
+* 익스플레인: 코로나바이러스를 해설하다
+  * Season 1 (Episode 1-3)
 * 착오 (Glitch)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
