@@ -76,6 +76,7 @@
 * 본 슈프리머시 (The Bourne Supremacy, 2004)
 * 본 아이덴티티 (The Bourne Identity, 2002)
 * 본 얼티메이텀 (The Bourne Ultimatum, 2007)
+* 봉오동 전투 (The Battle: Roar to Victory, 2019)
 * 부산행 (TRAIN TO BUSAN, 2016)
 * 분노의 질주: 더 세븐 (Fast & Furious 7, 2015)
 * 브이 포 벤데타 (V For Vendetta, 2005)
