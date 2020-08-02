@@ -188,6 +188,7 @@
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 파라독스 (Paradox, 2016)
 * 퍼시픽 림 (Pacific Rim, 2013)
+* 퍼펙트맨 (Man of Men, 2018)
 * 폴라 (Polar, 2019)
 * 폴라 익스프레스 (The Polar Express, 2004)
 * 하울의 움직이는 성 (Howl's Moving Castle, 2004)
