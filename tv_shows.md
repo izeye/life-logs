@@ -70,7 +70,7 @@
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-22)
   * Season 6 (Episode 1-22)
-  * Season 7 (Episode 1-18)
+  * Season 7 (Episode 1-19)
 * 비밀의 숲
   * Season 1 (Episode 1-16)
 * 섀도우 헌터스 : 더 모탈 인스트루먼트 (Shadowhunters : The Mortal Instruments)
