@@ -37,6 +37,7 @@
 * 리전 (Legion)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-11)
+  * Season 3 (Episode 1-8)
 * 마법사 멀린 (Merlin)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-13)
