@@ -208,3 +208,4 @@
 * 해리 포터와 죽음의 성물 - 1부 (Harry Potter And The Deathly Hallows: Part 1, 2010)
 * 허리케인 하이스트 (The Hurricane Heist, 2017)
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
+* 히트맨 (HITMAN: AGENT JUN, 2019)
