@@ -196,6 +196,7 @@
 * 퍼펙트맨 (Man of Men, 2018)
 * 폴라 (Polar, 2019)
 * 폴라 익스프레스 (The Polar Express, 2004)
+* 프로젝트 파워 (Project Power, 2020)
 * 하울의 움직이는 성 (Howl's Moving Castle, 2004)
 * 해리 포터와 마법사의 돌 (Harry Potter And The Sorcerer's Stone, 2001)
 * 해리 포터와 비밀의 방 (Harry Potter And The Chamber Of Secrets, 2002)
