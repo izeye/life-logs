@@ -177,6 +177,7 @@
 * 천공의 성 라퓨타 (Laputa: Castle In The Sky, 1986)
 * 천국의 우편배달부 (Postman To Heaven, 2009)
 * 천년을 흐르는 사랑 (The Fountain, 2006)
+* 천문: 하늘에 묻는다 (Forbidden Dream, 2018)
 * 취화선 (醉畵仙, Chihwaseon, 2002)
 * 캡틴 아메리카: 시빌 워 (Captain America: Civil War, 2016)
 * 캡틴 필립스 (Captain Phillips, 2013)
