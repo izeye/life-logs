@@ -130,6 +130,7 @@
 * 써클 (Circle, 2015)
 * 쏜다 (Big Bang, 2007)
 * 쓰리데이즈 투 킬 (3 Days to Kill, 2014)
+* 아메리칸 스나이퍼 (American Sniper, 2014)
 * 아이보이 (iBoy, 2017)
 * 아이스 에이지 (Ice Age, 2002)
 * 아이스 에이지 2 (Ice Age: The Meltdown, 2006)
