@@ -94,6 +94,7 @@
 * 블리치 극장판 3 - 페이드 투 블랙 (劇場版 BLEACH Fade To Black, 2008)
 * 블리치 극장판 - 지옥편 (Gekijouban Bleach: Jigokuhen, 2010)
 * 비스틀리 (Beastly, 2011)
+* 빅쇼트 (The Big Short, 2015)
 * 사도 (The Throne, 2014)
 * 사바하 (SVAHA : THE SIXTH FINGER, 2019)
 * 사자 (The Divine Fury, 2019)
