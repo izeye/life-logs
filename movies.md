@@ -119,6 +119,7 @@
 * 스파이더맨: 파 프롬 홈 (Spider-Man: Far From Home, 2019)
 * 스파이더위크가의 비밀 (The Spiderwick Chronicles, 2008)
 * 스플릿 (Split, 2016)
+* 스피드 큐브의 천재들 (The Speed Cubers, 2020)
 * 슬로우 웨스트 (Slow West, 2015)
 * 시카리오: 암살자의 도시 (Sicario, 2015)
 * 신과함께-인과 연 (Along with the Gods: The Last 49 Days, 2017)
