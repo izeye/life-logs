@@ -19,6 +19,7 @@
 * 공조 (共助, Confidential Assignment, 2016)
 * 귀를 기울이면 (Whisper Of The Heart, 1995)
 * 그린치 (The Grinch, 2018)
+* 극장판 도라에몽:신 진구의 버스 오브 재팬 (映画ドラえもん 新・のび太の日本誕生, DORAEMON THE MOVIE: NOBITA AND THE BIRTH OF JAPAN, 2016)
 * 극장판 포켓몬스터 너로 정했다! (Pokemon the movie: I Choose You!, 2017)
 * 극장판 포켓몬스터 모두의 이야기 (劇場版ポケットモンスター みんなの物語, Pokemon the Movie: The Power of Us)
 * 극한직업 (Extreme Job, 2018)
