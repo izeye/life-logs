@@ -35,6 +35,7 @@
 * 눈에는 눈 이에는 이 (Eye For An Eye, 2008)
 * 다이버전트 시리즈: 얼리전트 (The Divergent Series: Allegiant, 2016)
 * 다크 아워 (The Darkest Hour, 2011)
+* 달콤, 살벌한 연인 (My Scary Girl, 2006)
 * 대부 (Mario Puzo's The Godfather, 1972)
 * 더 바디 (EL Cuerpo, The Body, 2012)
 * 더 서라운딩 게임 (The Surrounding Game, 2018)
