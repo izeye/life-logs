@@ -131,6 +131,7 @@
 * 스플릿 (Split, 2016)
 * 스피드 큐브의 천재들 (The Speed Cubers, 2020)
 * 슬로우 웨스트 (Slow West, 2015)
+* 시동 (START-UP, 2019)
 * 시카리오: 암살자의 도시 (Sicario, 2015)
 * 신과함께-인과 연 (Along with the Gods: The Last 49 Days, 2017)
 * 신과함께-죄와 벌 (Along With the Gods: The Two Worlds, 2017)
