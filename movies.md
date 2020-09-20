@@ -218,6 +218,7 @@
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 특종: 량첸살인기 (The Exclusive : Beat the Devil's Tattoo, 2015)
 * 파라독스 (Paradox, 2016)
+* 판도라 (Pandora, 2016)
 * 팬 (Pan, 2015)
 * 퍼시픽 림 (Pacific Rim, 2013)
 * 퍼펙트맨 (Man of Men, 2018)
