@@ -27,6 +27,7 @@
 * 극장판 포켓몬스터 모두의 이야기 (劇場版ポケットモンスター みんなの物語, Pokemon the Movie: The Power of Us)
 * 극한직업 (Extreme Job, 2018)
 * 기생충 (PARASITE, 2019)
+* 기억의 밤 (Forgotten, 2017)
 * 끝까지 간다 (A Hard Day, 2013)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
