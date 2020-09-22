@@ -139,6 +139,7 @@
 * 신과함께-죄와 벌 (Along With the Gods: The Two Worlds, 2017)
 * 신비한 동물사전 (Fantastic Beasts and Where to Find Them, 2016)
 * 신세계 (New World, 2012)
+* 신의 한 수 (The Divine Move, 2014)
 * 싱크로니시티 (Synchronicity, 2016)
 * 써클 (Circle, 2015)
 * 쏜다 (Big Bang, 2007)
