@@ -178,6 +178,7 @@
 * 옥자 (Okja, 2017)
 * 올드 가드 (The Old Guard, 2020)
 * 올레 (DETOUR, 2016)
+* 용서받지 못한 자 (The Unforgiven, 2005)
 * 용의자 (The Suspect, 2013)
 * 우아한 세계 (The Show Must Go On, 2007)
 * 윌리엄 제로의 재건
