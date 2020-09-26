@@ -165,6 +165,7 @@
 * 업그레이드 (Upgrade, 2018)
 * 에너미 앳 더 게이트 (Enemy At The Gates, 2001)
 * 에너미 오브 스테이트 (Enemy Of The State, 1998)
+* 에놀라 홈즈 (Enola Holmes, 2020)
 * 엘도라도 (The Road To El Dorado, 2000)
 * 애프터 어스 (After Earth, 2013)
 * 액트 오브 밸러: 최정예 특수부대 (Act of Valor, 2011)
