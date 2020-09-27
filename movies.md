@@ -114,6 +114,7 @@
 * 성룡의 신주쿠 살인사건 (新宿事件, The Shinjuku Incident, 2008)
 * 성룡의 신화 (神話: The Myth, 2005)
 * 세이프 하우스 (SAFE HOUSE, 2012)
+* 셔터 아일랜드 (Shutter Island, 2010)
 * 소스 코드 (Source Code, 2011)
 * 수상한 고객들 (Suspicious Customers, 2011)
 * 슈퍼배드 (Despicable Me, 2010)
