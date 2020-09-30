@@ -29,6 +29,7 @@
 * 극한직업 (Extreme Job, 2018)
 * 기생충 (PARASITE, 2019)
 * 기억의 밤 (Forgotten, 2017)
+* 꿀벌 대소동 (Bee Movie, 2007)
 * 끝까지 간다 (A Hard Day, 2013)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
