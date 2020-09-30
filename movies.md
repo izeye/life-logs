@@ -1,6 +1,7 @@
 # Movies
 * 101마리의 달마시안 개 (One Hundred And One Dalmatians, 1961)
 * 1급기밀 (The Discloser, 2016)
+* 21 (21, 2008)
 * 3:10 투 유마 (3:10 To Yuma, 2007)
 * ARQ (2016)
 * U-571 (2000)
