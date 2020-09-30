@@ -232,6 +232,7 @@
 * 토르: 라그나로크 (Thor: Ragnarok, 2017)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 특종: 량첸살인기 (The Exclusive : Beat the Devil's Tattoo, 2015)
+* 팅커 테일러 솔저 스파이 (Tinker Tailor Soldier Spy, 2011)
 * 파라독스 (Paradox, 2016)
 * 판도라 (Pandora, 2016)
 * 팬 (Pan, 2015)
