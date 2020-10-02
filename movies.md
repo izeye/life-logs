@@ -122,6 +122,7 @@
 * 세븐 (Se7en, Seven, 1995)
 * 세이프 하우스 (SAFE HOUSE, 2012)
 * 셔터 아일랜드 (Shutter Island, 2010)
+* 셜록 홈즈 (Sherlock Holmes, 2009)
 * 소스 코드 (Source Code, 2011)
 * 수상한 고객들 (Suspicious Customers, 2011)
 * 슈퍼배드 (Despicable Me, 2010)
