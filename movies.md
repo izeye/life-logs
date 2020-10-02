@@ -25,6 +25,7 @@
 * 그녀를 믿지 마세요 (Don't Believe Her, 2004)
 * 그린치 (The Grinch, 2018)
 * 극장판 도라에몽:신 진구의 버스 오브 재팬 (映画ドラえもん 新・のび太の日本誕生, DORAEMON THE MOVIE: NOBITA AND THE BIRTH OF JAPAN, 2016)
+* 극장판 도라에몽: 진구의 보물섬 (映画ドラえもん　のび太の宝島, Doraemon the Movie: Nobita's Treasure Island, 2018)
 * 극장판 포켓몬스터 너로 정했다! (Pokemon the movie: I Choose You!, 2017)
 * 극장판 포켓몬스터 모두의 이야기 (劇場版ポケットモンスター みんなの物語, Pokemon the Movie: The Power of Us)
 * 극한직업 (Extreme Job, 2018)
