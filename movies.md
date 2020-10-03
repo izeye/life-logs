@@ -51,6 +51,7 @@
 * 더 킹 (The King, 2016)
 * 더 포리너 (The Foreigner, 2017)
 * 데드풀 (Deadpool, 2016)
+* 데몰리션 맨 (Demolition Man, 1993)
 * 도라에몽:스탠바이미 (Stand by Me Doraemon, 2014)
 * 돈 (Money, 2018)
 * 돈 세이 워드 (Don't Say A Word, 2001)
