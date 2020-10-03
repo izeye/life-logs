@@ -240,6 +240,7 @@
 * 클로버필드 (Cloverfield, 2008)
 * 킹스맨: 시크릿 에이전트 (Kingsman: The Secret Service, 2015)
 * 킹스맨: 골든 서클 (Kingsman: The Golden Circle, 2017)
+* 탐정 : 더 비기닝 (The Accidental Detective, 2015)
 * 탑건 (Top Gun, 1986)
 * 터보 (Turbo, 2013)
 * 터키 (Free Birds, 2013)
