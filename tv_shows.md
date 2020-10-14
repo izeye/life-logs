@@ -177,6 +177,7 @@
   * Season 3 (Episode 1-23)
   * Season 4 (Episode 1-23)
   * Season 5 (Episode 1-22)
+  * Season 6 (Episode 1-19)
 * 한자와 나오키 (半沢直樹)
   * Season 1 (Episode 1-10)
 * 황혼에서 새벽까지: 시리즈 (From Dusk till Dawn: The Series)
