@@ -18,6 +18,8 @@
   * https://www.youtube.com/watch?v=HB0UkSjbuWA
 * Where to Find Tea in Pokemon Let’s Go
   * https://heavy.com/games/2018/11/tea-pokemon-lets-go/
+### Super Mario 64
+* [Super Mario 64 Bob-Omb Battlefield: Find the 8 Red Coins](https://www.youtube.com/watch?v=v-taBgcYqVI)
 
 ## Board games
 ### Pokémon Trading Card Game
