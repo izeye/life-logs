@@ -87,6 +87,8 @@
 * 손오공: 새로운 전설 (THE NEW LEGENDS OF MONKEY)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
+* 슈퍼걸 (Supergirl)
+  * Season 1 (Episode 1-20)
 * 시간 여행자 (Travelers)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
