@@ -20,6 +20,7 @@
   * https://heavy.com/games/2018/11/tea-pokemon-lets-go/
 ### Super Mario 64
 * [Super Mario 64 Bob-Omb Battlefield: Find the 8 Red Coins](https://www.youtube.com/watch?v=v-taBgcYqVI)
+* [Super Mario 64: Walkthrough (Shoot To The Island In The Sky)](https://www.youtube.com/watch?v=Zdjj3yAllik)
 
 ## Board games
 ### Pokémon Trading Card Game
