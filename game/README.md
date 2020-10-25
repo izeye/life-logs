@@ -19,6 +19,7 @@
 * Where to Find Tea in Pokemon Let’s Go
   * https://heavy.com/games/2018/11/tea-pokemon-lets-go/
 ### Super Mario 64
+* [Mario Wings to the Sky - Super Mario 64 Walkthrough](https://www.youtube.com/watch?v=O-d11tsm16o)
 * [Super Mario 64 Bob-Omb Battlefield: Find the 8 Red Coins](https://www.youtube.com/watch?v=v-taBgcYqVI)
 * [Super Mario 64: Walkthrough (Shoot To The Island In The Sky)](https://www.youtube.com/watch?v=Zdjj3yAllik)
 
