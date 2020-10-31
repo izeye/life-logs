@@ -32,7 +32,8 @@
   * [Super Mario 64 Switch Mario Wings to the Sky Course 1 Bob-omb Battlefield 3D All Stars](https://www.youtube.com/watch?v=-imQ4gCionw)
 #### COURSE 2: WHOMP'S FORTRESS
 * [x] CHIP OFF WHOMP'S BLOCK
-* [ ] TO THE TOP OF THE FORTRESS
+* [x] TO THE TOP OF THE FORTRESS
+* [ ] SHOOT INTO THE WILD BLUE
 #### Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
 
