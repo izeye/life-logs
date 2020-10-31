@@ -19,16 +19,17 @@
 * Where to Find Tea in Pokemon Let’s Go
   * https://heavy.com/games/2018/11/tea-pokemon-lets-go/
 ### Super Mario 64
-#### BIG BOB-OMB ON THE SUMMIT
-#### FOOTRACE WITH KOOPA THE QUICK
-#### SHOOT TO THE ISLAND IN THE SKY
-* [Super Mario 64: Walkthrough (Shoot To The Island In The Sky)](https://www.youtube.com/watch?v=Zdjj3yAllik)
-#### FIND THE 8 RED COINS
-* [Super Mario 64 Bob-Omb Battlefield: Find the 8 Red Coins](https://www.youtube.com/watch?v=v-taBgcYqVI)
-#### MARIO WINGS TO THE SKY
-* [Mario Wings to the Sky - Super Mario 64 Walkthrough](https://www.youtube.com/watch?v=O-d11tsm16o)
-* [Super Mario 64 - Mario Wings to the Sky - 5/120](https://www.youtube.com/watch?v=a0CaARI3a4A)
-* [Super Mario 64 Switch Mario Wings to the Sky Course 1 Bob-omb Battlefield 3D All Stars](https://www.youtube.com/watch?v=-imQ4gCionw)
+#### COURSE 1: BOB-OMB BATTLEFIELD
+* BIG BOB-OMB ON THE SUMMIT
+* FOOTRACE WITH KOOPA THE QUICK
+* SHOOT TO THE ISLAND IN THE SKY
+  * [Super Mario 64: Walkthrough (Shoot To The Island In The Sky)](https://www.youtube.com/watch?v=Zdjj3yAllik)
+* FIND THE 8 RED COINS
+  * [Super Mario 64 Bob-Omb Battlefield: Find the 8 Red Coins](https://www.youtube.com/watch?v=v-taBgcYqVI)
+* MARIO WINGS TO THE SKY
+  * [Mario Wings to the Sky - Super Mario 64 Walkthrough](https://www.youtube.com/watch?v=O-d11tsm16o)
+  * [Super Mario 64 - Mario Wings to the Sky - 5/120](https://www.youtube.com/watch?v=a0CaARI3a4A)
+  * [Super Mario 64 Switch Mario Wings to the Sky Course 1 Bob-omb Battlefield 3D All Stars](https://www.youtube.com/watch?v=-imQ4gCionw)
 #### Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
 
