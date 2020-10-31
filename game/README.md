@@ -34,6 +34,7 @@
 * [x] CHIP OFF WHOMP'S BLOCK
 * [x] TO THE TOP OF THE FORTRESS
 * [ ] SHOOT INTO THE WILD BLUE
+  * [Super Mario 64: Walkthrough (Shoot Into The Wild Blue)](https://www.youtube.com/watch?v=uTu0ykeel9o)
 #### Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
 
