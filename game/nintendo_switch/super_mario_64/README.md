@@ -17,8 +17,8 @@
   * [Super Mario 64: Walkthrough (Shoot Into The Wild Blue)](https://www.youtube.com/watch?v=uTu0ykeel9o)
 * [ ] 4: RED COINS ON THE FLOATING ISLE
 ## COURSE 3: JOLLY ROGER BAY
-* [ ] 1: PLUNDER IN THE SUNKEN SHIP
-* [ ] 2: 
+* [x] 1: PLUNDER IN THE SUNKEN SHIP
+* [ ] 2: CAN THE EEL COME OUT TO PLAY
 * [x] 3: TREASURE OF THE OCEAN CAVE
 * [x] CASTLE SECRET STAR
 ## Misc.
