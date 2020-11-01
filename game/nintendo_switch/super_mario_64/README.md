@@ -20,5 +20,6 @@
 * [ ] 1: PLUNDER IN THE SUNKEN SHIP
 * [ ] 2: 
 * [x] 3: TREASURE OF THE OCEAN CAVE
+* [x] CASTLE SECRET STAR
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
