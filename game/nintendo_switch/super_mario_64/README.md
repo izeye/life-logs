@@ -6,10 +6,11 @@
   * [Super Mario 64: Walkthrough (Shoot To The Island In The Sky)](https://www.youtube.com/watch?v=Zdjj3yAllik)
 * [x] 4: FIND THE 8 RED COINS
   * [Super Mario 64 Bob-Omb Battlefield: Find the 8 Red Coins](https://www.youtube.com/watch?v=v-taBgcYqVI)
-* [ ] 5: MARIO WINGS TO THE SKY
+* [x] 5: MARIO WINGS TO THE SKY
   * [Mario Wings to the Sky - Super Mario 64 Walkthrough](https://www.youtube.com/watch?v=O-d11tsm16o)
   * [Super Mario 64 - Mario Wings to the Sky - 5/120](https://www.youtube.com/watch?v=a0CaARI3a4A)
   * [Super Mario 64 Switch Mario Wings to the Sky Course 1 Bob-omb Battlefield 3D All Stars](https://www.youtube.com/watch?v=-imQ4gCionw)
+* [ ] 6: BEHIND CHAIN CHOMP'S GATE
 ## COURSE 2: WHOMP'S FORTRESS
 * [x] 1: CHIP OFF WHOMP'S BLOCK
 * [x] 2: TO THE TOP OF THE FORTRESS
