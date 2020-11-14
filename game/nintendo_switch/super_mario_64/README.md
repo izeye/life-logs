@@ -10,7 +10,7 @@
   * [Mario Wings to the Sky - Super Mario 64 Walkthrough](https://www.youtube.com/watch?v=O-d11tsm16o)
   * [Super Mario 64 - Mario Wings to the Sky - 5/120](https://www.youtube.com/watch?v=a0CaARI3a4A)
   * [Super Mario 64 Switch Mario Wings to the Sky Course 1 Bob-omb Battlefield 3D All Stars](https://www.youtube.com/watch?v=-imQ4gCionw)
-* [ ] 6: BEHIND CHAIN CHOMP'S GATE
+* [x] 6: BEHIND CHAIN CHOMP'S GATE
   * [Super Mario 64 Walkthrough: Behind Chain Chomp's Gate](https://www.youtube.com/watch?v=bFacDisrv0I)
 ## COURSE 2: WHOMP'S FORTRESS
 * [x] 1: CHIP OFF WHOMP'S BLOCK
