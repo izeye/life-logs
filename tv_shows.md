@@ -91,6 +91,7 @@
 * 슈퍼걸 (Supergirl)
   * Season 1 (Episode 1-20)
   * Season 2 (Episode 1-22)
+  * Season 3 (Episode 1-23)
 * 시간 여행자 (Travelers)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
