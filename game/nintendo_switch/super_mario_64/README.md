@@ -12,7 +12,7 @@
   * [Super Mario 64 Switch Mario Wings to the Sky Course 1 Bob-omb Battlefield 3D All Stars](https://www.youtube.com/watch?v=-imQ4gCionw)
 * [x] 6: BEHIND CHAIN CHOMP'S GATE
   * [Super Mario 64 Walkthrough: Behind Chain Chomp's Gate](https://www.youtube.com/watch?v=bFacDisrv0I)
-* [ ] 100 COINS
+* [x] 100 COINS
   * [Super Mario 64: Walkthrough (Bomb-omb Battlefield 100 Coins)](https://www.youtube.com/watch?v=jfokCxo0LAM&list=PL038C5360D02640E1)
 ## COURSE 2: WHOMP'S FORTRESS
 * [x] 1: CHIP OFF WHOMP'S BLOCK
