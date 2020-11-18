@@ -92,6 +92,7 @@
   * Season 1 (Episode 1-20)
   * Season 2 (Episode 1-22)
   * Season 3 (Episode 1-23)
+  * Season 4 (Episode 1-22)
 * 시간 여행자 (Travelers)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
