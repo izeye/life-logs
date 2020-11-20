@@ -24,6 +24,9 @@
 * [x] 1: PLUNDER IN THE SUNKEN SHIP
 * [ ] 2: CAN THE EEL COME OUT TO PLAY
 * [x] 3: TREASURE OF THE OCEAN CAVE
-* [x] CASTLE SECRET STAR
+## THE CASTLE'S SECRET STARS
+* [ ] 1
+  * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=Hfm2DkP4I48)
+* [x] 2
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
