@@ -25,7 +25,7 @@
 * [ ] 2: CAN THE EEL COME OUT TO PLAY
 * [x] 3: TREASURE OF THE OCEAN CAVE
 ## THE CASTLE'S SECRET STARS
-* [ ] 1
+* [x] 1
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=Hfm2DkP4I48)
 * [x] 2
 ## Misc.
