@@ -20,6 +20,7 @@
 * [x] 3: SHOOT INTO THE WILD BLUE
   * [Super Mario 64: Walkthrough (Shoot Into The Wild Blue)](https://www.youtube.com/watch?v=uTu0ykeel9o)
 * [ ] 4: RED COINS ON THE FLOATING ISLE
+* [x] 100 COINS
 ## COURSE 3: JOLLY ROGER BAY
 * [x] 1: PLUNDER IN THE SUNKEN SHIP
 * [ ] 2: CAN THE EEL COME OUT TO PLAY
