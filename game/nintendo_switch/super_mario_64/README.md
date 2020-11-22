@@ -19,7 +19,8 @@
 * [x] 2: TO THE TOP OF THE FORTRESS
 * [x] 3: SHOOT INTO THE WILD BLUE
   * [Super Mario 64: Walkthrough (Shoot Into The Wild Blue)](https://www.youtube.com/watch?v=uTu0ykeel9o)
-* [ ] 4: RED COINS ON THE FLOATING ISLE
+* [x] 4: RED COINS ON THE FLOATING ISLE
+* [ ] 5: FALL ONTO THE CAGED ISLAND
 * [x] 100 COINS
 ## COURSE 3: JOLLY ROGER BAY
 * [x] 1: PLUNDER IN THE SUNKEN SHIP
