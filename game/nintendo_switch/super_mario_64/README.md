@@ -27,7 +27,8 @@
 * [x] 1: PLUNDER IN THE SUNKEN SHIP
 * [x] 2: CAN THE EEL COME OUT TO PLAY
 * [x] 3: TREASURE OF THE OCEAN CAVE
-* [ ] 4: RED COINS ON THE SHIP AFLOAT
+* [x] 4: RED COINS ON THE SHIP AFLOAT
+* [ ] 5: BLAST TO THE STONE PILLAR
 ## THE CASTLE'S SECRET STARS
 * [x] 1
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=Hfm2DkP4I48)
