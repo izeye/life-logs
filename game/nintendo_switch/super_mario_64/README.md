@@ -30,6 +30,7 @@
 * [x] 4: RED COINS ON THE SHIP AFLOAT
 * [x] 5: BLAST TO THE STONE PILLAR
 * [ ] 6: THROUGH THE JET STREAM
+  * [Super Mario 64: Walkthrough (Jolly Rodger Bay 100 Coins)](https://www.youtube.com/watch?v=yX4fhwXITro)
 * [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1
