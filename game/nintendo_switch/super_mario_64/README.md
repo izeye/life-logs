@@ -35,7 +35,7 @@
 * [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1
-  * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=Hfm2DkP4I48)
+  * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
 * [x] 2
 * [ ] 6
   * [Super Mario 64: Walkthrough (Bowser Fight 1)](https://www.youtube.com/watch?v=pWfnXZntwso)
