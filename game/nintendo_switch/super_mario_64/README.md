@@ -33,6 +33,8 @@
   * [Super Mario 64: Walkthrough (Jolly Rodger Bay 100 Coins)](https://www.youtube.com/watch?v=yX4fhwXITro)
   * [SM64: Through the Jet Stream (no metal cap) - Savestateless](https://www.youtube.com/watch?v=xBrVET1-yJY)
 * [x] 100 COINS
+## COURSE 4: COOL, COOL MOUNTAIN
+* [ ] 1: SLIP SLIDIN' AWAY
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
