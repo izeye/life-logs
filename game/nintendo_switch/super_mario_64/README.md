@@ -29,7 +29,7 @@
 * [x] 3: TREASURE OF THE OCEAN CAVE
 * [x] 4: RED COINS ON THE SHIP AFLOAT
 * [x] 5: BLAST TO THE STONE PILLAR
-* [ ] 6: THROUGH THE JET STREAM
+* [x] 6: THROUGH THE JET STREAM
   * [Super Mario 64: Walkthrough (Jolly Rodger Bay 100 Coins)](https://www.youtube.com/watch?v=yX4fhwXITro)
   * [SM64: Through the Jet Stream (no metal cap) - Savestateless](https://www.youtube.com/watch?v=xBrVET1-yJY)
 * [x] 100 COINS
