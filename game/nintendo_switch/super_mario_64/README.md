@@ -44,7 +44,9 @@
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
 * [x] 2: THE SECRET AQUARIUM
 * [x] 3: THE PRINCESS'S SECRET SLIDE
+  * [Super Mario 64: Walkthrough (Secret Star 3)](https://www.youtube.com/watch?v=Sk2OrzsJ5Wg)
 * [x] 4: THE PRINCESS'S SECRET SLIDE
+  * [Super Mario 64: Walkthrough (Secret Star 4)](https://www.youtube.com/watch?v=Xb8pVeBtRmg)
 * [x] 5: HAZE MAZE CAVE
 * [x] 6: BOWSER IN THE DARK WORLD
   * [Super Mario 64: Walkthrough (Bowser Fight 1)](https://www.youtube.com/watch?v=pWfnXZntwso)
