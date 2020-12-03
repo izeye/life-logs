@@ -117,3 +117,6 @@
 ## Articles
 * [바둑] "9점 접바둑은 덤 145집이나 마찬가지"
   * http://weekly.hankooki.com/whan/199906/w61585.htm
+
+## Wiki
+* [카타고](https://namu.wiki/w/%EC%B9%B4%ED%83%80%EA%B3%A0)
