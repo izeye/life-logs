@@ -37,6 +37,7 @@
 * [x] 1: SLIP SLIDIN' AWAY
 * [x] 2: LI'L PENGUIN LOST
 * [ ] 3: BIG PENGUIN RACE
+  * [Super Mario 64: Walkthrough (Big Penguin Race)](https://www.youtube.com/watch?v=lBHsOCRxZX4)
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
