@@ -38,8 +38,9 @@
 * [x] 2: LI'L PENGUIN LOST
 * [x] 3: BIG PENGUIN RACE
   * [Super Mario 64: Walkthrough (Big Penguin Race)](https://www.youtube.com/watch?v=lBHsOCRxZX4)
-* [ ] 4: FROSTY SLIDE FOR 8 RED COINS
+* [x] 4: FROSTY SLIDE FOR 8 RED COINS
   * [Super Mario 64: Walkthrough (Frosty Slide for 8 Red Coins)](https://www.youtube.com/watch?v=fBmmu2097_g)
+* [ ] 5: SNOWMAN'S LOST HIS HEAD
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
