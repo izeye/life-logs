@@ -42,8 +42,9 @@
   * [Super Mario 64: Walkthrough (Frosty Slide for 8 Red Coins)](https://www.youtube.com/watch?v=fBmmu2097_g)
 * [x] 5: SNOWMAN'S LOST HIS HEAD
   * [Super Mario 64: Walkthrough (Snowman's Lost His Head)](https://www.youtube.com/watch?v=KouLmMwHis8)
-* [ ] 6: WALL KICKS WILL WORK
+* [x] 6: WALL KICKS WILL WORK
   * [Super Mario 64: Walkthrough (Wall Kicks Will Work)](https://www.youtube.com/watch?v=e1eXZSZ9DU8)
+* [ ] 100 COINS
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
