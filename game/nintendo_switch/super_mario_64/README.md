@@ -52,6 +52,7 @@
 * [x] 3: SECRET OF THE HAUNTED BOOKS
 * [x] 4: SEEK THE 8 RED COINS
 * [ ] 5: BIG BOO'S BALCONY
+  * [Super Mario 64: Walkthrough (Big Boo's Balcony)](https://www.youtube.com/watch?v=bAr7wJtl8TI)
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
