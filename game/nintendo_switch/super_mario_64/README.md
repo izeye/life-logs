@@ -44,7 +44,7 @@
   * [Super Mario 64: Walkthrough (Snowman's Lost His Head)](https://www.youtube.com/watch?v=KouLmMwHis8)
 * [x] 6: WALL KICKS WILL WORK
   * [Super Mario 64: Walkthrough (Wall Kicks Will Work)](https://www.youtube.com/watch?v=e1eXZSZ9DU8)
-* [ ] 100 COINS
+* [x] 100 COINS
   * [Super Mario 64: Walkthrough(Cool, Cool, Mountain 100 Coins)](https://www.youtube.com/watch?v=sre_6HUZ-2o)
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
