@@ -47,8 +47,9 @@
 * [x] 100 COINS
   * [Super Mario 64: Walkthrough(Cool, Cool, Mountain 100 Coins)](https://www.youtube.com/watch?v=sre_6HUZ-2o)
 ## COURSE 5: BIG BOO'S HAUNT
-* [*] 1: GO ON A GHOST HUNT
-* [ ] 2: RIDE BIG BOO'S MERRY-GO-ROUND
+* [x] 1: GO ON A GHOST HUNT
+* [x] 2: RIDE BIG BOO'S MERRY-GO-ROUND
+* [ ] 3: SECRET OF THE HAUNTED BOOKS
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
