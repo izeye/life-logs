@@ -46,6 +46,8 @@
   * [Super Mario 64: Walkthrough (Wall Kicks Will Work)](https://www.youtube.com/watch?v=e1eXZSZ9DU8)
 * [x] 100 COINS
   * [Super Mario 64: Walkthrough(Cool, Cool, Mountain 100 Coins)](https://www.youtube.com/watch?v=sre_6HUZ-2o)
+## COURSE 5: BIG BOO'S HAUNT
+* [ ] 1: GO ON A GHOST HUNT
 ## COURSE 6: HAZY MAZE CAVE
 * [x] 1: SWIMMING BEAST IN THE CAVERN
 * [ ] 2: ELEVATE FOR 8 RED COINS
