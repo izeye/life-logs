@@ -53,7 +53,7 @@
 * [x] 4: SEEK THE 8 RED COINS
 * [x] 5: BIG BOO'S BALCONY
   * [Super Mario 64: Walkthrough (Big Boo's Balcony)](https://www.youtube.com/watch?v=bAr7wJtl8TI)
-* [ ] 6: EYE TO EYE IN THE SECRET ROOM
+* [x] 6: EYE TO EYE IN THE SECRET ROOM
   * [Super Mario 64: Walkthrough (Eye to Eye in the Secret Room)](https://www.youtube.com/watch?v=YA2cUty9qAU)
 * [x] 100 COINS
 ## COURSE 6: HAZY MAZE CAVE
