@@ -72,5 +72,6 @@
 * [x] 5: HAZE MAZE CAVE
 * [x] 6: BOWSER IN THE DARK WORLD
   * [Super Mario 64: Walkthrough (Bowser Fight 1)](https://www.youtube.com/watch?v=pWfnXZntwso)
+* [x] 7
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
