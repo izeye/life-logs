@@ -61,6 +61,7 @@
 * [x] 2: ELEVATE FOR 8 RED COINS
 * [x] 3: METAL-HEAD MARIO CAN MOVE!
 * [ ] 4: NAVIGATING THE TOXIC MAZE
+  * [Super Mario 64: Walkthrough (Navigating the Toxic Maze)](https://www.youtube.com/watch?v=Uyd0kaMyQ64)
 * [x] 5: A-MAZE-ING EMERGENCY EXIT
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
