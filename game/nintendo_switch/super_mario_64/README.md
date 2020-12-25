@@ -66,6 +66,7 @@
 * [x] 6: WATCH FOR ROLLING ROCKS
   * [Super Mario 64: Walkthrough (Watch for Falling Rocks)](https://www.youtube.com/watch?v=CovJURE6sjg)
 * [ ] 100 COINS
+  * [Super Mario 64: Walkthrough (Haze Maze Cave 100 Coins)](https://www.youtube.com/watch?v=cEU5a5wrCRQ)
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
