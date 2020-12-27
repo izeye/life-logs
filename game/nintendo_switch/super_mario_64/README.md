@@ -68,7 +68,8 @@
 * [x] 100 COINS
   * [Super Mario 64: Walkthrough (Haze Maze Cave 100 Coins)](https://www.youtube.com/watch?v=cEU5a5wrCRQ)
 ## COURSE 7: LETHAL LAVA LAND
-* [ ] 1: BOIL THE BIG BULLY
+* [x] 1: BOIL THE BIG BULLY
+* [ ] 2: BULLY THE BULLIES
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
