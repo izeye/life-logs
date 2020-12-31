@@ -74,6 +74,7 @@
 * [x] 4: RED-HOT LOG ROLLING
 * [x] 5: HOT-FOOT-IT INTO THE VOLCANO
 * [ ] 6: ELEVATOR TOUR IN THE VOLCANO
+  * [Super Mario 64: Walkthrough (Elevator Tour in the Volcano)](https://www.youtube.com/watch?v=un5MRm06VTc)
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
