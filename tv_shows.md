@@ -8,6 +8,7 @@
 * 고담 (Gotham)
   * Season 1 (Episode 1-22)
   * Season 2 (Episode 1-22)
+  * Season 3 (Episode 1-21)
 * 그림 (Grimm)
   * Season 1 (Episode 1-22)
   * Season 2 (Episode 1-22)
