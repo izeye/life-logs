@@ -76,6 +76,7 @@
 * [x] 6: ELEVATOR TOUR IN THE VOLCANO
   * [Super Mario 64: Walkthrough (Elevator Tour in the Volcano)](https://www.youtube.com/watch?v=un5MRm06VTc)
 * [ ] 100 COINS
+  * [Super Mario 64: Walkthrough (Lethal Lava Land 100 Coins)](https://www.youtube.com/watch?v=haFHYfyonDU)
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
