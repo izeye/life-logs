@@ -78,7 +78,8 @@
 * [x] 100 COINS
   * [Super Mario 64: Walkthrough (Lethal Lava Land 100 Coins)](https://www.youtube.com/watch?v=haFHYfyonDU)
 ## COURSE 8: SHIFTING SAND LAND
-* [ ] 1: IN THE TALONS OF THE BIG BIRD
+* [x] 1: IN THE TALONS OF THE BIG BIRD
+* [ ] 2: SHINING ATOP THE PYRAMID
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
