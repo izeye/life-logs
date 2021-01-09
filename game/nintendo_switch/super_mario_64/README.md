@@ -79,9 +79,10 @@
   * [Super Mario 64: Walkthrough (Lethal Lava Land 100 Coins)](https://www.youtube.com/watch?v=haFHYfyonDU)
 ## COURSE 8: SHIFTING SAND LAND
 * [x] 1: IN THE TALONS OF THE BIG BIRD
-* [ ] 2: SHINING ATOP THE PYRAMID
+* [x] 2: SHINING ATOP THE PYRAMID
   * [Super Mario 64: Walkthrough (Shining Atop the Pyramid)](https://www.youtube.com/watch?v=MvYPUj9YI4k)
 * [x] 3: INSIDE THE ANCIENT PYRAMID
+* [ ] 4: STAND TALL ON THE FOUR PILLARS
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
