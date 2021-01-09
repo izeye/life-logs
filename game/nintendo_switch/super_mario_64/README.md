@@ -96,7 +96,7 @@
   * [Super Mario 64: Walkthrough (Bowser Fight 1)](https://www.youtube.com/watch?v=pWfnXZntwso)
 * [x] 7
 * [x] 8: VANISH CAP UNDER THE MOAT
-* [ ] 9
+* [x] 9: CAVERN OF THE METAL CAP
 * [x] 10
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
