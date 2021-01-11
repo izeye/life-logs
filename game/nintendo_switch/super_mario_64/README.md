@@ -82,8 +82,9 @@
 * [x] 2: SHINING ATOP THE PYRAMID
   * [Super Mario 64: Walkthrough (Shining Atop the Pyramid)](https://www.youtube.com/watch?v=MvYPUj9YI4k)
 * [x] 3: INSIDE THE ANCIENT PYRAMID
-* [ ] 4: STAND TALL ON THE FOUR PILLARS
+* [x] 4: STAND TALL ON THE FOUR PILLARS
   * [Super Mario 64: Walkthrough (Stand Tall on the Four Pillars)](https://www.youtube.com/watch?v=pCtG4yMFntc)
+* [ ] 5: FREE FLYING FOR 8 RED COINS
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
