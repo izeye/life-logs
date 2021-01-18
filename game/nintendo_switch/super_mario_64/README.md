@@ -84,7 +84,8 @@
 * [x] 3: INSIDE THE ANCIENT PYRAMID
 * [x] 4: STAND TALL ON THE FOUR PILLARS
   * [Super Mario 64: Walkthrough (Stand Tall on the Four Pillars)](https://www.youtube.com/watch?v=pCtG4yMFntc)
-* [ ] 5: FREE FLYING FOR 8 RED COINS
+* [x] 5: FREE FLYING FOR 8 RED COINS
+* [ ] 6: PYRAMID PUZZLE
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
 ## THE CASTLE'S SECRET STARS
