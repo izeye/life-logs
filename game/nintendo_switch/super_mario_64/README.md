@@ -86,6 +86,7 @@
   * [Super Mario 64: Walkthrough (Stand Tall on the Four Pillars)](https://www.youtube.com/watch?v=pCtG4yMFntc)
 * [x] 5: FREE FLYING FOR 8 RED COINS
 * [ ] 6: PYRAMID PUZZLE
+  * [Super Mario 64: Walkthrough (Pyramid Puzzle)](https://www.youtube.com/watch?v=CjzqAmEjQ5s)
 * [x] 100 COINS
 ## COURSE 9: DIRE, DIRE DOCKS
 * [ ] 1. BOARD BOWSER'S SUB
