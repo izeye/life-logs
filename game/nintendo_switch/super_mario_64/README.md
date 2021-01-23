@@ -107,7 +107,7 @@
 * [x] 8: VANISH CAP UNDER THE MOAT
 * [x] 9: CAVERN OF THE METAL CAP
 * [x] 10
-* [ ] 11: BOWSER IN THE FIRE SEA
+* [x] 11: BOWSER IN THE FIRE SEA
   * [Super Mario 64: Walkthrough (Bowser Fight 2)](https://www.youtube.com/watch?v=eMYzSXBuZDY)
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
