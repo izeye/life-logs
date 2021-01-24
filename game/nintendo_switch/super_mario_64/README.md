@@ -91,7 +91,8 @@
 ## COURSE 9: DIRE, DIRE DOCKS
 * [x] 1. BOARD BOWSER'S SUB
 * [x] 2. CHESTS IN THE CURRENT
-* [ ] 3. POLE-JUMPING FOR RED COINS
+* [x] 3. POLE-JUMPING FOR RED COINS
+* [ ] 4. THROUGH THE JET STREAM
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
