@@ -5,6 +5,7 @@
   * Season 3 (Episode 1-10)
 * DC 레전드 오브 투모로우 (DC's Legends of Tomorrow)
   * Season 1 (Episode 1-16)
+  * Season 2 (Episode 1-17)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
 * 고담 (Gotham)
