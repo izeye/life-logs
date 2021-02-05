@@ -107,7 +107,8 @@
 * [x] 3: IN THE DEEP FREEZE
   * [Super Mario 64: Walkthrough (In the Deep Freeze)](https://www.youtube.com/watch?v=dbun-jKQfaA)
 * [x] 4: WHIRL FROM THE FREEZING POND
-* [ ] 5: SHELL SHREDDIN' FOR RED COINS
+* [x] 5: SHELL SHREDDIN' FOR RED COINS
+  * [Super Mario 64: Walkthrough (Shell Shreddin' for Red Coins)](https://www.youtube.com/watch?v=C_BXmdKpCzQ)
 * [x] 6: INTO THE IGLOO
   * [Super Mario 64: Walkthrough (Into the Igloo)](https://www.youtube.com/watch?v=olouCPWRlgw)
 ## THE CASTLE'S SECRET STARS
