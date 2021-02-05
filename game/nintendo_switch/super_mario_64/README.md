@@ -100,7 +100,8 @@
 * [x] 100 COINS
   * [100 Coins in Dire, Dire Docks - Super Mario 64 Walkthrough](https://www.youtube.com/watch?v=3l6CCkUQRIc)
 ## COURSE 10: SNOWMAN'S LAND
-* [ ] 1: SNOWMAN'S BIG HEAD
+* [x] 1: SNOWMAN'S BIG HEAD
+  * [Super Mario 64: Walkthrough (Snowman's Big Head)](https://www.youtube.com/watch?v=6pCQeHUl-RQ)
 * [x] 2: CHILL WITH THE BULLY
   * [Super Mario 64: Walkthrough (Chill With the Bully)](https://www.youtube.com/watch?v=V8yekpjrz1E)
 * [x] 3: IN THE DEEP FREEZE
