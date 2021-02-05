@@ -106,7 +106,8 @@
   * [Super Mario 64: Walkthrough (Chill With the Bully)](https://www.youtube.com/watch?v=V8yekpjrz1E)
 * [x] 3: IN THE DEEP FREEZE
   * [Super Mario 64: Walkthrough (In the Deep Freeze)](https://www.youtube.com/watch?v=dbun-jKQfaA)
-* [ ] 4: WHIRL FROM THE FREEZING POND
+* [x] 4: WHIRL FROM THE FREEZING POND
+* [ ] 5: SHELL SHREDDIN' FOR RED COINS
 * [x] 6: INTO THE IGLOO
   * [Super Mario 64: Walkthrough (Into the Igloo)](https://www.youtube.com/watch?v=olouCPWRlgw)
 ## THE CASTLE'S SECRET STARS
