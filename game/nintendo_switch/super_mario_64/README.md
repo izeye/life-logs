@@ -111,6 +111,9 @@
   * [Super Mario 64: Walkthrough (Shell Shreddin' for Red Coins)](https://www.youtube.com/watch?v=C_BXmdKpCzQ)
 * [x] 6: INTO THE IGLOO
   * [Super Mario 64: Walkthrough (Into the Igloo)](https://www.youtube.com/watch?v=olouCPWRlgw)
+* [x] 100 COINS
+## COURSE 11: WET-DRY WORLD
+* [ ]: 1: SHOCKING ARROW LIFTS!
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
