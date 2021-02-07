@@ -119,7 +119,8 @@
   * [Super Mario 64: Walkthrough (Top o' the Town)](https://www.youtube.com/watch?v=9A8Q3Nxmkm8)
 * [x] 3: SECRETS IN THE SHALLOWS & SKY
   * [Super Mario 64: Walkthrough (Secrets in the Shallows & Sky)](https://www.youtube.com/watch?v=MPKyCQvyhvA)
-* [ ] 4: EXPRESS ELEVATOR -- HURRY UP!
+* [x] 4: EXPRESS ELEVATOR -- HURRY UP!
+  * [Super Mario 64: Walkthrough (Express Elevator--Hurry Up)](https://www.youtube.com/watch?v=ytyv-vrbFzY)
 * [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
