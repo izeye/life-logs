@@ -114,6 +114,7 @@
 * [x] 100 COINS
 ## COURSE 11: WET-DRY WORLD
 * [ ] 1: SHOCKING ARROW LIFTS!
+  * [Super Mario 64: Walkthrough (Shockin Arrow Lifts)](https://www.youtube.com/watch?v=eRKh710gO7I)
 * [x] 2: TOP O' THE TOWN
   * [Super Mario 64: Walkthrough (Top o' the Town)](https://www.youtube.com/watch?v=9A8Q3Nxmkm8)
 ## THE CASTLE'S SECRET STARS
