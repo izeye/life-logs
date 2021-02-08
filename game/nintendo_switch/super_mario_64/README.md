@@ -121,6 +121,8 @@
   * [Super Mario 64: Walkthrough (Secrets in the Shallows & Sky)](https://www.youtube.com/watch?v=MPKyCQvyhvA)
 * [x] 4: EXPRESS ELEVATOR -- HURRY UP!
   * [Super Mario 64: Walkthrough (Express Elevator--Hurry Up)](https://www.youtube.com/watch?v=ytyv-vrbFzY)
+* [ ] 5: GO TO TOWN FOR RED COINS
+  * [Super Mario 64: Walkthrough (Go to Town for Red Coins)](https://www.youtube.com/watch?v=NQPF06qO6U4)
 * [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
