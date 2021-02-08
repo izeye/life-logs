@@ -123,7 +123,8 @@
   * [Super Mario 64: Walkthrough (Express Elevator--Hurry Up)](https://www.youtube.com/watch?v=ytyv-vrbFzY)
 * [x] 5: GO TO TOWN FOR RED COINS
   * [Super Mario 64: Walkthrough (Go to Town for Red Coins)](https://www.youtube.com/watch?v=NQPF06qO6U4)
-* [ ] 6: QUICK RACE THROUGH DOWNTOWN!
+* [x] 6: QUICK RACE THROUGH DOWNTOWN!
+  * [Super Mario 64: Walkthrough (Quick Race Downtown)](https://www.youtube.com/watch?v=9yWw88Wv9Zw)
 * [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
