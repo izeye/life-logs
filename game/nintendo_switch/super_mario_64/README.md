@@ -128,6 +128,8 @@
 * [x] 100 COINS
 ## COURSE 12: TALL, TALL MOUNTAIN
 * [ ] 1: SCALE THE MOUNTAIN
+* [x] 3: SCARY 'SHROOMS, RED COINS
+  * [Super Mario 64: Walkthrough (Scary 'Shrooms, Red Coins)](https://www.youtube.com/watch?v=juXBVuKmu5k)
 * [x] 4: MYSTERIOUS MOUNTAINSIDE
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
