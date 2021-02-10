@@ -135,6 +135,7 @@
   * [Super Mario 64: Walkthrough (Scary 'Shrooms, Red Coins)](https://www.youtube.com/watch?v=juXBVuKmu5k)
 * [x] 4: MYSTERIOUS MOUNTAINSIDE
 * [ ] 5: BREATHTAKING VIEW FROM BRIDGE
+  * [Super Mario 64: Walkthrough (Breathtaking View From Bridge)](https://www.youtube.com/watch?v=c0aEBCmjF-0)
 * [x] 6: BLAST TO THE LONELY MUSHROOM
   * [Super Mario 64: Walkthrough (Blast to the Lonely Mushroom)](https://www.youtube.com/watch?v=nMfoF6nRtXw)
 ## THE CASTLE'S SECRET STARS
