@@ -127,7 +127,9 @@
   * [Super Mario 64: Walkthrough (Quick Race Downtown)](https://www.youtube.com/watch?v=9yWw88Wv9Zw)
 * [x] 100 COINS
 ## COURSE 12: TALL, TALL MOUNTAIN
-* [ ] 1: SCALE THE MOUNTAIN
+* [x] 1: SCALE THE MOUNTAIN
+  * [Super Mario 64: Walkthrough (Scale the Mountain)](https://www.youtube.com/watch?v=t09KAGBuRZM)
+* [ ] 2: MYSTERY OF THE MONKEY CAGE
 * [x] 3: SCARY 'SHROOMS, RED COINS
   * [Super Mario 64: Walkthrough (Scary 'Shrooms, Red Coins)](https://www.youtube.com/watch?v=juXBVuKmu5k)
 * [x] 4: MYSTERIOUS MOUNTAINSIDE
