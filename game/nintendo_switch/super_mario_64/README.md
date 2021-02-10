@@ -129,10 +129,12 @@
 ## COURSE 12: TALL, TALL MOUNTAIN
 * [x] 1: SCALE THE MOUNTAIN
   * [Super Mario 64: Walkthrough (Scale the Mountain)](https://www.youtube.com/watch?v=t09KAGBuRZM)
-* [ ] 2: MYSTERY OF THE MONKEY CAGE
+* [x] 2: MYSTERY OF THE MONKEY CAGE
+  * [Super Mario 64: Walkthrough (Mystery of the Monkey Cage)](https://www.youtube.com/watch?v=FsJu7DEU3dc)
 * [x] 3: SCARY 'SHROOMS, RED COINS
   * [Super Mario 64: Walkthrough (Scary 'Shrooms, Red Coins)](https://www.youtube.com/watch?v=juXBVuKmu5k)
 * [x] 4: MYSTERIOUS MOUNTAINSIDE
+* [ ] 5: BREATHTAKING VIEW FROM BRIDGE
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
