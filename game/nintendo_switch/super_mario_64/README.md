@@ -138,7 +138,7 @@
   * [Super Mario 64: Walkthrough (Breathtaking View From Bridge)](https://www.youtube.com/watch?v=c0aEBCmjF-0)
 * [x] 6: BLAST TO THE LONELY MUSHROOM
   * [Super Mario 64: Walkthrough (Blast to the Lonely Mushroom)](https://www.youtube.com/watch?v=nMfoF6nRtXw)
-* [ ] 100 COINS
+* [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
