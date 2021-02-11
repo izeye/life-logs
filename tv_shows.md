@@ -7,6 +7,7 @@
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-17)
   * Season 3 (Episode 1-18)
+  * Season 4 (Episode 1-16)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
 * 고담 (Gotham)
