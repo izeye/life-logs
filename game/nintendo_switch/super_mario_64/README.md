@@ -145,7 +145,9 @@
   * [Super Mario 64: Walkthrough (The Tip Top of the Huge Island)](https://www.youtube.com/watch?v=i9acCmshofw)
 * [x] 3: REMATCH WITH KOOPA THE QUICK
   * [Super Mario 64: Walkthrough (Rematch With Koopa the Quick)](https://www.youtube.com/watch?v=KoHmHAwJoQM)
-* [ ] 4: FIVE ITTY BITTY SECRETS
+* [x] 4: FIVE ITTY BITTY SECRETS
+  * [Super Mario 64: Walkthrough (Five Itty Bitty Secrets)](https://www.youtube.com/watch?v=LD2SIGEdBCA)
+* [ ] 5: WIGGLER'S RED COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
