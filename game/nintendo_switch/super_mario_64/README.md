@@ -165,5 +165,7 @@
   * [Super Mario 64: Walkthrough (Bowser Fight 2)](https://www.youtube.com/watch?v=eMYzSXBuZDY)
 * [x] 12
   * [Super Mario 64: Walkthrough (Secret Star 12)](https://www.youtube.com/watch?v=1s4UvjSXLlY)
+* [x] 13
+  * [Super Mario 64: Walkthrough (Secret Star 13)](https://www.youtube.com/watch?v=wfMq5wFwRMc)
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
