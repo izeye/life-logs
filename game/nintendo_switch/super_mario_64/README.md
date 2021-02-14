@@ -157,7 +157,9 @@
   * [Super Mario 64: Walkthrough (Roll Into the Cage)](https://www.youtube.com/watch?v=WAm1UfpbkS0)
 * [x] 2: THE PIT AND THE PENDULUMS
   * [Super Mario 64: Walkthrough (The Pit and the Pendulum)](https://www.youtube.com/watch?v=_OINM7agfB0)
-* [ ] 3: GET A HAND
+* [x] 3: GET A HAND
+  * [Super Mario 64: Walkthrough (Get a Hand)](https://www.youtube.com/watch?v=YG8knATERFs)
+* [ ] 4: STOMP ON THE THWOMP
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
