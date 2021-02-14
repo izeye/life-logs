@@ -149,7 +149,8 @@
   * [Super Mario 64: Walkthrough (Five Itty Bitty Secrets)](https://www.youtube.com/watch?v=LD2SIGEdBCA)
 * [x] 5: WIGGLER'S RED COINS
   * [Super Mario 64: Walkthrough (Wiggler's Red Coins)](https://www.youtube.com/watch?v=9lKTOXYxb94)
-* [ ] 6: MAKE WIGGLER SQUIRM
+* [x] 6: MAKE WIGGLER SQUIRM
+  * [Super Mario 64: Walkthrough (Make Wiggler Squim)](https://www.youtube.com/watch?v=LMqUZUCU25c)
 * [x] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
