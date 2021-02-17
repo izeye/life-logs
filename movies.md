@@ -88,6 +88,7 @@
 * 몬스터 대학교 (Monsters University, 2013)
 * 몬스터 패밀리 (Monster Family, 2017)
 * 몬스터 하우스 (Monster House, 2006)
+* 몬스터 호텔 (Hotel Transylvania, 2012)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 미션 임파서블: 로그네이션 (Mission: Impossible - Rogue Nation, 2015)
 * 미스 슬로운 (Miss Sloane, 2016)
