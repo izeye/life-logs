@@ -160,6 +160,7 @@
 * [x] 3: GET A HAND
   * [Super Mario 64: Walkthrough (Get a Hand)](https://www.youtube.com/watch?v=YG8knATERFs)
 * [ ] 4: STOMP ON THE THWOMP
+  * [Super Mario 64: Walkthrough (Stomp on a Thwomp)](https://www.youtube.com/watch?v=IDuILTkHyF4)
 * [x] 5: TIMED JUMPS ON MOVING BARS
   * [Super Mario 64: Walkthrough (Timed Jumps on Moving Bars)](https://www.youtube.com/watch?v=YiP7dQTvx5A)
 * [x] 6: STOP TIME FOR RED COINS
