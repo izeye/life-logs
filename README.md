@@ -10,3 +10,6 @@
   * Season 1 (Episode 1-26)
 * 토끼네 집으로 오세요 (Max & Ruby)
   * Season 1 (Episode 1)
+
+## YouTube
+* [BITCOIN EXPLAINED (BC Explained ep 1)](https://www.youtube.com/watch?v=YHjYt6Jm5j8)
