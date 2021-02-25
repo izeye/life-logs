@@ -155,6 +155,7 @@
 * 스파이더맨: 뉴 유니버스 (Spider-Man: Into the Spider-Verse, 2018)
 * 스파이더맨: 파 프롬 홈 (Spider-Man: Far From Home, 2019)
 * 스파이더위크가의 비밀 (The Spiderwick Chronicles, 2008)
+* 스파키 (Spark: A Space Tail, 2016)
 * 스플릿 (Split, 2016)
 * 스피드 큐브의 천재들 (The Speed Cubers, 2020)
 * 슬로우 웨스트 (Slow West, 2015)
