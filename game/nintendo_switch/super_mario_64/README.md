@@ -169,6 +169,8 @@
   * [Super Mario 64: Walkthrough (Tick Tock Clock 100 Coins)](https://www.youtube.com/watch?v=M3fXyG97U_w)
 ## COURSE 15: RAINBOW RIDE
 * [ ] 1: CRUISER CROSSING THE RAINBOW
+* [x] 3: COINS AMASSED IN A MAZE
+  * [Super Mario 64: Walkthrough (Coins Amassed in a Maze)](https://www.youtube.com/watch?v=qI3-MnSNF2M)
 * [x] 4: SWINGIN' IN THE BREEZE
   * [Super Mario 64: Walkthrough (Swingin' in the Breeze)](https://www.youtube.com/watch?v=UDPu9rvKyaI)
 ## THE CASTLE'S SECRET STARS
