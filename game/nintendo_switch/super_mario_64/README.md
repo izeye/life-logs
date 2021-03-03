@@ -168,7 +168,9 @@
 * [x] 100 COINS
   * [Super Mario 64: Walkthrough (Tick Tock Clock 100 Coins)](https://www.youtube.com/watch?v=M3fXyG97U_w)
 ## COURSE 15: RAINBOW RIDE
-* [ ] 1: CRUISER CROSSING THE RAINBOW
+* [x] 1: CRUISER CROSSING THE RAINBOW
+  * [Super Mario 64: Walkthrough (Cruiser Crossing the Rainbow)](https://www.youtube.com/watch?v=m5WYcC3Rnag)
+* [ ] 2: THE BIG HOUSE IN THE SKY
 * [x] 3: COINS AMASSED IN A MAZE
   * [Super Mario 64: Walkthrough (Coins Amassed in a Maze)](https://www.youtube.com/watch?v=qI3-MnSNF2M)
 * [x] 4: SWINGIN' IN THE BREEZE
