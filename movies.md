@@ -264,6 +264,7 @@
 * 토르: 라그나로크 (Thor: Ragnarok, 2017)
 * 토이 스토리 4 (Toy Story 4, 2019)
 * 트롤 (Trolls, 2016)
+* 트롤: 월드 투어 (Trolls World Tour, 2020)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 특종: 량첸살인기 (The Exclusive : Beat the Devil's Tattoo, 2015)
 * 팅커 테일러 솔저 스파이 (Tinker Tailor Soldier Spy, 2011)
