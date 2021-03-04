@@ -24,6 +24,7 @@
 * 고양이의 보은 (The Cat Returns, 2002)
 * 곰돌이 푸 다시 만나 행복해 (Christopher Robin, 2018)
 * 공조 (共助, Confidential Assignment, 2016)
+* 국가부도의 날 (Default, 2018)
 * 국제시장 (Ode to My Father, 2014)
 * 귀를 기울이면 (Whisper Of The Heart, 1995)
 * 그것만이 내 세상 (Keys to the Heart, 2017)
