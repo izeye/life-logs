@@ -178,8 +178,9 @@
   * [Super Mario 64: Walkthrough (Swingin' in the Breeze)](https://www.youtube.com/watch?v=UDPu9rvKyaI)
 * [x] 5: TRICKY TRIANGLES!
   * [Super Mario 64: Walkthrough (Tricky Triangles!)](https://www.youtube.com/watch?v=941mqr4OY24)
-* [ ] 6: SOMEWHERE OVER THE RAINBOW
+* [x] 6: SOMEWHERE OVER THE RAINBOW
   * [Super Mario 64: Walkthrough (Somewhere Over the Rainbow)](https://www.youtube.com/watch?v=v5fSeX4JCT0)
+* [ ] 100 COINS
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
   * [Super Mario 64: Walkthrough (Secret Star 1)](https://www.youtube.com/watch?v=DGHh3-kzY9E)
