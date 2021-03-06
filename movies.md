@@ -216,6 +216,7 @@
 * 용서받지 못한 자 (The Unforgiven, 2005)
 * 용의자 (The Suspect, 2013)
 * 우아한 세계 (The Show Must Go On, 2007)
+* 위대한 승부 (Searching For Bobby Fischer - Innocent Moves, 1993)
 * 윌리엄 제로의 재건
 * 이글 아이 (Eagle Eye, 2008)
 * 이미테이션 게임 (The Imitation Game, 2014)
