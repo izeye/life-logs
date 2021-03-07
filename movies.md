@@ -266,6 +266,7 @@
 * 탐정 : 더 비기닝 (The Accidental Detective, 2015)
 * 탐정: 리턴즈 (The Accidental Detective 2: In Action, 2018)
 * 탑건 (Top Gun, 1986)
+* 택시운전사 (A Taxi Driver, 2017)
 * 터보 (Turbo, 2013)
 * 터키 (Free Birds, 2013)
 * 토르: 라그나로크 (Thor: Ragnarok, 2017)
