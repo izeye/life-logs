@@ -243,6 +243,7 @@
 * 존 윅 - 리로드 (John Wick Chapter Two, 2017)
 * 좋아해줘 (Like for Likes, 2015)
 * 주토피아 (Zootopia, 2016)
+* 죽지않는 인간들의 밤 (Night of the Undead, 2019)
 * 쥬만지 (Jumanji, 1995)
 * 증인 (innocent witness, 2018)
 * 지금 만나러 갑니다 (Be With You, 2017)
