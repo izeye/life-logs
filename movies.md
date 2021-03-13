@@ -18,6 +18,7 @@
 * 강철비 (Steel Rain, 2017)
 * 개구쟁이 스머프 2 (The Smurfs 2, 2013)
 * 걷기왕 (Queen of Walking, 2016)
+* 검객 (The Swordsman, 2020)
 * 검사외전 (A Violent Prosecutor, 2015)
 * 겨울왕국 2 (Frozen 2, 2019)
 * 고령화 가족 (Boomerang Family, 2013)
