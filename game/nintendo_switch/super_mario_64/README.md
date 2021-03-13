@@ -180,7 +180,7 @@
   * [Super Mario 64: Walkthrough (Tricky Triangles!)](https://www.youtube.com/watch?v=941mqr4OY24)
 * [x] 6: SOMEWHERE OVER THE RAINBOW
   * [Super Mario 64: Walkthrough (Somewhere Over the Rainbow)](https://www.youtube.com/watch?v=v5fSeX4JCT0)
-* [ ] 100 COINS
+* [x] 100 COINS
   * [Super Mario 64: Walkthrough (Rainbow Ride 100 Coins)](https://www.youtube.com/watch?v=A4kvyoUAnsc)
 ## THE CASTLE'S SECRET STARS
 * [x] 1: TOWER OF THE WING CAP
@@ -203,5 +203,7 @@
   * [Super Mario 64: Walkthrough (Secret Star 12)](https://www.youtube.com/watch?v=1s4UvjSXLlY)
 * [x] 13
   * [Super Mario 64: Walkthrough (Secret Star 13)](https://www.youtube.com/watch?v=wfMq5wFwRMc)
+* [ ] 14: WING MARIO OVER THE RAINBOW
+  * [Super Mario 64: Walkthrough (Secret Star 14)](https://www.youtube.com/watch?v=cRWiXOxqKX8)
 ## Misc.
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
