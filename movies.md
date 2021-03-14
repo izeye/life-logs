@@ -186,6 +186,7 @@
 * 아이스 에이지 2 (Ice Age: The Meltdown, 2006)
 * 아이스 에이지 3: 공룡시대 (Ice Age: Dawn Of The Dinosaurs, 2008)
 * 아이스 에이지 4: 대륙 이동설 (Ice Age: Continental Drift, 2012)
+* 아이언맨 (Iron Man, 2008)
 * 악마는 사라지지 않는다 (The Devil All the Time, 2020)
 * 알라딘 (Aladdin, 2019)
 * 알파고 (Alphago, 2017)
@@ -302,4 +303,4 @@
 * 형 (MY ANNOYING BROTHER, 2016)
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
 * 히트맨 (HITMAN: AGENT JUN, 2019)
-* 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018)
+* 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018
