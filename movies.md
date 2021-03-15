@@ -209,6 +209,7 @@
 * 에놀라 홈즈 (Enola Holmes, 2020)
 * 엘도라도 (The Road To El Dorado, 2000)
 * 염력 (Psychokinesis, 2017)
+* 예스 데이! (Yes Day, 2021)
 * 예스터데이 (Yesterday, 2019)
 * 오늘의 연애 (Love Forecast, 2014)
 * 오버 더 문 (Over the Moon, 2020)
