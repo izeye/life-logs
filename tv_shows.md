@@ -16,6 +16,8 @@
   * Season 3 (Episode 1-21)
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-12)
+* 귀멸의 칼날
+  * Season 1 (Episode 1-26)
 * 그림 (Grimm)
   * Season 1 (Episode 1-22)
   * Season 2 (Episode 1-22)
