@@ -268,6 +268,7 @@
 * 콜 (The Call, 2020)
 * 콜래트럴 (Collateral, 2004)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
+* 크리스마스 연대기: 두 번째 이야기 (The Christmas Chronicles, 2020)
 * 클라우스 (Klaus, 2019)
 * 클로버필드 (Cloverfield, 2008)
 * 킹스맨: 골든 서클 (Kingsman: The Golden Circle, 2017)
@@ -308,4 +309,4 @@
 * 형 (MY ANNOYING BROTHER, 2016)
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
 * 히트맨 (HITMAN: AGENT JUN, 2019)
-* 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018)
+* 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018
