@@ -211,4 +211,4 @@
 * [Super Mario 64 Switch how to get wing cap - Super Mario 3D All-Stars wing cap switch](https://www.youtube.com/watch?v=0_HVKPadODQ)
 * [Super Mario 64: Walkthrough (Yoshi on Top of the Castle)](https://www.youtube.com/watch?v=j6LITgEvuVk)
 * [Super Mario 64: Walkthrough (Fat Penguin Race - Easter Egg)](https://www.youtube.com/watch?v=S858wXaD2pk)
-* [Unlocking Luigi [READ THE DESCRIPTION]](https://www.youtube.com/watch?v=77OLqAZnpdw)
+* [Unlocking Luigi [READ THE DESCRIPTION]](https://www.youtube.com/watch?v=77OLqAZnpdw) - FAKE!!!
