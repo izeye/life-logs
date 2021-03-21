@@ -311,4 +311,4 @@
 * 형 (MY ANNOYING BROTHER, 2016)
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
 * 히트맨 (HITMAN: AGENT JUN, 2019)
-* 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018
+* 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018)
