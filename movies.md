@@ -190,6 +190,7 @@
 * 아이스 에이지 3: 공룡시대 (Ice Age: Dawn Of The Dinosaurs, 2008)
 * 아이스 에이지 4: 대륙 이동설 (Ice Age: Continental Drift, 2012)
 * 아이언맨 (Iron Man, 2008)
+* 아이언맨 2 (Iron Man 2, 2010)
 * 악마는 사라지지 않는다 (The Devil All the Time, 2020)
 * 알라딘 (Aladdin, 2019)
 * 알파고 (Alphago, 2017)
