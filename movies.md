@@ -295,6 +295,7 @@
 * 파라독스 (Paradox, 2016)
 * 판도라 (Pandora, 2016)
 * 팬 (Pan, 2015)
+* 퍼스트 어벤져 (Captain America: The First Avenger, 2011)
 * 퍼시픽 림 (Pacific Rim, 2013)
 * 퍼펙트맨 (Man of Men, 2018)
 * 폴라 (Polar, 2019)
