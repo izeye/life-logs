@@ -107,6 +107,8 @@
   * Season 3 (Episode 1-23)
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-19)
+* 슬기로운 감빵생활
+  * Season 1 (Episode 1-16)
 * 시간 여행자 (Travelers)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
