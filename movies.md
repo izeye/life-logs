@@ -132,6 +132,7 @@
 * 블리치 극장판 3 - 페이드 투 블랙 (劇場版 BLEACH Fade To Black, 2008)
 * 비밥바룰라 (2017)
 * 비스틀리 (Beastly, 2011)
+* 비트를 느껴봐 (Feel the Beat)
 * 빅쇼트 (The Big Short, 2015)
 * 사도 (The Throne, 2014)
 * 사랑하기 때문에 (BECAUSE I LOVE YOU, 2016)
