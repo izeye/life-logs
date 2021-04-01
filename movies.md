@@ -179,6 +179,7 @@
 * 신비한 동물사전 (Fantastic Beasts and Where to Find Them, 2016)
 * 신세계 (New World, 2012)
 * 신의 한 수 (The Divine Move, 2014)
+* 싱글라이더 (A single rider, 2016)
 * 싱크로니시티 (Synchronicity, 2016)
 * 써클 (Circle, 2015)
 * 쏜다 (Big Bang, 2007)
