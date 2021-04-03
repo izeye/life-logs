@@ -271,6 +271,7 @@
 * 청년경찰 (Midnight Runners, 2017)
 * 취화선 (醉畵仙, Chihwaseon, 2002)
 * 캡틴 아메리카: 시빌 워 (Captain America: Civil War, 2016)
+* 캡틴 아메리카: 윈터 솔져 (Captain America: The Winter Soldier, 2014)
 * 캡틴 필립스 (Captain Phillips, 2013)
 * 코드 8 (Code 8, 2019)
 * 코코 (Coco, 2017)
