@@ -109,6 +109,8 @@
   * Season 5 (Episode 1-19)
 * 슬기로운 감빵생활
   * Season 1 (Episode 1-16)
+* 슬기로운 의사생활
+  * Season 1 (Episode 1-12)
 * 시간 여행자 (Travelers)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
