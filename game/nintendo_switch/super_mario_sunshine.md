@@ -5,4 +5,5 @@
 ### BIANCO HILLS
 * [x] 2: EPISODE 1: Road to the Big Windmill
 * [x] 3: EPISODE 2: Down with Petey Piranha!
-* [ ] 4: EPISODE 3: The Hillside Cave Secret
+* [x] 4: EPISODE 3: The Hillside Cave Secret
+* [ ] 5: EPISODE 4: Red Coins of Windmill Village
