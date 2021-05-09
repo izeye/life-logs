@@ -195,6 +195,7 @@
 * 콜로니 (Colony)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-13)
+  * Season 3 (Episode 1-13)
 * 퀸스 갬빗 (The Queen's Gambit)
   * Season 1 (Episode 1-7)
 * 킹덤 (Kingdom)
