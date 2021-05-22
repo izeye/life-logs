@@ -212,6 +212,7 @@
 * 야망의 함정 (The Firm, 1993)
 * 야수와 미녀 (The Beast And The Beauty, 2005)
 * 어린왕자 (The Little Prince, 2015)
+* 어메이징 스파이더맨 (The Amazing Spider-Man, 2012)
 * 어메이징 스파이더맨 2 (The Amazing Spider-Man 2, 2014)
 * 어벤져스 (The Avengers, 2012)
 * 어벤져스: 에이지 오브 울트론 (The Avengers: Age of Ultron, 2015)
