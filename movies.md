@@ -157,6 +157,7 @@
 * 셜록 홈즈 (Sherlock Holmes, 2009)
 * 셜록홈즈 : 그림자 게임 (Sherlock Holmes: A Game of Shadows, 2011)
 * 소스 코드 (Source Code, 2011)
+* 소울 (Soul, 2020)
 * 수상한 고객들 (Suspicious Customers, 2011)
 * 슈퍼 에이트 (Super 8, 2011)
 * 슈퍼배드 (Despicable Me, 2010)
