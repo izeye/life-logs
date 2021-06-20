@@ -246,6 +246,7 @@
 * 원라인 (ONE-LINE, 2016)
 * 월터의 상상은 현실이 된다 (The Secret Life of Walter Mitty, 2013)
 * 위대한 승부 (Searching For Bobby Fischer - Innocent Moves, 1993)
+* 위시 드래곤 (Wish Dragon, 2020)
 * 윌리엄 제로의 재건
 * 이글 아이 (Eagle Eye, 2008)
 * 이미테이션 게임 (The Imitation Game, 2014)
