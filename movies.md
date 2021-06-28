@@ -294,6 +294,7 @@
 * 코코 (Coco, 2017)
 * 콜 (The Call, 2020)
 * 콜래트럴 (Collateral, 2004)
+* 크루즈 패밀리 (The Croods, 2013)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
 * 크리스마스 연대기: 두 번째 이야기 (The Christmas Chronicles, 2020)
 * 클라우스 (Klaus, 2019)
