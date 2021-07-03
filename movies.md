@@ -148,6 +148,7 @@
 * 샤이닝 (The Shining, 1980)
 * 설리: 허드슨강의 기적 (SULLY, 2016)
 * 성난 변호사 (The Advocate : A missing body, 2015)
+* 성난황소 (Unstoppable, 2018)
 * 성룡의 미라클 (奇蹟: Mr Canton And Lady Rose, Miracle, 1989)
 * 성룡의 신주쿠 살인사건 (新宿事件, The Shinjuku Incident, 2008)
 * 성룡의 신화 (神話: The Myth, 2005)
