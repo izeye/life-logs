@@ -103,6 +103,7 @@
 * 몬스터 호텔 (Hotel Transylvania, 2012)
 * 몬스터 호텔 2 (Hotel Transylvania 2, 2015)
 * 몬스터 호텔 3 (Hotel Transylvania 3: A Monster Vacation, 2018)
+* 미니언즈 (Minions, 2015)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
 * 미션 임파서블: 로그네이션 (Mission: Impossible - Rogue Nation, 2015)
 * 미스 슬로운 (Miss Sloane, 2016)
