@@ -334,6 +334,7 @@
 * 프로젝트 파워 (Project Power, 2020)
 * 하늘에서 음식이 내린다면 (Cloudy With A Chance Of Meatballs, 2009)
 * 하늘에서 음식이 내린다면 2 (Cloudy with a Chance of Meatballs 2, 2013)
+* 하늘을 나는 유령선 (Sora Tobu Yureisen, Flying Phantom Ship, 1969)
 * 하울의 움직이는 성 (Howl's Moving Castle, 2004)
 * 해리 포터와 마법사의 돌 (Harry Potter And The Sorcerer's Stone, 2001)
 * 해리 포터와 불사조 기사단 (Harry Potter And The Order Of The Phoenix, 2007)
