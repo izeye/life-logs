@@ -68,6 +68,7 @@
 * 덕구 (Stand by me, 2017)
 * 데드풀 (Deadpool, 2016)
 * 데몰리션 맨 (Demolition Man, 1993)
+* 도라에몽: 스탠바이미 2 (STAND BY ME ドラえもん 2, Stand by Me Doraemon 2, 2020)
 * 도라에몽:스탠바이미 (Stand by Me Doraemon, 2014)
 * 돈 (Money, 2018)
 * 돈 세이 워드 (Don't Say A Word, 2001)
