@@ -23,6 +23,8 @@
   * Season 5 (Episode 1-12)
 * 괴물
   * Season 1 (Episode 1-16)
+* 굿 닥터 (The Good Doctor)
+  * Season 1 (Episode 1-18)
 * 귀멸의 칼날
   * Season 1 (Episode 1-26)
 * 그림 (Grimm)
