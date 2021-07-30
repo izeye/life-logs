@@ -212,6 +212,7 @@
 * 킹덤 (Kingdom)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
+* 킹덤: 아신전 (Kingdom: Ashin of the North)
 * 타이탄 (Titans)
   * Season 1 (Episode 1-11)
   * Season 2 (Episode 1-13)
