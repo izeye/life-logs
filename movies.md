@@ -133,6 +133,7 @@
 * 블랙 팬서 (Black Panther, 2018)
 * 블랙 호크 다운 (Black Hawk Down, 2001)
 * 블랙머니 (BLACK MONEY, 2019)
+* 블러드 레드 스카이 (Blood Red Sky, 2021)
 * 블리치 (Bleach, 2018)
 * 블리치 - 극장판 (劇場版 Bleach: Memories Of Nobody, 2006)
 * 블리치 극장판 - 지옥편 (Gekijouban Bleach: Jigokuhen, 2010)
