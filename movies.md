@@ -283,6 +283,7 @@
 * 쥬만지 (Jumanji, 1995)
 * 증인 (innocent witness, 2018)
 * 지금 만나러 갑니다 (Be With You, 2017)
+* 지오스톰 Geostorm, 2017)
 * 지옥에서 온 전언
 * 지푸라기라도 잡고 싶은 짐승들 (BEASTS CLAWING AT STRAWS, 2018)
 * 차일드 44 (Child 44, 2015)
