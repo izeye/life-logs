@@ -88,6 +88,7 @@
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-13)
 * 명불허전 (Episode 1-16)
+* 무법 변호사 (Episode 1-16)
 * 미스터 션샤인: Gun, Glory, Sad ending
   * Season 1 (Episode 1-24)
 * 뷰티 인사이드
