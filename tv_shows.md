@@ -134,6 +134,7 @@
   * Season 3 (Episode 1-10)
 * 시그널
   * Season 1 (Episode 1-16)
+* 시지프스 : the myth (Episode 1-16)
 * 싸우자 귀신아 (Episode 1-16)
 * 애로우 (Arrow)
   * Season 1 (Episode 1-23)
