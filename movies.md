@@ -132,6 +132,7 @@
 * 부산행 (TRAIN TO BUSAN, 2016)
 * 분노의 질주: 더 세븐 (Fast & Furious 7, 2015)
 * 브이 포 벤데타 (V For Vendetta, 2005)
+* 블랙 위도우 (Black Widow, 2021)
 * 블랙 팬서 (Black Panther, 2018)
 * 블랙 호크 다운 (Black Hawk Down, 2001)
 * 블랙머니 (BLACK MONEY, 2019)
