@@ -83,6 +83,7 @@
 * 레인 오브 파이어 (Reign Of Fire, 2002)
 * 로건 (Logan, 2017)
 * 로우리스 : 나쁜 영웅들 (Lawless, 2012)
+* 루카 (Luca, 2021)
 * 리벤져 (Revenger, 2018)
 * 리크루트 (The Recruit, 2003)
 * 마녀 배달부 키키 (Kiki's Delivery Service, 1989)
