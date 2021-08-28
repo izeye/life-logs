@@ -38,6 +38,7 @@
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-9)
   * Season 3 (Episode 1-8)
+* 기생수 (Episode 1-24)
 * 눈이 부시게
   * Season 1 (Episode 1-12)
 * 더 할로우 (The Hollow)
