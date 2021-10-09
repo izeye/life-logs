@@ -35,6 +35,7 @@
 * 그것만이 내 세상 (Keys to the Heart, 2017)
 * 그녀를 믿지 마세요 (Don't Believe Her, 2004)
 * 그린치 (The Grinch, 2018)
+* 극장판 귀멸의 칼날: 무한열차편 (劇場版「鬼滅の刃」無限列車編, Demon Slayer: Kimetsu no Yaiba the Movie - Mugen Train, 2020)
 * 극장판 도라에몽: 진구의 보물섬 (映画ドラえもん　のび太の宝島, Doraemon the Movie: Nobita's Treasure Island, 2018)
 * 극장판 도라에몽:신 진구의 버스 오브 재팬 (映画ドラえもん 新・のび太の日本誕生, DORAEMON THE MOVIE: NOBITA AND THE BIRTH OF JAPAN, 2016)
 * 극장판 도라에몽:진구의 남극 꽁꽁 대모험 (映画ドラえもん のび太の南極カチコチ大冒険, DORAEMON THE MOVIE GREAT ADVENTURE IN THE ANTARCTIC KACHI KOCHI, 2017)
