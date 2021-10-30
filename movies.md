@@ -317,6 +317,7 @@
 * 코코 (Coco, 2017)
 * 콜 (The Call, 2020)
 * 콜래트럴 (Collateral, 2004)
+* 크루엘라 (Cruella, 2021)
 * 크루즈 패밀리 (The Croods, 2013)
 * 크루즈 패밀리: 뉴 에이지 (The Croods: A New Age, 2020)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
