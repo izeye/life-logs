@@ -206,6 +206,8 @@
   * Season 1 (Episode 1-3)
 * 주피터스 레거시 (Jupiter's Legacy)
   * Season 1 (Episode 1-8)
+* 지옥 (Hellbound)
+  * Season 1 (Episode 1-6)
 * 착오 (Glitch)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
