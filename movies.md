@@ -303,6 +303,7 @@
 * 지오스톰 Geostorm, 2017)
 * 지옥에서 온 전언
 * 지푸라기라도 잡고 싶은 짐승들 (BEASTS CLAWING AT STRAWS, 2018)
+* 징글 쟁글: 저니의 크리스마스 (Jingle Jangle: A Christmas Journey, 2020)
 * 차일드 44 (Child 44, 2015)
 * 찰리와 초콜릿 공장 (Charlie And The Chocolate Factory, 2005)
 * 천공의 성 라퓨타 (Laputa: Castle In The Sky, 1986)
