@@ -326,6 +326,7 @@
 * 크루즈 패밀리: 뉴 에이지 (The Croods: A New Age, 2020)
 * 크리스마스 연대기 (The Christmas Chronicles, 2018)
 * 크리스마스 연대기: 두 번째 이야기 (The Christmas Chronicles, 2020)
+* 크리스마스로 불리는 소년 (A Boy Called Christmas, 2021)
 * 클라우스 (Klaus, 2019)
 * 클로버필드 (Cloverfield, 2008)
 * 클로젯 (The Closet, 2020)
