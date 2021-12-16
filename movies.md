@@ -108,6 +108,7 @@
 * 메가마인드 (Megamind, 2010)
 * 메이즈 러너 (The Maze Runner, 2014)
 * 메이즈 러너: 스코치 트라이얼 (Maze Runner: Scorch Trials, 2015)
+* 모가디슈 (Escape from Mogadishu, 2021)
 * 모아나 (Moana, 2016)
 * 몬스터 대학교 (Monsters University, 2013)
 * 몬스터 패밀리 (Monster Family, 2017)
