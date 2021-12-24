@@ -6,6 +6,7 @@
 * 21 (21, 2008)
 * 3:10 투 유마 (3:10 To Yuma, 2007)
 * 82년생 김지영 (KIM JI-YOUNG, BORN 1982, 2019)
+* 8비트 크리스마스 (8‐Bit Christmas, 2021)
 * ARQ (2016)
 * SAS 특수부대: 라이즈 오브 블랙 스완 (SAS: Red Notice, SAS Rise of the Black Swan, 2021)
 * U-571 (2000)
