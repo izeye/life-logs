@@ -251,6 +251,7 @@
 * 에너미 오브 스테이트 (Enemy Of The State, 1998)
 * 에놀라 홈즈 (Enola Holmes, 2020)
 * 엑시트 (EXIT, 2019)
+* 엔칸토: 마법의 세계 (Encanto, 2021)
 * 엘도라도 (The Road To El Dorado, 2000)
 * 염력 (Psychokinesis, 2017)
 * 예스 데이! (Yes Day, 2021)
