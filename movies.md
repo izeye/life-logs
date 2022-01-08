@@ -27,6 +27,7 @@
 * 고령화 가족 (Boomerang Family, 2013)
 * 고스트 워
 * 고양이의 보은 (The Cat Returns, 2002)
+* 고장난 론 (Ron’s Gone Wrong, 2021)
 * 곰돌이 푸 다시 만나 행복해 (Christopher Robin, 2018)
 * 공조 (共助, Confidential Assignment, 2016)
 * 국가부도의 날 (Default, 2018)
