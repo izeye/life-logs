@@ -217,6 +217,7 @@
 * 써클 (Circle, 2015)
 * 쏜다 (Big Bang, 2007)
 * 쓰리데이즈 투 킬 (3 Days to Kill, 2014)
+* 씽 (Sing, 2016)
 * 아메리칸 스나이퍼 (American Sniper, 2014)
 * 아빠는 딸 (Daddy You, Daughter Me, 2017)
 * 아야와 마녀 (アーヤと魔女, Earwig and the Witch, 2020)
