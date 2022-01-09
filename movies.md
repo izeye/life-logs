@@ -193,6 +193,7 @@
 * 스테이시스 (Stasis, 2017)
 * 스파이 (Spy, 2015)
 * 스파이 게임 (Spy Game, 2001)
+* 스파이 키드 (Spy Kids, 2001)
 * 스파이더맨 (Spider-Man, 2002)
 * 스파이더맨 2 (Spider-Man 2, 2004)
 * 스파이더맨: 뉴 유니버스 (Spider-Man: Into the Spider-Verse, 2018)
