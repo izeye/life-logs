@@ -223,6 +223,7 @@
 * 아메리칸 스나이퍼 (American Sniper, 2014)
 * 아빠는 딸 (Daddy You, Daughter Me, 2017)
 * 아야와 마녀 (アーヤと魔女, Earwig and the Witch, 2020)
+* 아이 캔 스피크 (i Can Speak, 2017)
 * 아이보이 (iBoy, 2017)
 * 아이스 에이지 (Ice Age, 2002)
 * 아이스 에이지 2 (Ice Age: The Meltdown, 2006)
