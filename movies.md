@@ -80,6 +80,7 @@
 * 도라에몽: 스탠바이미 2 (STAND BY ME ドラえもん 2, Stand by Me Doraemon 2, 2020)
 * 도라에몽:스탠바이미 (Stand by Me Doraemon, 2014)
 * 돈 (Money, 2018)
+* 돈 룩 업 (Don't Look Up, 2021)
 * 돈 세이 워드 (Don't Say A Word, 2001)
 * 둠 (Doom, 2005)
 * 라야와 마지막 드래곤 (Raya and the Last Dragon, 2020)
