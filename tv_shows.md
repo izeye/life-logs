@@ -22,6 +22,7 @@
   * Season 3 (Episode 1-21)
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-12)
+* 고요의 바다 (The Silent Sea) (Episode 1-8)
 * 괴물
   * Season 1 (Episode 1-16)
 * 굿 닥터 (The Good Doctor)
