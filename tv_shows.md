@@ -56,6 +56,8 @@
   * Season 1 (Episode 1-16)
 * 동백꽃 필 무렵
   * Season 1 (Episode 1-20)
+* 로크 앤 키 (Locke & Key)
+  * Season 1 (Episode 1-10)
 * 루갈 (Episode 1-16)
 * 루시퍼 (Lucifer)
   * Season 1 (Episode 1-13)
