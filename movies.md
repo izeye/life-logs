@@ -44,6 +44,7 @@
 * 극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (Crayon Shin-chan: Crash! Scribble Kingdom and Almost Four Heroes, 2020)
 * 극장판 포켓몬스터 너로 정했다! (Pokemon the movie: I Choose You!, 2017)
 * 극장판 포켓몬스터 모두의 이야기 (劇場版ポケットモンスター みんなの物語, Pokemon the Movie: The Power of Us)
+* 극장판 포켓몬스터: 정글의 아이, 코코 (劇場版ポケットモンスター ココ, Pokemon the Movie: Secrets of the Jungle, 2020)
 * 극한직업 (Extreme Job, 2018)
 * 기생충 (PARASITE, 2019)
 * 기억의 밤 (Forgotten, 2017)
