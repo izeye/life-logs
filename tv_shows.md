@@ -103,6 +103,8 @@
 * 무법 변호사 (Episode 1-16)
 * 미스터 션샤인: Gun, Glory, Sad ending
   * Season 1 (Episode 1-24)
+* 바이오해커스 (Biohackers)
+  * Season 1 (Episode 1-6)
 * 뷰티 인사이드
   * Season 1 (Episode 1-16)
 * 블랙 (Episode 1-18)
