@@ -58,6 +58,7 @@
   * Season 1 (Episode 1-20)
 * 라그나로크 (Ragnarok)
   * Season 1 (Episode 1-6)
+  * Season 2 (Episode 1-6)
 * 로크 앤 키 (Locke & Key)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
