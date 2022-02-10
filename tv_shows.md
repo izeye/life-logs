@@ -224,6 +224,7 @@
   * Season 1 (Episode 1-3)
 * 잭 모턴과 언더월드 (The Order)
   * Season 1 (Episode 1-10)
+  * Season 2 (Episode 1-10)
 * 주피터스 레거시 (Jupiter's Legacy)
   * Season 1 (Episode 1-8)
 * 지금 우리 학교는 (Episode 1-12)
