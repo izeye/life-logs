@@ -137,6 +137,8 @@
 * 손오공: 새로운 전설 (THE NEW LEGENDS OF MONKEY)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
+* 수호자 (The Protector)
+  * Season 1 (Episode 1-10)
 * 슈퍼걸 (Supergirl)
   * Season 1 (Episode 1-20)
   * Season 2 (Episode 1-22)
