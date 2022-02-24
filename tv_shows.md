@@ -140,6 +140,7 @@
 * 수호자 (The Protector)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-8)
+  * Season 3 (Episode 1-7)
 * 슈퍼걸 (Supergirl)
   * Season 1 (Episode 1-20)
   * Season 2 (Episode 1-22)
