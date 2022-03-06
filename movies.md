@@ -328,6 +328,7 @@
 * 짱구는 못말려 극장판: 나의 이사 이야기 선인장 대습격 (映画 クレヨンしんちゃん オラの引越し物語~サボテン大襲撃~, Crayon Shin-Chan: My Moving Story! Cactus Large Attack!, 2015)
 * 짱구는 못말려 극장판: 정면승부! 로봇아빠의 역습 (映画クレヨンしんちゃん　ガチンコ！逆襲のロボとーちゃん, 2014)
 * 짱구는 못말려 극장판: 태풍을 부르는 나와 우주의 프린세스 (映画クレヨンしんちゃん　嵐を呼ぶ！オラと宇宙のプリンセス, Crayon Shin-chan: Arashi o Yobu! Ora to Uchu no Princess, 2012)
+* 짱구는 못말려 극장판：엄청 맛있어! B급 음식 서바이벌! (映画クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!, 2013)
 * 차일드 44 (Child 44, 2015)
 * 찰리와 초콜릿 공장 (Charlie And The Chocolate Factory, 2005)
 * 천공의 성 라퓨타 (Laputa: Castle In The Sky, 1986)
