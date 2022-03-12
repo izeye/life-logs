@@ -202,6 +202,7 @@
 * 오징어 게임 (Squid Game) (Episode 1-9)
 * 우주 히어로 키즈 (Kid Cosmic)
   * Season 1 (Episode 1-10)
+  * Season 2 (Episode 1-8)
 * 워리어 넌: 신의 뜻대로
   * Season 1 (Episode 1-10)
 * 워킹 데드 (The Walking Dead)
