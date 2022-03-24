@@ -203,6 +203,7 @@
 * 우주 히어로 키즈 (Kid Cosmic)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-8)
+  * Season 3 (Episode 1-6)
 * 워리어 넌: 신의 뜻대로
   * Season 1 (Episode 1-10)
 * 워킹 데드 (The Walking Dead)
