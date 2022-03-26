@@ -128,6 +128,7 @@
   * Season 1 (Episode 1-16)
 * 사이키 쿠스오의 재난
   * Season 1 (Episode 1-24)
+  * Season 2 (Episode 1-24)
 * 섀도우 헌터스 : 더 모탈 인스트루먼트 (Shadowhunters : The Mortal Instruments)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-20)
