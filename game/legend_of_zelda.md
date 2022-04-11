@@ -10,6 +10,7 @@
 * [Breath of the Wild - The Ancient Rito Song (Legend of Zelda)](https://www.youtube.com/watch?v=lxwajtL7T6U)
 * [Breath of the Wild | A Gift For My Beloved | Walkthrough Guide](https://www.youtube.com/watch?v=kpDWiZLjcBA)
 * [Breath of the Wild | A Parent's Love | Walkthrough Guide](https://www.youtube.com/watch?v=ckjrm5uliQU)
+* [Breath of the Wild | Missing in Action | Walkthrough Guide](https://www.youtube.com/watch?v=AmFh7JEjTac)
 * [Breath of the Wild | Secret of the Snowy Peaks | Suma Sahma Shrine Guide](https://www.youtube.com/watch?v=GGJZHQAYJ-4)
 * [Breath of the Wild | Sign of the Shadow | Sasa Kai Shrine Guide](https://www.youtube.com/watch?v=1tnUhMXXEqU)
 * [Breath of the Wild | Staledhorse Pictured! | Walkthrough Guide](https://www.youtube.com/watch?v=iQXri6d0NpE)
