@@ -12,6 +12,7 @@
 * [Breath of the Wild | A Parent's Love | Walkthrough Guide](https://www.youtube.com/watch?v=ckjrm5uliQU)
 * [Breath of the Wild | Secret of the Snowy Peaks | Suma Sahma Shrine Guide](https://www.youtube.com/watch?v=GGJZHQAYJ-4)
 * [Breath of the Wild | Sign of the Shadow | Sasa Kai Shrine Guide](https://www.youtube.com/watch?v=1tnUhMXXEqU)
+* [Breath of the Wild | Staledhorse Pictured! | Walkthrough Guide](https://www.youtube.com/watch?v=iQXri6d0NpE)
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
 * [Breath of the Wild | Under a Red Moon | Mijah Rokee Shrine Guide](https://www.youtube.com/watch?v=UEAn0Ev-dP0)
 * [The Cursed Statue Shrine Quest & Kam Urog Shrine Solution - Legend Of Zelda Breath Of The Wild](https://www.youtube.com/watch?v=W8wEEIdaV1s)
