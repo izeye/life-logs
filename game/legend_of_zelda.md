@@ -13,3 +13,4 @@
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
 * [The Cursed Statue Shrine Quest & Kam Urog Shrine Solution - Legend Of Zelda Breath Of The Wild](https://www.youtube.com/watch?v=W8wEEIdaV1s)
 * [The Legend of Zelda Breath of the Wild - Cliffside Etchings Shrine Quest Keeha Yoog Shrine](https://www.youtube.com/watch?v=FP6v9mRle8E)
+* [The Legend of Zelda Breath of the Wild How to unlock Secret Tarrey Town and Special Shop in Zelda](https://www.youtube.com/watch?v=ZJggw0bbZUo)
