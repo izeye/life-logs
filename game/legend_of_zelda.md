@@ -22,6 +22,7 @@
 * [Breath of the Wild | The Secret Club's Secret [Main] Side Mission](https://www.youtube.com/watch?v=AJEpYi5jOlw)
 * [Breath of the Wild | The Weapon Connoisseur | Walkthrough Guide](https://www.youtube.com/watch?v=SVR3g79DM7Y)
 * [Breath of the Wild | Under a Red Moon | Mijah Rokee Shrine Guide](https://www.youtube.com/watch?v=UEAn0Ev-dP0)
+* [Breath of the Wild | Zora Stone Monuments | Walkthrough Guide](https://www.youtube.com/watch?v=MEZZ3P3wRdA)
 * [The Cursed Statue Shrine Quest & Kam Urog Shrine Solution - Legend Of Zelda Breath Of The Wild](https://www.youtube.com/watch?v=W8wEEIdaV1s)
 * [The Legend of Zelda Breath of the Wild - Cliffside Etchings Shrine Quest Keeha Yoog Shrine](https://www.youtube.com/watch?v=FP6v9mRle8E)
 * [The Legend of Zelda Breath of the Wild How to unlock Secret Tarrey Town and Special Shop in Zelda](https://www.youtube.com/watch?v=ZJggw0bbZUo)
