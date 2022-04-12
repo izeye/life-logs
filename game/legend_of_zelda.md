@@ -19,6 +19,7 @@
 * [Breath of the Wild | Staledhorse Pictured! | Walkthrough Guide](https://www.youtube.com/watch?v=iQXri6d0NpE)
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
 * [Breath of the Wild | The Eighth Heroine [Main] Side Mission](https://www.youtube.com/watch?v=y05sLansan4)
+* [Breath of the Wild | The Search for Barta | Walkthrough Guide](https://www.youtube.com/watch?v=hE_xp3g5wF4)
 * [Breath of the Wild | The Secret Club's Secret [Main] Side Mission](https://www.youtube.com/watch?v=AJEpYi5jOlw)
 * [Breath of the Wild | The Weapon Connoisseur | Walkthrough Guide](https://www.youtube.com/watch?v=SVR3g79DM7Y)
 * [Breath of the Wild | Under a Red Moon | Mijah Rokee Shrine Guide](https://www.youtube.com/watch?v=UEAn0Ev-dP0)
