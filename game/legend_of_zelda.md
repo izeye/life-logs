@@ -10,6 +10,7 @@
 * [Breath of the Wild - The Ancient Rito Song (Legend of Zelda)](https://www.youtube.com/watch?v=lxwajtL7T6U)
 * [Breath of the Wild | A Gift For My Beloved | Walkthrough Guide](https://www.youtube.com/watch?v=kpDWiZLjcBA)
 * [Breath of the Wild | A Parent's Love | Walkthrough Guide](https://www.youtube.com/watch?v=ckjrm5uliQU)
+* [Breath of the Wild | A Royal Recipe | Walkthrough Guide (Collab with Torii)](https://www.youtube.com/watch?v=qezo5Uv9Lb4)
 * [Breath of the Wild | A Wife Washed Away | Walkthrough Guide](https://www.youtube.com/watch?v=7CIXCBk4JXw)
 * [Breath of the Wild | Leviathan Bones | Walkthrough Guide](https://www.youtube.com/watch?v=xSa1pksaDws)
 * [Breath of the Wild | Missing in Action | Walkthrough Guide](https://www.youtube.com/watch?v=AmFh7JEjTac)
