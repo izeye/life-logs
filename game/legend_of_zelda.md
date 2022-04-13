@@ -5,6 +5,7 @@
 ### YouTube
 
 * [A Landscape Of A Stable Shrine Quest & Tah Muhl Shrine Guide - LoZ : Breath Of The Wild](https://www.youtube.com/watch?v=MNhpg-vpktk)
+* [All Memory Locations in Breath of the Wild - Captured Memories | Austin John Plays](https://www.youtube.com/watch?v=VAaZlpnm4a0)
 * [Breath of the Wild - Recital at Warbler's Nest Quest Guide](https://www.youtube.com/watch?v=LeM4bfJ3Ecg)
 * [Breath of the Wild - Spring of Power Shrine Quest Guide](https://www.youtube.com/watch?v=vyWEla3Dr5E)
 * [Breath of the Wild - The Ancient Rito Song (Legend of Zelda)](https://www.youtube.com/watch?v=lxwajtL7T6U)
