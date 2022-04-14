@@ -9,6 +9,7 @@
 * [Breath of the Wild - Recital at Warbler's Nest Quest Guide](https://www.youtube.com/watch?v=LeM4bfJ3Ecg)
 * [Breath of the Wild - Spring of Power Shrine Quest Guide](https://www.youtube.com/watch?v=vyWEla3Dr5E)
 * [Breath of the Wild - The Ancient Rito Song (Legend of Zelda)](https://www.youtube.com/watch?v=lxwajtL7T6U)
+* [Breath of the Wild - A Fragmented Monument Guide](https://www.youtube.com/watch?v=gjvUt6Txtz8)
 * [Breath of the Wild | A Gift For My Beloved | Walkthrough Guide](https://www.youtube.com/watch?v=kpDWiZLjcBA)
 * [Breath of the Wild | A Parent's Love | Walkthrough Guide](https://www.youtube.com/watch?v=ckjrm5uliQU)
 * [Breath of the Wild | A Royal Recipe | Walkthrough Guide (Collab with Torii)](https://www.youtube.com/watch?v=qezo5Uv9Lb4)
