@@ -29,6 +29,7 @@
 * [Breath of the Wild | The Search for Barta | Walkthrough Guide](https://www.youtube.com/watch?v=hE_xp3g5wF4)
 * [Breath of the Wild | The Secret Club's Secret [Main] Side Mission](https://www.youtube.com/watch?v=AJEpYi5jOlw)
 * [Breath of the Wild | The Stolen Heirloom | Lakna Rokee Shrine Guide](https://www.youtube.com/watch?v=4Ndxou30UQE)
+* [Breath of the Wild | The Test of Wood | Maag Halan Shrine Guide](https://www.youtube.com/watch?v=TmjPBJLeDzw)
 * [Breath of the Wild | The Thunder Helm | Walkthrough Guide](https://www.youtube.com/watch?v=IxYNISQ3nkM)
 * [Breath of the Wild | The Weapon Connoisseur | Walkthrough Guide](https://www.youtube.com/watch?v=SVR3g79DM7Y)
 * [Breath of the Wild | Under a Red Moon | Mijah Rokee Shrine Guide](https://www.youtube.com/watch?v=UEAn0Ev-dP0)
