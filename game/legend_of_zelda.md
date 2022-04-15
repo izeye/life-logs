@@ -26,6 +26,7 @@
 * [Breath of the Wild | Staledhorse Pictured! | Walkthrough Guide](https://www.youtube.com/watch?v=iQXri6d0NpE)
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
 * [Breath of the Wild | The Eighth Heroine [Main] Side Mission](https://www.youtube.com/watch?v=y05sLansan4)
+* [Breath of the Wild | The Perfect Drink | Misae Suma Shrine](https://www.youtube.com/watch?v=RfjcHtGI-MQ)
 * [Breath of the Wild | The Search for Barta | Walkthrough Guide](https://www.youtube.com/watch?v=hE_xp3g5wF4)
 * [Breath of the Wild | The Secret Club's Secret [Main] Side Mission](https://www.youtube.com/watch?v=AJEpYi5jOlw)
 * [Breath of the Wild | The Stolen Heirloom | Lakna Rokee Shrine Guide](https://www.youtube.com/watch?v=4Ndxou30UQE)
