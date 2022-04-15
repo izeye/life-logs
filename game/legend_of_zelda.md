@@ -17,6 +17,7 @@
 * [Breath of the Wild | A Royal Recipe | Walkthrough Guide (Collab with Torii)](https://www.youtube.com/watch?v=qezo5Uv9Lb4)
 * [Breath of the Wild | A Wife Washed Away | Walkthrough Guide](https://www.youtube.com/watch?v=7CIXCBk4JXw)
 * [Breath of the Wild | Leviathan Bones | Walkthrough Guide](https://www.youtube.com/watch?v=xSa1pksaDws)
+* [Breath of the Wild | Master of the Wind | Shai Yota Shrine Guide](https://www.youtube.com/watch?v=cmi9Kc_pF3E)
 * [Breath of the Wild | Missing in Action | Walkthrough Guide](https://www.youtube.com/watch?v=AmFh7JEjTac)
 * [Breath of the Wild | Playtime With Cottla | Walkthrough Guide](https://www.youtube.com/watch?v=rRShOX_JCio)
 * [Breath of the Wild | Secret of the Snowy Peaks | Suma Sahma Shrine Guide](https://www.youtube.com/watch?v=GGJZHQAYJ-4)
