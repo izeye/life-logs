@@ -295,6 +295,7 @@
 * 윌리엄 제로의 재건
 * 이글 아이 (Eagle Eye, 2008)
 * 이미테이션 게임 (The Imitation Game, 2014)
+* 이상한 나라의 수학자 (In Our Prime, 2020)
 * 이웃집 토토로 (My Neighbor Totoro, 1988)
 * 이집트 왕자 (The Prince Of Egypt, 1998)
 * 인 디 에어 (Up In The Air, 2009)
