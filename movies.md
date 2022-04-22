@@ -253,6 +253,7 @@
 * 앤트맨과 와스프 (Ant-Man and the Wasp, 2018)
 * 야망의 함정 (The Firm, 1993)
 * 야수와 미녀 (The Beast And The Beauty, 2005)
+* 야차 (Yaksha: Ruthless Operations, 2022)
 * 어린왕자 (The Little Prince, 2015)
 * 어메이징 스파이더맨 (The Amazing Spider-Man, 2012)
 * 어메이징 스파이더맨 2 (The Amazing Spider-Man 2, 2014)
