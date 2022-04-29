@@ -25,6 +25,7 @@
 * [Breath of the Wild | Secret of the Snowy Peaks | Suma Sahma Shrine Guide](https://www.youtube.com/watch?v=GGJZHQAYJ-4)
 * [Breath of the Wild | Sign of the Shadow | Sasa Kai Shrine Guide](https://www.youtube.com/watch?v=1tnUhMXXEqU)
 * [Breath of the Wild | Staledhorse Pictured! | Walkthrough Guide](https://www.youtube.com/watch?v=iQXri6d0NpE)
+* [Breath of the Wild | Sunken Treasure [Main] Side Mission](https://www.youtube.com/watch?v=c474gN91cJo)
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
 * [Breath of the Wild | The Eighth Heroine [Main] Side Mission](https://www.youtube.com/watch?v=y05sLansan4)
 * [Breath of the Wild | The Perfect Drink | Misae Suma Shrine](https://www.youtube.com/watch?v=RfjcHtGI-MQ)
