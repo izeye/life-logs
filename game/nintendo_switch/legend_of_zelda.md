@@ -38,6 +38,7 @@
 * [Breath of the Wild | Zora Stone Monuments | Walkthrough Guide](https://www.youtube.com/watch?v=MEZZ3P3wRdA)
 * [How To GET / BUY The Hylian Shield in Breath of The Wild](https://www.youtube.com/watch?v=DrNZU02o2yU)
 * [How to Get Through the Lost Woods in Zelda: Breath of the Wild](https://www.youtube.com/watch?v=yh51PtBGqQk)
+* [How to Ride a Bear in Zelda BOTW](https://www.youtube.com/watch?v=gjF3LFkxOHY)
 * [Into The Vortex Shrine Quest & Ritaag Zumo Shrine - Legend Of Zelda Breath Of The Wild](https://www.youtube.com/watch?v=QJQpotIWoRg)
 * [The Cursed Statue Shrine Quest & Kam Urog Shrine Solution - Legend Of Zelda Breath Of The Wild](https://www.youtube.com/watch?v=W8wEEIdaV1s)
 * [The Legend of Zelda Breath of the Wild - Cliffside Etchings Shrine Quest Keeha Yoog Shrine](https://www.youtube.com/watch?v=FP6v9mRle8E)
