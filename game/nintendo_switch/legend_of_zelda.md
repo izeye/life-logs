@@ -45,6 +45,7 @@
 * [The Legend of Zelda Breath of the Wild | How To Shield Surf Like A Pro](https://www.youtube.com/watch?v=-Hu5aktbq2E)
 * [The Legend of Zelda Breath of the Wild How to unlock Secret Tarrey Town and Special Shop in Zelda](https://www.youtube.com/watch?v=ZJggw0bbZUo)
 * [The Legend of Zelda: Breath of the Wild - To Quomo Shrine Walkthrough [HD 1080P]](https://www.youtube.com/watch?v=GJA-3Lvw9Ro)
+* [Top 10 Awesome Things You Can Do In Zelda: Breath of the Wild](https://www.youtube.com/watch?v=HlImWoYINXI)
 * [Zelda Breath Of The Wild Flown The Coop Guide](https://www.youtube.com/watch?v=NBDJoPaeqoA)
 * [Zelda: Breath of the Wild - How to Complete the Xenoblade Chronicles 2 DLC Sidequest (Armor Guide)](https://www.youtube.com/watch?v=xmBwBlefx9U)
 * [Zelda: Breath of the Wild Saas Ko'sah Shrine](https://www.youtube.com/watch?v=Txzlqj8UUrE)
