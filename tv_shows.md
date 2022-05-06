@@ -25,6 +25,7 @@
 * 고요의 바다 (The Silent Sea) (Episode 1-8)
 * 괴물
   * Season 1 (Episode 1-16)
+* 구경이 (Episode 1-12)
 * 굿 닥터 (The Good Doctor)
   * Season 1 (Episode 1-18)
 * 귀멸의 칼날
