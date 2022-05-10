@@ -25,6 +25,7 @@
 * [Breath of the Wild | Playtime With Cottla | Walkthrough Guide](https://www.youtube.com/watch?v=rRShOX_JCio)
 * [Breath of the Wild | Secret of the Snowy Peaks | Suma Sahma Shrine Guide](https://www.youtube.com/watch?v=GGJZHQAYJ-4)
 * [Breath of the Wild | Sign of the Shadow | Sasa Kai Shrine Guide](https://www.youtube.com/watch?v=1tnUhMXXEqU)
+* [Breath of the Wild | Special Delivery | Walkthrough Guide](https://www.youtube.com/watch?v=p1sjXXwX8k4)
 * [Breath of the Wild | Staledhorse Pictured! | Walkthrough Guide](https://www.youtube.com/watch?v=iQXri6d0NpE)
 * [Breath of the Wild | Sunken Treasure [Main] Side Mission](https://www.youtube.com/watch?v=c474gN91cJo)
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
