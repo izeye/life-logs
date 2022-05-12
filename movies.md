@@ -188,6 +188,7 @@
 * 소스 코드 (Source Code, 2011)
 * 소울 (Soul, 2020)
 * 수상한 고객들 (Suspicious Customers, 2011)
+* 수퍼 소닉 (Sonic the Hedgehog, 2019)
 * 슈퍼 에이트 (Super 8, 2011)
 * 슈퍼배드 (Despicable Me, 2010)
 * 슈퍼배드 2 (Despicable Me 2, 2013)
