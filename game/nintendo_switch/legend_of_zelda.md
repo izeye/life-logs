@@ -38,6 +38,7 @@
 * [Breath of the Wild | The Test of Wood | Maag Halan Shrine Guide](https://www.youtube.com/watch?v=TmjPBJLeDzw)
 * [Breath of the Wild | The Thunder Helm | Walkthrough Guide](https://www.youtube.com/watch?v=IxYNISQ3nkM)
 * [Breath of the Wild | The Weapon Connoisseur | Walkthrough Guide](https://www.youtube.com/watch?v=SVR3g79DM7Y)
+* [Breath of the Wild | Thunder Magnet | Walkthrough Guide](https://www.youtube.com/watch?v=bwueMQF-fr4)
 * [Breath of the Wild | Under a Red Moon | Mijah Rokee Shrine Guide](https://www.youtube.com/watch?v=UEAn0Ev-dP0)
 * [Breath of the Wild | Zora Stone Monuments | Walkthrough Guide](https://www.youtube.com/watch?v=MEZZ3P3wRdA)
 * [How To GET / BUY The Hylian Shield in Breath of The Wild](https://www.youtube.com/watch?v=DrNZU02o2yU)
