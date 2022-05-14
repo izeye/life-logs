@@ -30,6 +30,7 @@
 * [Breath of the Wild | Sunken Treasure [Main] Side Mission](https://www.youtube.com/watch?v=c474gN91cJo)
 * [Breath of the Wild | The Ceremonial Song | Dagah Keek Shrine Guide](https://www.youtube.com/watch?v=sUGVQVPha6w)
 * [Breath of the Wild | The Eighth Heroine [Main] Side Mission](https://www.youtube.com/watch?v=y05sLansan4)
+* [Breath of the Wild | The Hero's Cache | Walkthrough Guide](https://www.youtube.com/watch?v=sVG9-6rBv8E)
 * [Breath of the Wild | The Perfect Drink | Misae Suma Shrine](https://www.youtube.com/watch?v=RfjcHtGI-MQ)
 * [Breath of the Wild | The Search for Barta | Walkthrough Guide](https://www.youtube.com/watch?v=hE_xp3g5wF4)
 * [Breath of the Wild | The Secret Club's Secret [Main] Side Mission](https://www.youtube.com/watch?v=AJEpYi5jOlw)
