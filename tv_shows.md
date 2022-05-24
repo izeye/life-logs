@@ -127,6 +127,7 @@
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-16)
 * 빙의 (Episode 1-16)
+* 사내맞선 (Episode 1-12)
 * 사랑의 불시착
   * Season 1 (Episode 1-16)
 * 사이키 쿠스오의 재난
