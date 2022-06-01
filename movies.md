@@ -355,6 +355,7 @@
 * 콜 (The Call, 2020)
 * 콜래트럴 (Collateral, 2004)
 * 쿵푸팬더: 두루마리의 비밀 (Kung Fu Panda: Secrets of the Scroll)
+* 쿵푸팬더의 짱 멋진 비밀 (Kung Fu Panda Awesome Secrets)
 * 크루엘라 (Cruella, 2021)
 * 크루즈 패밀리 (The Croods, 2013)
 * 크루즈 패밀리: 뉴 에이지 (The Croods: A New Age, 2020)
