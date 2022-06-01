@@ -354,6 +354,7 @@
 * 코코 (Coco, 2017)
 * 콜 (The Call, 2020)
 * 콜래트럴 (Collateral, 2004)
+* 쿵푸팬더 – 동지축제 (Kung Fu Panda Holiday)
 * 쿵푸팬더: 두루마리의 비밀 (Kung Fu Panda: Secrets of the Scroll)
 * 쿵푸팬더의 짱 멋진 비밀 (Kung Fu Panda Awesome Secrets)
 * 크루엘라 (Cruella, 2021)
