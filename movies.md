@@ -308,6 +308,7 @@
 * 인사이드 아웃 (Inside Out, 2015)
 * 인크레더블 2 (Incredibles 2, 2018)
 * 인크레더블 헐크 (The Incredible Hulk, 2008)
+* 인터셉터 (Interceptor, 2022)
 * 인터스텔라 (Interstellar, 2014)
 * 인페르노 (Inferno, 2016)
 * 자산어보 (The Book of Fish, 2019)
