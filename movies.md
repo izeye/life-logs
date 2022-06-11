@@ -371,6 +371,7 @@
 * 클로버필드 (Cloverfield, 2008)
 * 클로젯 (The Closet, 2020)
 * 킬러의 보디가드 (The Hitman's Bodyguard, 2017)
+* 킬러의 보디가드 2: 킬러의 와이프 (Hitman's Bodyguard 2, 2021)
 * 킹스맨: 골든 서클 (Kingsman: The Golden Circle, 2017)
 * 킹스맨: 시크릿 에이전트 (Kingsman: The Secret Service, 2015)
 * 탐정 : 더 비기닝 (The Accidental Detective, 2015)
