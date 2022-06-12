@@ -137,6 +137,7 @@
 * 박물관이 살아있다 : 비밀의 무덤 (Night at the Museum: Secret of the Tomb, 2014)
 * 박물관이 살아있다! (Night At The Museum, 2006)
 * 방황하는 칼날 (Broken, 2013)
+* 배드 가이즈 (The Bad Guys, 2022)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 범죄도시 (THE OUTLAWS, 2017)
 * 베놈 (Venom, 2018)
