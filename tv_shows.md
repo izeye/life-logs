@@ -212,6 +212,7 @@
 * 오리지널스 (The Originals)
   * Season 1 (Episode 1-22)
 * 오징어 게임 (Squid Game) (Episode 1-9)
+* 우리들의 블루스 (Episode 1-20)
 * 우주 히어로 키즈 (Kid Cosmic)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-8)
