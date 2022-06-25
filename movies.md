@@ -66,6 +66,7 @@
 * 다이버전트 시리즈: 얼리전트 (The Divergent Series: Allegiant, 2016)
 * 다크 아워 (The Darkest Hour, 2011)
 * 닥터 스트레인지 (Doctor Strange, 2016)
+* 닥터 스트레인지: 대혼돈의 멀티버스 (Doctor Strange in the Multiverse of Madness, 2022)
 * 단테스 피크 (Dante's Peak, 1997)
 * 달콤, 살벌한 연인 (My Scary Girl, 2006)
 * 당신, 거기 있어줄래요 (Will You Be There?, 2016)
