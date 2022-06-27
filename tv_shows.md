@@ -37,6 +37,7 @@
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-22)
   * Season 6 (Episode 1-13)
+* 그 해 우리는 (Episode 1-16)
 * 기묘한 이야기 (Stranger Things)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-9)
