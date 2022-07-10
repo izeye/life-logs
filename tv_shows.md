@@ -247,6 +247,7 @@
   * Season 5 (Episode 1-13)
 * 위쳐 (The Witcher)
   * Season 1 (Episode 1-8)
+* 유령 (Episode 1-20)
 * 이 구역의 미친 X (Episode 1-13)
 * 이태원 클라쓰
   * Season 1 (Episode 1-16)
