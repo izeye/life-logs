@@ -179,6 +179,7 @@
   * Season 1 (Episode 1-16)
 * 시지프스 : the myth (Episode 1-16)
 * 싸우자 귀신아 (Episode 1-16)
+* 쌈, 마이웨이 (Episode 1-16)
 * 아는 와이프 (Episode 1-16)
 * 안녕? 나야! (Episode 1-16)
 * 알함브라 궁전의 추억 (Episode 1-16)
