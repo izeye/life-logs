@@ -142,6 +142,7 @@
 * 배드 가이즈 (The Bad Guys, 2022)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 범죄도시 (THE OUTLAWS, 2017)
+* 범죄도시2 (the roundup, 2022)
 * 베놈 (Venom, 2018)
 * 베테랑 (Veteran, 2015)
 * 벼랑 위의 포뇨 (Ponyo On The Cliff, 2008)
