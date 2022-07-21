@@ -48,6 +48,7 @@
 * 나의 아저씨 (Episode 1-16)
 * 낭만닥터 김사부
   * Season 1 (Episode 1-20, 번외편)
+  * Season 2 (Episode 1-16)
 * 내일 그대와 (Episode 1-16)
 * 눈이 부시게
   * Season 1 (Episode 1-12)
