@@ -38,6 +38,7 @@
 * 귀를 기울이면 (Whisper Of The Heart, 1995)
 * 그것만이 내 세상 (Keys to the Heart, 2017)
 * 그녀를 믿지 마세요 (Don't Believe Her, 2004)
+* 그레이 맨 (The Gray Man, 2022)
 * 그린치 (The Grinch, 2018)
 * 극장판 귀멸의 칼날: 무한열차편 (劇場版「鬼滅の刃」無限列車編, Demon Slayer: Kimetsu no Yaiba the Movie - Mugen Train, 2020)
 * 극장판 도라에몽: 진구의 보물섬 (映画ドラえもん　のび太の宝島, Doraemon the Movie: Nobita's Treasure Island, 2018)
