@@ -235,6 +235,7 @@
 * 써클 (Circle, 2015)
 * 쏜다 (Big Bang, 2007)
 * 쓰리데이즈 투 킬 (3 Days to Kill, 2014)
+* 씨 비스트 (The Sea Beast, 2022)
 * 씽 (Sing, 2016)
 * 씽2게더 (Sing 2, 2021)
 * 아기배달부 스토크 (STORKS, 2016)
