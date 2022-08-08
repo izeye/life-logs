@@ -53,6 +53,7 @@
 * 너의 목소리가 들려 (Episode 1-18)
 * 눈이 부시게
   * Season 1 (Episode 1-12)
+* 더 킹 : 영원의 군주 (Episode 1-16)
 * 더 할로우 (The Hollow)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
