@@ -263,6 +263,7 @@
   * Season 1 (Episode 1-8)
 * 유령 (Episode 1-20)
 * 이 구역의 미친 X (Episode 1-13)
+* 이상한 변호사 우영우 (Episode 1-16)
 * 이태원 클라쓰
   * Season 1 (Episode 1-16)
 * 익스플레인: 코로나바이러스를 해설하다
