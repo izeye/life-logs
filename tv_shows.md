@@ -163,6 +163,7 @@
 * 손오공: 새로운 전설 (THE NEW LEGENDS OF MONKEY)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
+* 수리남 (Episode 1-6)
 * 수호자 (The Protector)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-8)
