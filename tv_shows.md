@@ -150,6 +150,7 @@
   * Season 3 (Episode 1-2)
 * 사이키 쿠스오의 재난: 끝난 줄 알았지?
   * Season 1 (Episode 1-6)
+* 사카모토입니다만? (Haven't You Heard? I'm Sakamoto) (Episode 1-13)
 * 상속자들 (Episode 1-20)
 * 샌드맨 (The Sandman) (Episode 1-11)
 * 섀도우 헌터스 : 더 모탈 인스트루먼트 (Shadowhunters : The Mortal Instruments)
