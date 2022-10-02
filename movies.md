@@ -143,6 +143,7 @@
 * 방황하는 칼날 (Broken, 2013)
 * 배드 가이즈 (The Bad Guys, 2022)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
+* 백조 공주 (The Swan Princess, 1994)
 * 범죄도시 (THE OUTLAWS, 2017)
 * 범죄도시2 (the roundup, 2022)
 * 베놈 (Venom, 2018)
