@@ -290,6 +290,7 @@
   * Season 2 (Episode 1-13)
   * Season 3 (Episode 1-13)
   * Season 4 (Episode 1-6)
+* 코타로는 1인 가구 (Kotaro Lives Alone) (Episode 1-10)
 * 콜로니 (Colony)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-13)
