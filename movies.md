@@ -394,6 +394,7 @@
 * 터키 (Free Birds, 2013)
 * 토르: 다크 월드 (Thor: The Dark World, 2013)
 * 토르: 라그나로크 (Thor: Ragnarok, 2017)
+* 토르: 러브 앤 썬더 (Thor: Love and Thunder, 2022)
 * 토르: 천둥의 신 (Thor, 2011)
 * 토이 스토리 4 (Toy Story 4, 2019)
 * 트롤 (Trolls, 2016)
