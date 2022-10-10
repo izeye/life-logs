@@ -122,6 +122,7 @@
 * 메이즈 러너: 스코치 트라이얼 (Maze Runner: Scorch Trials, 2015)
 * 모가디슈 (Escape from Mogadishu, 2021)
 * 모아나 (Moana, 2016)
+* 목소리의 형태 (聲の形, A Silent Voice : The Movie, 2016)
 * 몬스터 대학교 (Monsters University, 2013)
 * 몬스터 패밀리 (Monster Family, 2017)
 * 몬스터 하우스 (Monster House, 2006)
