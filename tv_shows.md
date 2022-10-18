@@ -287,6 +287,7 @@
   * Season 3 (Episode 1-6)
 * 청의 엑소시스트 (Blue Exorcist)
   * Season 1 (Episode 1-26)
+  * Season 2 (Episode 1-12)
 * 컨티넘 (Continuum)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-13)
