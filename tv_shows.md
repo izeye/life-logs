@@ -120,6 +120,8 @@
 * 무법 변호사 (Episode 1-16)
 * 미스터 션샤인: Gun, Glory, Sad ending
   * Season 1 (Episode 1-24)
+* 미씽: 그들이 있었다
+  * Season 1 (Episode 1-12)
 * 바이오해커스 (Biohackers)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
