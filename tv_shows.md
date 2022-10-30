@@ -278,6 +278,8 @@
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
 * 주군의 태양 (Episode 1-16)
+* 주술회전 (Jujutsu Kaisen)
+  * Season 1 (Episode 1-24)
 * 주피터스 레거시 (Jupiter's Legacy)
   * Season 1 (Episode 1-8)
 * 지금 우리 학교는 (Episode 1-12)
