@@ -54,6 +54,7 @@
   * Season 2 (Episode 1-16)
 * 내일 그대와 (Episode 1-16)
 * 너의 목소리가 들려 (Episode 1-18)
+* 노라가미 (Noragami) (Episode 1-12)
 * 눈이 부시게
   * Season 1 (Episode 1-12)
 * 더 킹 : 영원의 군주 (Episode 1-16)
