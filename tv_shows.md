@@ -150,6 +150,7 @@
 * 사내맞선 (Episode 1-12)
 * 사랑의 불시착
   * Season 1 (Episode 1-16)
+* 사이코지만 괜찮아 (Episode 1-16)
 * 사이키 쿠스오의 재난
   * Season 1 (Episode 1-24)
   * Season 2 (Episode 1-24)
