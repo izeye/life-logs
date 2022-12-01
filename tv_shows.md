@@ -269,6 +269,7 @@
   * Season 3 (Episode 1-16)
   * Season 4 (Episode 1-13)
   * Season 5 (Episode 1-13)
+* 웬즈데이 (Wednesday) (Episode 1-8)
 * 위쳐 (The Witcher)
   * Season 1 (Episode 1-8)
 * 유령 (Episode 1-20)
