@@ -69,6 +69,7 @@
 * 도쿄 구울
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
+  * Season 3 (Episode 1-24)
 * 동백꽃 필 무렵
   * Season 1 (Episode 1-20)
 * 라그나로크 (Ragnarok)
