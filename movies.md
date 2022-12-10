@@ -325,6 +325,7 @@
 * 이상한 나라의 수학자 (In Our Prime, 2020)
 * 이웃집 토토로 (My Neighbor Totoro, 1988)
 * 이집트 왕자 (The Prince Of Egypt, 1998)
+* 이터널스 (Eternals, 2021)
 * 인 디 에어 (Up In The Air, 2009)
 * 인 타임 (In Time, 2011)
 * 인사이드 아웃 (Inside Out, 2015)
