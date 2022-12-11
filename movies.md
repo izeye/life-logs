@@ -18,6 +18,7 @@
 * 가면 (Rainbow Eyes, 2007)
 * 가장 보통의 연애 (Crazy Romance, 2019)
 * 감바의 대모험 (GAMBA ガンバと仲間たち, Gamba, 2015)
+* 감쪽같은 그녀 (A Little Princess, 2019)
 * 갓 오브 이집트 (Gods of Egypt, 2016)
 * 강철비 (Steel Rain, 2017)
 * 개구쟁이 스머프 2 (The Smurfs 2, 2013)
