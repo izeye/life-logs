@@ -214,6 +214,7 @@
 * 스머프: 비밀의 숲 (Smurfs: The Lost Village, 2017)
 * 스물 (Twenty, 2014)
 * 스카페이스 (Scarface, 1983)
+* 스크루지: 크리스마스 캐럴 (Scrooge: A Christmas Carol, 2022)
 * 스타게이트 (Stargate, 1994)
 * 스테이시스 (Stasis, 2017)
 * 스트레스 제로 (STRESS ZERO, 2020)
