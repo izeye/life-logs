@@ -103,6 +103,7 @@
 * 레드슈즈 (Red Shoes, 2019)
 * 레인 오브 파이어 (Reign Of Fire, 2002)
 * 로건 (Logan, 2017)
+* 로알드 달의 뮤지컬 마틸다 (Roald Dahl’s Matilda the Musical, 2022)
 * 로우리스 : 나쁜 영웅들 (Lawless, 2012)
 * 루카 (Luca, 2021)
 * 리버댄스: 애니메이션 어드벤처 (Riverdance: The Animated Adventure, 2021)
