@@ -18,6 +18,7 @@
   * Season 1 (Episode 1-21)
 * 카케구루이
   * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
 * 경이로운 소문 (Episode 1-16)
