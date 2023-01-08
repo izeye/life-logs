@@ -290,6 +290,7 @@
   * Season 1 (Episode 1-16)
 * 익스플레인: 코로나바이러스를 해설하다
   * Season 1 (Episode 1-3)
+* 재벌집 막내아들 (Episode 1-16)
 * 잭 모턴과 언더월드 (The Order)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
