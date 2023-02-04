@@ -347,6 +347,8 @@
   * Season 4 (Episode 1-12)
   * Season 5 (Episode 1-20)
   * Season 6 (Episode 1-20)
+* 포켓몬스터 XY
+  * Season 1 (Episode 1-1)
 * 플래시 (The Flash)
   * Season 1 (Episode 1-23)
   * Season 2 (Episode 1-23)
