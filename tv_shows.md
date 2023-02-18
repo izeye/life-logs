@@ -357,6 +357,7 @@
   * Season 4 (Episode 1-23)
   * Season 5 (Episode 1-22)
   * Season 6 (Episode 1-19)
+* 플레이리스트 (The Playlist) (Episode 1-6)
 * 하이큐!! (Haikyu!!)
   * Season 1 (Episode 1-25)
 * 한자와 나오키 (半沢直樹)
