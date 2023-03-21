@@ -48,6 +48,7 @@
 * 극장판 도라에몽: 진구의 보물섬 (映画ドラえもん　のび太の宝島, Doraemon the Movie: Nobita's Treasure Island, 2018)
 * 극장판 도라에몽:신 진구의 버스 오브 재팬 (映画ドラえもん 新・のび太の日本誕生, DORAEMON THE MOVIE: NOBITA AND THE BIRTH OF JAPAN, 2016)
 * 극장판 도라에몽:진구의 남극 꽁꽁 대모험 (映画ドラえもん のび太の南極カチコチ大冒険, DORAEMON THE MOVIE GREAT ADVENTURE IN THE ANTARCTIC KACHI KOCHI, 2017)
+* 극장판 주술회전 0 (劇場版 呪術廻戦 0, Jujutsu Kaisen: Zero, 2021)
 * 극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (Crayon Shin-chan: Crash! Scribble Kingdom and Almost Four Heroes, 2020)
 * 극장판 포켓몬스터 너로 정했다! (Pokemon the movie: I Choose You!, 2017)
 * 극장판 포켓몬스터 모두의 이야기 (劇場版ポケットモンスター みんなの物語, Pokemon the Movie: The Power of Us)
