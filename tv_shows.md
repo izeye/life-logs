@@ -224,6 +224,7 @@
 * 아는 와이프 (Episode 1-16)
 * 아인 (亞人; AJIN: Demi-Human)
   * Season 1 (Episode 1-13)
+  * Season 2 (Episode 1-13)
 * 안녕? 나야! (Episode 1-16)
 * 알함브라 궁전의 추억 (Episode 1-16)
 * 애로우 (Arrow)
