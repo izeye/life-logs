@@ -16,6 +16,8 @@
   * Season 4 (Episode 1-16)
 * SKY 캐슬
   * Season 1 (Episode 1-21)
+* SPY×FAMILY
+  * Season 1 (Episode 1-25)
 * 카케구루이
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
