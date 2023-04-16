@@ -138,6 +138,7 @@
 * 몬스터 호텔 (Hotel Transylvania, 2012)
 * 몬스터 호텔 2 (Hotel Transylvania 2, 2015)
 * 몬스터 호텔 3 (Hotel Transylvania 3: A Monster Vacation, 2018)
+* 미녀와 야수 (Beauty and the Beast, 2017)
 * 미니언즈 (Minions, 2015)
 * 미니언즈2 (Minions: The Rise of Gru, 2022)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
