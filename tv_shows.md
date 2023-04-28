@@ -140,6 +140,7 @@
 * 명불허전 (Episode 1-16)
 * 모브 사이코 100
   * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-14)
 * 무법 변호사 (Episode 1-16)
 * 미스터 션샤인: Gun, Glory, Sad ending
   * Season 1 (Episode 1-24)
