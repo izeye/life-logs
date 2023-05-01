@@ -382,6 +382,7 @@
 * 천재강아지 미스터 피바디 (Mr. Peabody & Sherman, 2014)
 * 청년경찰 (Midnight Runners, 2017)
 * 취화선 (醉畵仙, Chihwaseon, 2002)
+* 카운트 (Count, 2020)
 * 카터 (Carter, 2022)
 * 캐시트럭 (Wrath of Man, 2021)
 * 캡틴 마블 (Captain Marvel, 2019)
