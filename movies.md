@@ -173,6 +173,7 @@
 * 브이 포 벤데타 (V For Vendetta, 2005)
 * 블랙 위도우 (Black Widow, 2021)
 * 블랙 팬서 (Black Panther, 2018)
+* 블랙 팬서: 와칸다 포에버 (Black Panther: Wakanda Forever, 2022)
 * 블랙 호크 다운 (Black Hawk Down, 2001)
 * 블랙머니 (BLACK MONEY, 2019)
 * 블러드 레드 스카이 (Blood Red Sky, 2021)
