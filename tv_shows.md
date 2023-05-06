@@ -65,6 +65,7 @@
 * 노라가미 (Noragami) (Episode 1-12)
 * 눈이 부시게
   * Season 1 (Episode 1-12)
+* 더 글로리 (The Glory) (Episode 1-16)
 * 더 킹 : 영원의 군주 (Episode 1-16)
 * 더 할로우 (The Hollow)
   * Season 1 (Episode 1-10)
