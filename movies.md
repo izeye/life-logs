@@ -352,6 +352,7 @@
 * 장독대
 * 장화 신은 고양이: 동화책 어드벤처 (Puss in Book: Trapped in an Epic Tale, 2017)
 * 장화신은 고양이 (Puss In Boots, 2011)
+* 장화신은 고양이: 끝내주는 모험 (Puss in Boots: The Last Wish, 2023)
 * 잭 리처: 네버 고 백 (Jack Reacher: Never Go Back, 2016)
 * 정직한 후보 (HONEST CANDIDATE, 2019)
 * 제8일의 밤 (The 8th Night, 2021)
