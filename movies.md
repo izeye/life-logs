@@ -86,6 +86,7 @@
 * 더 바디 (EL Cuerpo, The Body, 2012)
 * 더 서라운딩 게임 (The Surrounding Game, 2018)
 * 더 울프 오브 월 스트리트 (The Wolf of Wall Street, 2013)
+* 더 킬러: 죽어도 되는 아이 (THE KILLER: A GIRL WHO DESERVES TO DIE, 2022)
 * 더 킹 (The King, 2016)
 * 더 포리너 (The Foreigner, 2017)
 * 더블 크라임 (Double Jeopardy, 1999)
