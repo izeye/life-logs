@@ -287,6 +287,7 @@
 * 액트 오브 밸러: 최정예 특수부대 (Act of Valor, 2011)
 * 앤트맨 (Ant-Man, 2015)
 * 앤트맨과 와스프 (Ant-Man and the Wasp, 2018)
+* 앤트맨과 와스프: 퀀텀매니아 (Ant-Man and the Wasp: Quantumania, 2023)
 * 야망의 함정 (The Firm, 1993)
 * 야수와 미녀 (The Beast And The Beauty, 2005)
 * 야차 (Yaksha: Ruthless Operations, 2022)
