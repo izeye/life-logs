@@ -230,6 +230,7 @@
 * 아바타 아앙의 전설
   * Season 1 (Episode 1-20)
   * Season 2 (Episode 1-20)
+  * Season 3 (Episode 1-21)
 * 아는 와이프 (Episode 1-16)
 * 아인 (亞人; AJIN: Demi-Human)
   * Season 1 (Episode 1-13)
