@@ -172,6 +172,7 @@
 * 빈센조 (Episode 1-20)
 * 빙의 (Episode 1-16)
 * 빤스맨의 위대한 모험 (The Epic Tales of Captain Underpants) (Episode 1-6)
+* 사냥개들 (Episode 1-8)
 * 사내맞선 (Episode 1-12)
 * 사랑의 불시착
   * Season 1 (Episode 1-16)
