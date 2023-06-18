@@ -56,6 +56,7 @@
 * 기상청 사람들 : 사내연애 잔혹사 편 (Episode 1-16)
 * 기생수 (Episode 1-24)
 * 나쁜 녀석들 : 악의 도시 (Episode 1-16)
+* 나쁜엄마 (Episode 1-14)
 * 나의 아저씨 (Episode 1-16)
 * 낭만닥터 김사부
   * Season 1 (Episode 1-20, 번외편)
