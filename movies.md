@@ -217,6 +217,7 @@
 * 슈렉 (Shrek, 2001)
 * 슈렉 2 (Shrek 2, 2004)
 * 슈렉 3 (Shrek The Third, 2007)
+* 슈퍼 마리오 브라더스 (The Super Mario Bros. Movie, 2023)
 * 슈퍼 에이트 (Super 8, 2011)
 * 슈퍼배드 (Despicable Me, 2010)
 * 슈퍼배드 2 (Despicable Me 2, 2013)
