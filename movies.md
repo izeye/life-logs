@@ -274,6 +274,7 @@
 * 아이스 에이지 2 (Ice Age: The Meltdown, 2006)
 * 아이스 에이지 3: 공룡시대 (Ice Age: Dawn Of The Dinosaurs, 2008)
 * 아이스 에이지 4: 대륙 이동설 (Ice Age: Continental Drift, 2012)
+* 아이언 자이언트 (The Iron Giant, 2000)
 * 아이언맨 (Iron Man, 2008)
 * 아이언맨 2 (Iron Man 2, 2010)
 * 아이언맨 3 (Iron Man 3, 2013)
