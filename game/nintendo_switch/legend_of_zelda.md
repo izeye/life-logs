@@ -56,3 +56,6 @@
 * [Zelda Breath Of The Wild Flown The Coop Guide](https://www.youtube.com/watch?v=NBDJoPaeqoA)
 * [Zelda: Breath of the Wild - How to Complete the Xenoblade Chronicles 2 DLC Sidequest (Armor Guide)](https://www.youtube.com/watch?v=xmBwBlefx9U)
 * [Zelda: Breath of the Wild Saas Ko'sah Shrine](https://www.youtube.com/watch?v=Txzlqj8UUrE)
+
+## Tears of the Kingdom
+* [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
