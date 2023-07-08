@@ -18,9 +18,6 @@
   * Season 1 (Episode 1-21)
 * SPY×FAMILY
   * Season 1 (Episode 1-25)
-* 카케구루이
-  * Season 1 (Episode 1-12)
-  * Season 2 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
 * 경이로운 소문 (Episode 1-16)
@@ -337,6 +334,9 @@
 * 철인왕후 (Episode 1-20)
 * 청의 엑소시스트 (Blue Exorcist)
   * Season 1 (Episode 1-26)
+  * Season 2 (Episode 1-12)
+* 카케구루이
+  * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
 * 컨티넘 (Continuum)
   * Season 1 (Episode 1-10)
