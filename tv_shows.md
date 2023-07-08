@@ -31,6 +31,7 @@
 * 괴물
   * Season 1 (Episode 1-16)
 * 구경이 (Episode 1-12)
+* 구미호뎐 (Episode 1-16)
 * 구필수는 없다 (Episode 1-16)
 * 굿 닥터 (The Good Doctor)
   * Season 1 (Episode 1-18)
