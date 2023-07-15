@@ -111,6 +111,7 @@
 * 로알드 달의 뮤지컬 마틸다 (Roald Dahl’s Matilda the Musical, 2022)
 * 로우리스 : 나쁜 영웅들 (Lawless, 2012)
 * 루카 (Luca, 2021)
+* 리바운드 (Rebound, 2023)
 * 리버댄스: 애니메이션 어드벤처 (Riverdance: The Animated Adventure, 2021)
 * 리벤져 (Revenger, 2018)
 * 리크루트 (The Recruit, 2003)
