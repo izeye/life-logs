@@ -58,4 +58,8 @@
 * [Zelda: Breath of the Wild Saas Ko'sah Shrine](https://www.youtube.com/watch?v=Txzlqj8UUrE)
 
 ## Tears of the Kingdom
+
+### YouTube
+
 * [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
+* [How to Complete Orochium Shrine in Zelda: Tears of The Kingdom (Orochium Shrine Walkthrough)](https://www.youtube.com/watch?v=kOpeZj1BcWI)
