@@ -61,5 +61,6 @@
 
 ### YouTube
 
-* [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
 * [How to Complete Orochium Shrine in Zelda: Tears of The Kingdom (Orochium Shrine Walkthrough)](https://www.youtube.com/watch?v=kOpeZj1BcWI)
+* [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
+* [How to Solve the Mayaumekis Shrine in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=eYvAyFwklc4)
