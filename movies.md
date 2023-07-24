@@ -126,6 +126,7 @@
 * 마파도 2 (Mapado 2, 2007)
 * 말모이 (MAL·MO·E: The Secret Mission, 2018)
 * 매그니피센트 7 (The Magnificent Seven, 2016)
+* 맨 오브 스틸 (Man of Steel, 2013)
 * 머털 도사 (Taoist Mutul, 1989)
 * 머털 도사와 108 요괴 (1990)
 * 머털 도사와 또매
