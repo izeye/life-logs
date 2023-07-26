@@ -61,6 +61,7 @@
 
 ### YouTube
 
+* [How to Beat Sinatanika Shrine in Zelda Tears of the Kingdom - Sneakstrike Combat Training](https://www.youtube.com/watch?v=Tk45hG0COgs)
 * [How to Complete Orochium Shrine in Zelda: Tears of The Kingdom (Orochium Shrine Walkthrough)](https://www.youtube.com/watch?v=kOpeZj1BcWI)
 * [How To Complete The Marakuguc Shrine in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=zDb9Dt3gHyA)
 * [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
