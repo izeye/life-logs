@@ -8,7 +8,9 @@
 * B: 더 비기닝 (B: The Beginning)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-6)
-* D.P. (Episode 1-6)
+* D.P.
+  * Season 1 (Episode 1-6)
+  * Season 2 (Episode 1-6)
 * DC 레전드 오브 투모로우 (DC's Legends of Tomorrow)
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-17)
