@@ -67,5 +67,6 @@
 * [How To Complete The Marakuguc Shrine in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=zDb9Dt3gHyA)
 * [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
 * [How to Solve the Mayaumekis Shrine in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=eYvAyFwklc4)
+* [How to Unlock Sahasra Slope Skyview Tower in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=0wI1dAN-OfQ)
 * [Mayachin Shrine guide | Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=1ZQJ99Af3-M)
 * [Wind Temple Locks Puzzle Legend of Zelda Tears of the Kingdom](https://www.youtube.com/watch?v=RfDtO9BxlS0)
