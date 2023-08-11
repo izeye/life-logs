@@ -61,6 +61,7 @@
 
 ### YouTube
 
+* [Ancient Zora Waterworks Walkthrough - Zelda Tears of The Kingdom](https://www.youtube.com/watch?v=zmN4hLck_XA)
 * [How to Beat Sinatanika Shrine in Zelda Tears of the Kingdom - Sneakstrike Combat Training](https://www.youtube.com/watch?v=Tk45hG0COgs)
 * [How to Complete Orochium Shrine in Zelda: Tears of The Kingdom (Orochium Shrine Walkthrough)](https://www.youtube.com/watch?v=kOpeZj1BcWI)
 * [How to Complete Tajikats Shrine in Zelda: Tears of The Kingdom (Tajikats Shrine Walkthrough)](https://www.youtube.com/watch?v=4C9W8baXkdw)
