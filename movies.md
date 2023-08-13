@@ -217,6 +217,7 @@
 * 소울 (Soul, 2020)
 * 송해 1927 (Song Hae 1927, 2021)
 * 수상한 고객들 (Suspicious Customers, 2011)
+* 수어사이드 스쿼드 (Suicide Squad, 2016)
 * 수퍼 소닉 (Sonic the Hedgehog, 2019)
 * 수퍼 소닉2 (Sonic the Hedgehog 2, 2022)
 * 슈렉 (Shrek, 2001)
