@@ -68,6 +68,7 @@
 * [How to Complete Tajikats Shrine in Zelda: Tears of The Kingdom (Tajikats Shrine Walkthrough)](https://www.youtube.com/watch?v=4C9W8baXkdw)
 * [How To Complete The Marakuguc Shrine in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=zDb9Dt3gHyA)
 * [How To Find The 4th Shrine on Great Sky Island in Zelda Tears of the Kingdom (STEP-BY-STEP)](https://www.youtube.com/watch?v=1xLoykdwIsg)
+* [How To Get To The Abandoned Hebra Mine In Zelda Tears of The Kingdom (Rito Village Chasm Location)](https://www.youtube.com/watch?v=cdDXsnkyAks)
 * [How to make Stamina Elixir in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=oVikQsF6IkE)
 * [How to Solve the Mayaumekis Shrine in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=eYvAyFwklc4)
 * [How to Unlock Sahasra Slope Skyview Tower in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=0wI1dAN-OfQ)
