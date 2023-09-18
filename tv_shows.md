@@ -338,7 +338,7 @@
 * 지금 우리 학교는 (Episode 1-12)
 * 지옥 (Hellbound)
   * Season 1 (Episode 1-6)
-* 진격의 거인 (Attack on Titan) (Episode 1-87)
+* 진격의 거인 (Attack on Titan) (Episode 1-88)
 * 착오 (Glitch)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
