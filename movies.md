@@ -163,6 +163,7 @@
 * 배트맨 대 슈퍼맨: 저스티스의 시작 (Batman v Superman: Dawn of Justice, 2016)
 * 백 투 더 비기닝 (Project Almanac, Back to the beginning, 2015)
 * 백조 공주 (The Swan Princess, 1994)
+* 버즈 오브 프레이(할리 퀸의 황홀한 해방) (Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn), 2020)
 * 범죄도시 (THE OUTLAWS, 2017)
 * 범죄도시2 (the roundup, 2022)
 * 범죄도시3 (THE ROUNDUP : NO WAY OUT, 2023)
