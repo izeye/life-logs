@@ -86,6 +86,7 @@
   * Season 2 (Episode 1-10)
 * 도깨비
   * Season 1 (Episode 1-16)
+* 도적: 칼의 소리 (Episode 1-9)
 * 도쿄 구울
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
