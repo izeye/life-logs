@@ -75,3 +75,4 @@
 * [Igoshon Shrine Puzzle: Orbs of Water Walkthrough | Legend of Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=G3YrmGaYtN4)
 * [Mayachin Shrine guide | Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=1ZQJ99Af3-M)
 * [Wind Temple Locks Puzzle Legend of Zelda Tears of the Kingdom](https://www.youtube.com/watch?v=RfDtO9BxlS0)
+* [Zelda Tears of the Kingdom Korok Forest location guide / walkthrough](https://www.youtube.com/watch?v=0dlyzkdY6mk)
