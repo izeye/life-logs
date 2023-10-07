@@ -231,6 +231,7 @@
   * Season 1 (Episode 1-12)
 * 슬램덩크
   * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-8)
 * 시간 여행자 (Travelers)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
