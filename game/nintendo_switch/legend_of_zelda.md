@@ -74,5 +74,6 @@
 * [How to Unlock Sahasra Slope Skyview Tower in Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=0wI1dAN-OfQ)
 * [Igoshon Shrine Puzzle: Orbs of Water Walkthrough | Legend of Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=G3YrmGaYtN4)
 * [Mayachin Shrine guide | Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=1ZQJ99Af3-M)
+* [Walton's Treasure Hunt in Zelda Tears of Kingdom - Forest Dweller's Sword, Spear & Shield Locations](https://www.youtube.com/watch?v=mZzTv0mbroo)
 * [Wind Temple Locks Puzzle Legend of Zelda Tears of the Kingdom](https://www.youtube.com/watch?v=RfDtO9BxlS0)
 * [Zelda Tears of the Kingdom Korok Forest location guide / walkthrough](https://www.youtube.com/watch?v=0dlyzkdY6mk)
