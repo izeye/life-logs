@@ -150,6 +150,8 @@
 * 머털도사 (Episode 1-26)
 * 멜랑꼴리아 (Episode 1-16)
 * 명불허전 (Episode 1-16)
+* 모범형사
+  * Season 1 (Episode 1-16)
 * 모브 사이코 100
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-14)
