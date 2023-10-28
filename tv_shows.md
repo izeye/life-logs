@@ -163,6 +163,7 @@
   * Season 1 (Episode 1-24)
 * 미씽: 그들이 있었다
   * Season 1 (Episode 1-12)
+* 바디스 (Bodies) (Episode 1-8)
 * 바이오해커스 (Biohackers)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
