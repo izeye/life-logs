@@ -408,6 +408,7 @@
   * Season 6 (Episode 1-19)
 * 플레이리스트 (The Playlist) (Episode 1-6)
 * 플루토 (Episode 1-8)
+* 하이바이, 마마! (Episode 1-16)
 * 하이에나 (Episode 1-16)
 * 하이큐!! (Haikyu!!)
   * Season 1 (Episode 1-25)
