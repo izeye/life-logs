@@ -181,6 +181,7 @@
 * 부산행 (TRAIN TO BUSAN, 2016)
 * 분노의 질주: 더 세븐 (Fast & Furious 7, 2015)
 * 브이 포 벤데타 (V For Vendetta, 2005)
+* 블랙 아담 (Black Adam, 2022)
 * 블랙 위도우 (Black Widow, 2021)
 * 블랙 팬서 (Black Panther, 2018)
 * 블랙 팬서: 와칸다 포에버 (Black Panther: Wakanda Forever, 2022)
