@@ -400,6 +400,7 @@
   * Season 6 (Episode 1-20)
 * 포켓몬스터 XY
   * Season 1 (Episode 1-3)
+* 푸른 바다의 전설 (Episode 1-20)
 * 플래시 (The Flash)
   * Season 1 (Episode 1-23)
   * Season 2 (Episode 1-23)
