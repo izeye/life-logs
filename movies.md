@@ -204,6 +204,7 @@
 * 삼진그룹 영어토익반 (SAMJIN COMPANY ENGLISH CLASS, 2020)
 * 샤이닝 (The Shining, 1980)
 * 샤잠! (Shazam!, 2019)
+* 샤잠! 신들의 분노 (Shazam! Fury of the Gods, 2023)
 * 샬롯의 거미줄 (Charlotte's Web, 2006)
 * 설리: 허드슨강의 기적 (SULLY, 2016)
 * 성난 변호사 (The Advocate : A missing body, 2015)
