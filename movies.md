@@ -15,6 +15,7 @@
 * 가디언즈 (Rise of the Guardians, 2012)
 * 가디언즈 오브 갤럭시 (Guardians of the Galaxy, 2014)
 * 가디언즈 오브 갤럭시 VOL. 2 (Guardians of the Galaxy Vol. 2, 2017)
+* 가디언즈 오브 갤럭시: Volume 3 (Guardians of the Galaxy Volume 3, 2023)
 * 가려진 시간 (Vanishing Time: A Boy Who Returned, 2016)
 * 가면 (Rainbow Eyes, 2007)
 * 가장 보통의 연애 (Crazy Romance, 2019)
