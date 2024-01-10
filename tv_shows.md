@@ -22,6 +22,7 @@
   * Season 1 (Episode 1-25)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
+* 경성크리처 (Episode 1-10)
 * 경이로운 소문
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-12)
