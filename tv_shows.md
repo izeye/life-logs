@@ -211,7 +211,7 @@
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-20)
   * Season 3 (Episode 1-22)
-* 성적을 부탁해 티처스 (Episode 1-9)
+* 성적을 부탁해 티처스 (Episode 1-12)
 * 셀러브리티 (Episode 1-12)
 * 셀베이션 (Salvation)
   * Season 1 (Episode 1-13)
