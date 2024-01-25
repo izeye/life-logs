@@ -375,6 +375,8 @@
   * Season 1 (Episode 1-26)
   * Season 2 (Episode 1-12)
 * 최악의 악 (Episode 1-12)
+* 카지노
+  * Season 1 (Episode 1-8)
 * 카케구루이
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
