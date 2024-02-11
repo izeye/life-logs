@@ -351,6 +351,7 @@
 * 원더 우먼 1984 (Wonder Woman 1984, 2020)
 * 원라인 (ONE-LINE, 2016)
 * 월터의 상상은 현실이 된다 (The Secret Life of Walter Mitty, 2013)
+* 웡카 (Wonka, 2024)
 * 위대한 승부 (Searching For Bobby Fischer - Innocent Moves, 1993)
 * 위시 드래곤 (Wish Dragon, 2020)
 * 윌리엄 제로의 재건
