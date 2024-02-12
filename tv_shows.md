@@ -348,6 +348,7 @@
   * Season 1 (Episode 1-8)
 * 유령 (Episode 1-20)
 * 유유백서 (Episode 1-5)
+* 응답하라 1997 (Episode 1-16)
 * 이 구역의 미친 X (Episode 1-13)
 * 이두나! (Episode 1-9)
 * 이번 생도 잘 부탁해 (Episode 1-12)
