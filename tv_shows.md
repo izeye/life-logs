@@ -63,7 +63,7 @@
 * 나쁜 녀석들 : 악의 도시 (Episode 1-16)
 * 나쁜엄마 (Episode 1-14)
 * 나의 아저씨 (Episode 1-16)
-* 나 혼자만 레벨업 (Episode 1-6)
+* 나 혼자만 레벨업 (Episode 1-7)
 * 나 홀로 그대 (Episode 1-12)
 * 낭만닥터 김사부
   * Season 1 (Episode 1-20, 번외편)
