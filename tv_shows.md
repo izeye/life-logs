@@ -266,6 +266,8 @@
 * 싸우자 귀신아 (Episode 1-16)
 * 쌈, 마이웨이 (Episode 1-16)
 * 썸바디 (Episode 1-8)
+* 아리스 인 보더랜드
+  * Season 1 (Episode 1-8)
 * 아바타 아앙의 전설
   * Season 1 (Episode 1-20)
   * Season 2 (Episode 1-20)
