@@ -108,6 +108,7 @@
   * Season 3 (Episode 1-8)
 * 로키
   * Season 1 (Episode 1-6)
+  * Season 2 (Episode 1-6)
 * 루갈 (Episode 1-16)
 * 루시퍼 (Lucifer)
   * Season 1 (Episode 1-13)
