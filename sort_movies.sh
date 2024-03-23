@@ -1,1 +1,1 @@
-LC_ALL=ko_KR.utf8 sort movies.md -o movies.md
+LC_ALL=ko_KR.utf8 sort -f movies.md -o movies.md
