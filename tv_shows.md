@@ -75,6 +75,7 @@
 * 노라가미 (Noragami) (Episode 1-12)
 * 눈이 부시게
   * Season 1 (Episode 1-12)
+* 닥터슬럼프 (Episode 1-16)
 * 닥터 차정숙 (Episode 1-16)
 * 대행사 (Episode 1-16)
 * 더 글로리 (The Glory) (Episode 1-16)
