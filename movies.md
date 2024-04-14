@@ -58,6 +58,7 @@
 * 극장판 포켓몬스터: 정글의 아이, 코코 (劇場版ポケットモンスター ココ, Pokemon the Movie: Secrets of the Jungle, 2020)
 * 극한직업 (Extreme Job, 2018)
 * 기생수 파트1 (Parasyte: Part 1, 2015)
+* 기생수 파트2 (Parasyte: Part 2, 2015)
 * 기생충 (PARASITE, 2019)
 * 기억의 밤 (Forgotten, 2017)
 * 기적 (Miracle, 2020)
