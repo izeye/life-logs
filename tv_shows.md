@@ -16,8 +16,7 @@
   * Season 2 (Episode 1-17)
   * Season 3 (Episode 1-18)
   * Season 4 (Episode 1-16)
-* SKY 캐슬
-  * Season 1 (Episode 1-21)
+* SKY 캐슬 (Episode 1-21)
 * SPY×FAMILY
   * Season 1 (Episode 1-25)
 * 갈릴레오 (ガリレオ)
@@ -34,8 +33,7 @@
   * Season 5 (Episode 1-12)
 * 고스트 닥터 (Episode 1-16)
 * 고요의 바다 (The Silent Sea) (Episode 1-8)
-* 괴물
-  * Season 1 (Episode 1-16)
+* 괴물 (Episode 1-16)
 * 구경이 (Episode 1-12)
 * 구미호뎐 (Episode 1-16)
 * 구필수는 없다 (Episode 1-16)
@@ -74,8 +72,7 @@
 * 너의 목소리가 들려 (Episode 1-18)
 * 너의 시간 속으로 (Episode 1-12)
 * 노라가미 (Noragami) (Episode 1-12)
-* 눈이 부시게
-  * Season 1 (Episode 1-12)
+* 눈이 부시게 (Episode 1-12)
 * 닥터슬럼프 (Episode 1-16)
 * 닥터 차정숙 (Episode 1-16)
 * 닭강정 (Episode 1-10)
@@ -92,15 +89,13 @@
 * 더크 젠틀리의 전체론적 탐정 사무소 (Dirk Gently's Holistic Detective Agency)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-10)
-* 도깨비
-  * Season 1 (Episode 1-16)
+* 도깨비 (Episode 1-16)
 * 도적: 칼의 소리 (Episode 1-9)
 * 도쿄 구울
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
   * Season 3 (Episode 1-24)
-* 동백꽃 필 무렵
-  * Season 1 (Episode 1-20)
+* 동백꽃 필 무렵 (Episode 1-20)
 * 라그나로크 (Ragnarok)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
@@ -173,10 +168,8 @@
 * 무빙 (Episode 1-20)
 * 무인도의 디바 (Episode 1-12)
 * 미남당 (Episode 1-18)
-* 미스터 션샤인: Gun, Glory, Sad ending
-  * Season 1 (Episode 1-24)
-* 미씽: 그들이 있었다
-  * Season 1 (Episode 1-12)
+* 미스터 션샤인: Gun, Glory, Sad ending (Episode 1-24)
+* 미씽: 그들이 있었다 (Episode 1-12)
 * 바디스 (Bodies) (Episode 1-8)
 * 바이오해커스 (Biohackers)
   * Season 1 (Episode 1-6)
@@ -186,8 +179,7 @@
 * 백일의 낭군님 (Episode 1-16)
 * 부부의 세계 (Episode 1-16)
 * 불가살 (Immortal Souls) (Episode 1-16)
-* 뷰티 인사이드
-  * Season 1 (Episode 1-16)
+* 뷰티 인사이드 (Episode 1-16)
 * 블랙 (Episode 1-18)
 * 블랙리스트 (The Blacklist)
   * Season 1 (Episode 1-22)
@@ -207,8 +199,7 @@
 * 빤스맨의 위대한 모험 (The Epic Tales of Captain Underpants) (Episode 1-6)
 * 사냥개들 (Episode 1-8)
 * 사내맞선 (Episode 1-12)
-* 사랑의 불시착
-  * Season 1 (Episode 1-16)
+* 사랑의 불시착 (Episode 1-16)
 * 사이코지만 괜찮아 (Episode 1-16)
 * 사이키 쿠스오의 재난
   * Season 1 (Episode 1-24)
@@ -255,8 +246,7 @@
   * Season 2 (Episode 1-8)
 * 스타트업 (Episode 1-16)
 * 스트레인저 (Episode 1-8)
-* 슬기로운 감빵생활
-  * Season 1 (Episode 1-16)
+* 슬기로운 감빵생활 (Episode 1-16)
 * 슬기로운 의사생활
   * Season 1 (Episode 1-12)
 * 슬램덩크
@@ -268,8 +258,7 @@
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
   * Season 3 (Episode 1-10)
-* 시그널
-  * Season 1 (Episode 1-16)
+* 시그널 (Episode 1-16)
 * 시지프스 : the myth (Episode 1-16)
 * 신성한, 이혼 (Episode 1-12)
 * 싸우자 귀신아 (Episode 1-16)
@@ -371,8 +360,7 @@
 * 이번 생도 잘 부탁해 (Episode 1-12)
 * 이상한 변호사 우영우 (Episode 1-16)
 * 이세계에서 치트 스킬을 얻은 나는 현실 세계에서도 무쌍한다 ~레벨업이 인생을 바꿨다~ (Episode 1-13)
-* 이태원 클라쓰
-  * Season 1 (Episode 1-16)
+* 이태원 클라쓰 (Episode 1-16)
 * 익스플레인: 코로나바이러스를 해설하다
   * Season 1 (Episode 1-3)
 * 일타 스캔들 (Episode 1-16)
@@ -389,8 +377,7 @@
 * 주피터스 레거시 (Jupiter's Legacy)
   * Season 1 (Episode 1-8)
 * 지금 우리 학교는 (Episode 1-12)
-* 지옥 (Hellbound)
-  * Season 1 (Episode 1-6)
+* 지옥 (Hellbound) (Episode 1-6)
 * 진격의 거인 (Attack on Titan) (Episode 1-88)
 * 착오 (Glitch)
   * Season 1 (Episode 1-6)
