@@ -72,6 +72,7 @@
 * 내일 그대와 (Episode 1-16)
 * 너의 목소리가 들려 (Episode 1-18)
 * 너의 시간 속으로 (Episode 1-12)
+* 너의 조각들 (Episode 1-8)
 * 노라가미 (Noragami) (Episode 1-12)
 * 눈이 부시게 (Episode 1-12)
 * 닥터슬럼프 (Episode 1-16)
