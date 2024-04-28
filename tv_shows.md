@@ -74,6 +74,7 @@
 * 너의 시간 속으로 (Episode 1-12)
 * 너의 조각들 (Episode 1-8)
 * 노라가미 (Noragami) (Episode 1-12)
+* 눈물의 여왕 (Episode 1-16)
 * 눈이 부시게 (Episode 1-12)
 * 닥터슬럼프 (Episode 1-16)
 * 닥터 차정숙 (Episode 1-16)
