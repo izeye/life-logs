@@ -38,6 +38,7 @@
 * 구미호뎐 (Episode 1-16)
 * 구필수는 없다 (Episode 1-16)
 * 국민사형투표 (Episode 1-12)
+* 군검사 도베르만 (Episode 1-16)
 * 굿 닥터 (The Good Doctor)
   * Season 1 (Episode 1-18)
 * 귀멸의 칼날
