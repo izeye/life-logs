@@ -376,6 +376,7 @@
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
 * 정신병동에도 아침이 와요 (Episode 1-12)
+* 종말의 바보 (Episode 1-12)
 * 주군의 태양 (Episode 1-16)
 * 주술회전 (Jujutsu Kaisen)
   * Season 1 (Episode 1-24)
