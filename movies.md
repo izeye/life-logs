@@ -210,6 +210,7 @@
 * 샤잠! (Shazam!, 2019)
 * 샤잠! 신들의 분노 (Shazam! Fury of the Gods, 2023)
 * 샬롯의 거미줄 (Charlotte's Web, 2006)
+* 서울의 봄 (12.12: THE DAY, 2023)
 * 설리: 허드슨강의 기적 (SULLY, 2016)
 * 성난 변호사 (The Advocate : A missing body, 2015)
 * 성난황소 (Unstoppable, 2018)
