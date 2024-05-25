@@ -86,6 +86,7 @@
 * 대행사 (Episode 1-16)
 * 더 글로리 (The Glory) (Episode 1-16)
 * 더 미스트 (Episode 1-10)
+* 더 에이트 쇼 (The 8 Show) (Episode 1-8)
 * 더 킹 : 영원의 군주 (Episode 1-16)
 * 더 할로우 (The Hollow)
   * Season 1 (Episode 1-10)
