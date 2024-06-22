@@ -67,6 +67,7 @@
 * 기생수 (Episode 1-24)
 * 기생수: 더 그레이 (Episode 1-6)
 * 기적의 형제 (Episode 1-16)
+* 끝내주는 해결사 (Episode 1-12)
 * 나쁜 녀석들 : 악의 도시 (Episode 1-16)
 * 나쁜엄마 (Episode 1-14)
 * 나의 아저씨 (Episode 1-16)
