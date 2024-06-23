@@ -370,6 +370,7 @@
 * 인 디 에어 (Up In The Air, 2009)
 * 인 타임 (In Time, 2011)
 * 인사이드 아웃 (Inside Out, 2015)
+* 인사이드 아웃 2 (Inside Out 2, 2024)
 * 인크레더블 2 (Incredibles 2, 2018)
 * 인크레더블 헐크 (The Incredible Hulk, 2008)
 * 인터셉터 (Interceptor, 2022)
