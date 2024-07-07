@@ -34,6 +34,7 @@
 * 고스트 닥터 (Episode 1-16)
 * 고요의 바다 (The Silent Sea) (Episode 1-8)
 * 괴물 (Episode 1-16)
+* 괴수 8호 (Kaiju No. 8) (Episode 1-12)
 * 구경이 (Episode 1-12)
 * 구미호뎐 (Episode 1-16)
 * 구필수는 없다 (Episode 1-16)
