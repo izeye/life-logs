@@ -394,6 +394,7 @@
 * 종말의 바보 (Episode 1-12)
 * 좋아하면 울리는
   * Season 1 (Episode 1-8)
+  * Season 2 (Episode 1-6)
 * 주군의 태양 (Episode 1-16)
 * 주술회전 (Jujutsu Kaisen)
   * Season 1 (Episode 1-24)
