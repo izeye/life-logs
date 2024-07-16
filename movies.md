@@ -463,6 +463,7 @@
 * 특종: 량첸살인기 (The Exclusive : Beat the Devil's Tattoo, 2015)
 * 팅커 테일러 솔저 스파이 (Tinker Tailor Soldier Spy, 2011)
 * 파라독스 (Paradox, 2016)
+* 파묘 (Exhuma, 2024)
 * 판도라 (Pandora, 2016)
 * 패딩턴 (Paddington, 2014)
 * 팬 (Pan, 2015)
