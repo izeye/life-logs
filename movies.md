@@ -264,6 +264,7 @@
 * 슬럼버랜드 (Slumberland, 2022)
 * 슬로우 웨스트 (Slow West, 2015)
 * 시동 (START-UP, 2019)
+* 시민덕희 (Citizen of a Kind, 2024)
 * 시카리오: 암살자의 도시 (Sicario, 2015)
 * 신과함께-인과 연 (Along with the Gods: The Last 49 Days, 2017)
 * 신과함께-죄와 벌 (Along With the Gods: The Two Worlds, 2017)
