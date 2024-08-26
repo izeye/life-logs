@@ -469,6 +469,7 @@
 * 포켓몬스터 XY
   * Season 1 (Episode 1-3)
 * 푸른 바다의 전설 (Episode 1-20)
+* 품위있는 그녀 (Episode 1-20)
 * 프롬 더 콜드 (Episode 1-8)
 * 플래시 (The Flash)
   * Season 1 (Episode 1-23)
