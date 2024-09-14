@@ -495,6 +495,7 @@
 * 해리 포터와 아즈카반의 죄수 (Harry Potter And The Prisoner Of Azkaban, 2004)
 * 해리 포터와 죽음의 성물 - 1부 (Harry Potter And The Deathly Hallows: Part 1, 2010)
 * 해리 포터와 혼혈 왕자 (Harry Potter And The Half-Blood Prince, 2009)
+* 핸섬가이즈 (Handsome Guys, 2024)
 * 허리케인 하이스트 (The Hurricane Heist, 2017)
 * 헌트 (HUNT, 2022)
 * 협상 (THE NEGOTIATION, 2018)
