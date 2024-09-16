@@ -279,6 +279,7 @@
 * 슬기로운 감빵생활 (Episode 1-16)
 * 슬기로운 의사생활
   * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-12)
 * 슬램덩크
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-8)
