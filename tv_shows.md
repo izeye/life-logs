@@ -143,6 +143,7 @@
 * 리갈 하이 (リーガル・ハイ)
   * Season 1 (Episode 1-11)
   * Season 2 (Episode 1-10)
+* 리락쿠마와 가오루씨 (Episode 1-13)
 * 리락쿠마의 테마파크 어드벤처 (Episode 1-8)
 * 리미트리스 (Limitless)
   * Season 1 (Episode 1-22)
