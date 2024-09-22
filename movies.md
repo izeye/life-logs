@@ -143,6 +143,7 @@
 * 메이즈 러너 (The Maze Runner, 2014)
 * 메이즈 러너: 스코치 트라이얼 (Maze Runner: Scorch Trials, 2015)
 * 모가디슈 (Escape from Mogadishu, 2021)
+* 모노노케 히메 (The Princess Mononoke, 2003)
 * 모아나 (Moana, 2016)
 * 목소리의 형태 (聲の形, A Silent Voice : The Movie, 2016)
 * 몬스터 대학교 (Monsters University, 2013)
