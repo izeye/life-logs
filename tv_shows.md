@@ -22,6 +22,7 @@
 * SKY 캐슬 (Episode 1-21)
 * SPY×FAMILY
   * Season 1 (Episode 1-25)
+* 가족X멜로 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
 * 경성크리처 (Episode 1-10)
