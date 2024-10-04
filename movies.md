@@ -471,6 +471,7 @@
 * 트롤: 월드 투어 (Trolls World Tour, 2020)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 특종: 량첸살인기 (The Exclusive : Beat the Devil's Tattoo, 2015)
+* 틴에이지 크라켄 루비 (Ruby Gillman, Teenage Kraken, 2023)
 * 팅커 테일러 솔저 스파이 (Tinker Tailor Soldier Spy, 2011)
 * 파라독스 (Paradox, 2016)
 * 파묘 (Exhuma, 2024)
