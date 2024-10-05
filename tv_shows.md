@@ -25,7 +25,9 @@
 * 가족X멜로 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
-* 경성크리처 (Episode 1-10)
+* 경성크리처
+  * Season 1 (Episode 1-10)
+  * Season 2 (Episode 1-7)
 * 경이로운 소문
   * Season 1 (Episode 1-16)
   * Season 2 (Episode 1-12)
