@@ -25,6 +25,7 @@
 * 가족X멜로 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
+* 갯마을 차차차 (Episode 1-16)
 * 경성크리처
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-7)
