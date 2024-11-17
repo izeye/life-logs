@@ -469,6 +469,7 @@
 * 토르: 천둥의 신 (Thor, 2011)
 * 토이 스토리 4 (Toy Story 4, 2019)
 * 트롤 (Trolls, 2016)
+* 트롤: 밴드 투게더 (Trolls Band Together, 2023)
 * 트롤: 월드 투어 (Trolls World Tour, 2020)
 * 특별수사: 사형수의 편지 (Proof of Innocence, 2015)
 * 특종: 량첸살인기 (The Exclusive : Beat the Devil's Tattoo, 2015)
