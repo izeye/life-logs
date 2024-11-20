@@ -16,6 +16,7 @@
   * Season 2 (Episode 1-17)
   * Season 3 (Episode 1-18)
   * Season 4 (Episode 1-16)
+* Mr. 플랑크톤 (Episode 1-10)
 * OA
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-8)
