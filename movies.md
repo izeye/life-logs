@@ -145,6 +145,7 @@
 * 모가디슈 (Escape from Mogadishu, 2021)
 * 모노노케 히메 (The Princess Mononoke, 2003)
 * 모아나 (Moana, 2016)
+* 모아나 2 (MOANA 2, 2024)
 * 목소리의 형태 (聲の形, A Silent Voice : The Movie, 2016)
 * 몬스터 대학교 (Monsters University, 2013)
 * 몬스터 패밀리 (Monster Family, 2017)
