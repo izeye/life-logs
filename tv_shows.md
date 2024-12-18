@@ -133,6 +133,7 @@
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-14)
 * 라켓소년단 (Racket Boys) (Episode 1-16)
+* 라팔마 (Episode 1-4)
 * 로스쿨 (Episode 1-16)
 * 로크 앤 키 (Locke & Key)
   * Season 1 (Episode 1-10)
