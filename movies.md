@@ -48,6 +48,7 @@
 * 그녀를 믿지 마세요 (Don't Believe Her, 2004)
 * 그레이 맨 (The Gray Man, 2022)
 * 그린치 (The Grinch, 2018)
+* 그해 크리스마스에는 (That Christmas, 2024)
 * 극장판 귀멸의 칼날: 무한열차편 (劇場版「鬼滅の刃」無限列車編, Demon Slayer: Kimetsu no Yaiba the Movie - Mugen Train, 2020)
 * 극장판 도라에몽: 진구의 보물섬 (映画ドラえもん　のび太の宝島, Doraemon the Movie: Nobita's Treasure Island, 2018)
 * 극장판 도라에몽:신 진구의 버스 오브 재팬 (映画ドラえもん 新・のび太の日本誕生, DORAEMON THE MOVIE: NOBITA AND THE BIRTH OF JAPAN, 2016)
