@@ -8,4 +8,5 @@
 * NONGNOOCH TROPICAL GARDEN (농눗 빌리지)
 * Pattaya Floating Market (파타야 수상 시장)
 * Suvarnabhumi Airport (수완나품 공항)
+* The Sanctuary Of Truth (진리의 성전)
 * Zayn Hotel Bangkok (자인 호텔 방콕)
