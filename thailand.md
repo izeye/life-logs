@@ -1,5 +1,6 @@
 # Thailand
 * DODAM (도담)
+* Grande Centre Point Terminal 21 (그랜드 센터 포인트 호텔 터미널 21)
 * Jae Tho Beef Noodles (쩨또 국수)
 * J Inspired Hotel Pattaya (J 인스파이어드 호텔 파타야)
 * Million Years Stone Park & Pattaya Crocodile Farm (백만년 바위 공원과 악어 농장)
