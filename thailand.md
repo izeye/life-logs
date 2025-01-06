@@ -4,6 +4,7 @@
 * Million Years Stone Park & Pattaya Crocodile Farm (백만년 바위 공원과 악어 농장)
 * MK Restaurant Central Marina
 * MongChang Cafe
+* NONGNOOCH TROPICAL GARDEN (농눗 빌리지)
 * Pattaya Floating Market (파타야 수상 시장)
 * Suvarnabhumi Airport (수완나품 공항)
 * Zayn Hotel Bangkok (자인 호텔 방콕)
