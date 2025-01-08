@@ -16,4 +16,5 @@
 * Suvarnabhumi Airport (수완나품 공항)
 * Terminal 21 Pattaya (터미널21 파타야)
 * The Sanctuary Of Truth (진리의 성전)
+* Yenly Yours
 * Zayn Hotel Bangkok (자인 호텔 방콕)
