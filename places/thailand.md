@@ -1,6 +1,7 @@
 # Thailand
 * DODAM (도담)
 * Grande Centre Point Pattaya (그란데 센터 포인트 파타야)
+* ICONSIAM (아이콘 시암)
 * Jae Tho Beef Noodles (쩨또 국수)
 * J Inspired Hotel Pattaya (J 인스파이어드 호텔 파타야)
 * KOURAKUEN Ramen - 3rd floor - Terminal 21 Pattaya
