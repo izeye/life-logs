@@ -1,4 +1,5 @@
 # Thailand
+* Asiatique The Riverfront (아시아틱)
 * DODAM (도담)
 * Grande Centre Point Pattaya (그란데 센터 포인트 파타야)
 * ICONSIAM (아이콘 시암)
