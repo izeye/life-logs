@@ -486,6 +486,7 @@
 * 파묘 (Exhuma, 2024)
 * 판도라 (Pandora, 2016)
 * 패딩턴 (Paddington, 2014)
+* 패밀리 스위치 (Family Switch, 2023)
 * 팬 (Pan, 2015)
 * 퍼스트 어벤져 (Captain America: The First Avenger, 2011)
 * 퍼시픽 림 (Pacific Rim, 2013)
