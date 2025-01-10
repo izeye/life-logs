@@ -436,6 +436,7 @@
   * Season 1 (Episode 1-24)
 * 주피터스 레거시 (Jupiter's Legacy)
   * Season 1 (Episode 1-8)
+* 지금 거신 전화는 (Episode 1-12)
 * 지금 우리 학교는 (Episode 1-12)
 * 지옥 (Hellbound)
   * Season 1 (Episode 1-6)
