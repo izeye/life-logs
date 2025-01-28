@@ -83,7 +83,9 @@
 * 나쁜 녀석들 : 악의 도시 (Episode 1-16)
 * 나쁜엄마 (Episode 1-14)
 * 나의 아저씨 (Episode 1-16)
-* 나이트 에이전트 (Episode 1-10)
+* 나이트 에이전트
+  * Season 1 (Episode 1-10)
+  * Season 2 (Episode 1-10)
 * 나 혼자만 레벨업 (Episode 1-12)
 * 나 홀로 그대 (Episode 1-12)
 * 낭만닥터 김사부
