@@ -108,6 +108,7 @@
 * 더 글로리 (The Glory) (Episode 1-16)
 * 더 리크루트
   * Season 1 (Episode 1-8)
+  * Season 2 (Episode 1-6)
 * 더 미스트 (Episode 1-10)
 * 더 에이트 쇼 (The 8 Show) (Episode 1-8)
 * 더 킹 : 영원의 군주 (Episode 1-16)
