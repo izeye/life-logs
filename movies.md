@@ -252,6 +252,7 @@
 * 슈퍼배드 (Despicable Me, 2010)
 * 슈퍼배드 2 (Despicable Me 2, 2013)
 * 슈퍼배드 4 (Despicable Me 4, 2024)
+* 스노우 몬스터 (Abominable, 2019)
 * 스니치 (Snitch, 2013)
 * 스마트폰을 떨어뜨렸을 뿐인데 (Unlocked, 2022)
 * 스머프: 비밀의 숲 (Smurfs: The Lost Village, 2017)
