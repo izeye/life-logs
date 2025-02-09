@@ -214,7 +214,9 @@
 * 무인도의 디바 (Episode 1-12)
 * 미남당 (Episode 1-18)
 * 미스터 션샤인: Gun, Glory, Sad ending (Episode 1-24)
-* 미씽: 그들이 있었다 (Episode 1-12)
+* 미씽: 그들이 있었다
+  * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-14)
 * 바디스 (Bodies) (Episode 1-8)
 * 바이오해커스 (Biohackers)
   * Season 1 (Episode 1-6)
