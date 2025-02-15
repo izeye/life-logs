@@ -366,6 +366,7 @@
   * Season 4 (Episode 1-22)
   * Season 5 (Episode 1-22)
   * Season 6 (Episode 1-13)
+* 열혈사제 (Episode 1-20)
 * 오 나의 귀신님 (Episode 1-16)
 * 오리지널스 (The Originals)
   * Season 1 (Episode 1-22)
