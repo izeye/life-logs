@@ -64,6 +64,7 @@
 * 기생수 파트2 (Parasyte: Part 2, 2015)
 * 기생충 (PARASITE, 2019)
 * 기억의 밤 (Forgotten, 2017)
+* 기예르모 델토로의 피노키오 (Pinocchio, 2022)
 * 기적 (Miracle, 2020)
 * 꾼 (The Swindlers, 2017)
 * 꿀벌 대소동 (Bee Movie, 2007)
