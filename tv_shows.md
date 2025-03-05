@@ -421,6 +421,7 @@
 * 응답하라 1988 (Episode 1-20)
 * 응답하라 1994 (Episode 1-21)
 * 응답하라 1997 (Episode 1-16)
+* 의사요한 (Episode 1-16)
 * 이 구역의 미친 X (Episode 1-13)
 * 이두나! (Episode 1-9)
 * 이번 생도 잘 부탁해 (Episode 1-12)
