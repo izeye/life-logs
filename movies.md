@@ -118,6 +118,7 @@
 * 레고 배트맨 무비 (The Lego Batman Movie, 2017)
 * 레드슈즈 (Red Shoes, 2019)
 * 레블 리지
+* 레오 (Leo, 2023)
 * 레인 오브 파이어 (Reign Of Fire, 2002)
 * 로건 (Logan, 2017)
 * 로알드 달의 뮤지컬 마틸다 (Roald Dahl’s Matilda the Musical, 2022)
