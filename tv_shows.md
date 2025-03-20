@@ -152,6 +152,8 @@
 * 로키
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
+* 카모노하시 론의 금단추리 (Ron Kamonohashi: Deranged Detective)
+  * Season 1 (Episode 1-13)
 * 루갈 (Episode 1-16)
 * 루시퍼 (Lucifer)
   * Season 1 (Episode 1-13)
