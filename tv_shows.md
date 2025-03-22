@@ -87,7 +87,7 @@
 * 나이트 에이전트
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
-* 나 혼자만 레벨업 (Episode 1-23)
+* 나 혼자만 레벨업 (Episode 1-24)
 * 나 홀로 그대 (Episode 1-12)
 * 낭만닥터 김사부
   * Season 1 (Episode 1-20, 번외편)
