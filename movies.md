@@ -382,6 +382,7 @@
 * 위시 드래곤 (Wish Dragon, 2020)
 * 위키드 (Wicked, 2024)
 * 윌리엄 제로의 재건
+* 유니콘 셀마 (Thelma the Unicorn, 2024)
 * 유미의 세포들 더 무비 (YUMI'S CELLS THE MOVIE, 2024)
 * 유체이탈자 (Spiritwalker, 2020)
 * 육사오(6/45) (2022)
