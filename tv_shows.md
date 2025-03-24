@@ -279,6 +279,7 @@
 * 셀베이션 (Salvation)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-13)
+* 소년의 시간 (Episode 1-4)
 * 손 (the guest) (Episode 1-16)
 * 손오공: 새로운 전설 (THE NEW LEGENDS OF MONKEY)
   * Season 1 (Episode 1-10)
