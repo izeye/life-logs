@@ -478,6 +478,7 @@
 * 청의 엑소시스트 (Blue Exorcist)
   * Season 1 (Episode 1-26)
   * Season 2 (Episode 1-12)
+* 체인소맨 (Episode 1-12)
 * 최악의 악 (Episode 1-12)
 * 최애의 아이
   * Season 1 (Episode 1-11)
