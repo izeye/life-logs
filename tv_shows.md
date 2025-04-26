@@ -346,7 +346,9 @@
 * 악의 꽃 (Episode 1-16)
 * 안녕? 나야! (Episode 1-16)
 * 알함브라 궁전의 추억 (Episode 1-16)
-* 약한영웅 Class 1 (Episode 1-8)
+* 약한영웅
+  * Season 1 (Episode 1-8)
+  * Season 2 (Episode 1-8)
 * 애로우 (Arrow)
   * Season 1 (Episode 1-23)
   * Season 2 (Episode 1-23)
