@@ -135,6 +135,7 @@
 * 마스터 (Master, 2016)
 * 마이펫의 이중생활 (The Secret Life of Pets, 2016)
 * 마이펫의 이중생활2 (The Secret Life of Pets 2, 2019)
+* 마인크래프트 무비 (A MINECRAFT MOVIE, 2025)
 * 마틸다 (Matilda, 1996)
 * 마파도 2 (Mapado 2, 2007)
 * 말모이 (MAL·MO·E: The Secret Mission, 2018)
