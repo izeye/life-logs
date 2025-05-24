@@ -283,6 +283,7 @@
 * 스피릿 (Spirit Untamed, 2021)
 * 슬럼버랜드 (Slumberland, 2022)
 * 슬로우 웨스트 (Slow West, 2015)
+* 승부 (The Match, 2025)
 * 시동 (START-UP, 2019)
 * 시민덕희 (Citizen of a Kind, 2024)
 * 시카리오: 암살자의 도시 (Sicario, 2015)
