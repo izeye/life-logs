@@ -433,6 +433,7 @@
 * 원피스 (One Piece) (애니메이션)
   * Season 1 (Episode 1-61)
   * Season 2 (Episode 1-16)
+  * Season 3 (Episode 1-15)
 * 원헌드레드 (The 100)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-16)
