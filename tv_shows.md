@@ -288,7 +288,7 @@
 * 선의의 경쟁 (Episode 1-16)
 * 성적을 부탁해 티처스
   * Season 1 (Episode 1-30)
-  * Season 2 (Episode 1-2)
+  * Season 2 (Episode 1-3)
 * 셀러브리티 (Episode 1-12)
 * 셀베이션 (Salvation)
   * Season 1 (Episode 1-13)
