@@ -111,6 +111,7 @@
 * 돈 룩 업 (Don't Look Up, 2021)
 * 돈 세이 워드 (Don't Say A Word, 2001)
 * 둠 (Doom, 2005)
+* 드래곤 길들이기 (How to Train Your Dragon, 2025)
 * 라야와 마지막 드래곤 (Raya and the Last Dragon, 2020)
 * 라이온 킹 (The Lion King, 1994)
 * 럭키 (LUCK-KEY, 2015)
