@@ -25,6 +25,7 @@
 * 감바의 대모험 (GAMBA ガンバと仲間たち, Gamba, 2015)
 * 감쪽같은 그녀 (A Little Princess, 2019)
 * 갓 오브 이집트 (Gods of Egypt, 2016)
+* 갓파 쿠와 여름방학을 (2008)
 * 강철비 (Steel Rain, 2017)
 * 개구쟁이 스머프 2 (The Smurfs 2, 2013)
 * 걷기왕 (Queen of Walking, 2016)
