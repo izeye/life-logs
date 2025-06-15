@@ -7,4 +7,5 @@
 * 허니눈꽃쌀과자, TRANGAN 2 CONFECTIONERY JOINT STOCK COMPANY, Vietnam
 
 ## Beverages
+* 모구모구 망고맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 멜론향, SAPPE PUBLIC COMPANY LIMITED, Thailand
