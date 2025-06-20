@@ -55,6 +55,7 @@
 * 굿 닥터 (The Good Doctor)
   * Season 1 (Episode 1-18)
 * 굿파트너 (Episode 1-16)
+* 귀궁 (Episode 1-16)
 * 귀멸의 칼날
   * Season 1 (Episode 1-26)
   * Season 2 (Episode 1-7)
