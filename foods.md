@@ -8,6 +8,7 @@
 * 서주 초코멜로 젤리, 서주제과(주)
 * 카카오별, 한살림
 * 허니눈꽃쌀과자, TRANGAN 2 CONFECTIONERY JOINT STOCK COMPANY, Vietnam
+* 헬로키티 사과젤리, 서주제과(주)
 
 ## Beverages
 * 모구모구 망고맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
