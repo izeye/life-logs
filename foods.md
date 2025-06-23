@@ -10,6 +10,7 @@
 * 초코멜로바, 서주제과(주)
 * 카카오별, 한살림
 * 탱글탱글 리치맛, 서주제과(주)
+* 탱글탱글 콜라맛, 서주제과(주)
 * 허니눈꽃쌀과자, TRANGAN 2 CONFECTIONERY JOINT STOCK COMPANY, Vietnam
 * 헬로키티 사과젤리, 서주제과(주)
 
