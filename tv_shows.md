@@ -230,6 +230,7 @@
 * 미씽: 그들이 있었다
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-14)
+* 미지의 서울 (Episode 1-12)
 * 바디스 (Bodies) (Episode 1-8)
 * 바이오해커스 (Biohackers)
   * Season 1 (Episode 1-6)
