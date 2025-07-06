@@ -47,6 +47,7 @@
 * 귀를 기울이면 (Whisper Of The Heart, 1995)
 * 그것만이 내 세상 (Keys to the Heart, 2017)
 * 그녀를 믿지 마세요 (Don't Believe Her, 2004)
+* 그대들은 어떻게 살 것인가 (The Boy and the Heron, 2023)
 * 그레이 맨 (The Gray Man, 2022)
 * 그린치 (The Grinch, 2018)
 * 그해 크리스마스에는 (That Christmas, 2024)
