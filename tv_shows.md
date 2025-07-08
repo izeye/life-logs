@@ -286,7 +286,9 @@
 * 살인자ㅇ난감 (Episode 1-8)
 * 삼체 (Episode 1-8)
 * 상속자들 (Episode 1-20)
-* 샌드맨 (The Sandman) (Episode 1-11)
+* 샌드맨 (The Sandman)
+  * Season 1 (Episode 1-11)
+  * Season 2 (Episode 1-6)
 * 섀도우 앤 본
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-8)
