@@ -54,6 +54,7 @@
 * 군검사 도베르만 (Episode 1-16)
 * 굿 닥터 (The Good Doctor)
   * Season 1 (Episode 1-18)
+* 굿보이 (Episode 1-16)
 * 굿파트너 (Episode 1-16)
 * 귀궁 (Episode 1-16)
 * 귀멸의 칼날
