@@ -30,5 +30,6 @@
 * 헬로키티 사과젤리, 서주제과(주)
 
 ## Beverages
+* 모구모구 나타데코코 리치맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 망고맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 멜론향, SAPPE PUBLIC COMPANY LIMITED, Thailand
