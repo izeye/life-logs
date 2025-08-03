@@ -556,6 +556,7 @@
 * 태양의 후예 (Episode 1-16)
 * 터널 (Episode 1-16)
 * 트렁크 (Episode 1-8)
+* 트리거 (Episode 1-10)
 * 틴 울프 시즌 (Teen Wolf)
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
