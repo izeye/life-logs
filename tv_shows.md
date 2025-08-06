@@ -513,6 +513,8 @@
   * Season 3 (Episode 1-6)
 * 천국보다 아름다운 (Episode 1-12)
 * 철인왕후 (Episode 1-20)
+* 청담국제고등학교
+  * Season 1 (Episode 1-10)
 * 청의 엑소시스트 (Blue Exorcist)
   * Season 1 (Episode 1-26)
   * Season 2 (Episode 1-12)
