@@ -515,6 +515,7 @@
 * 철인왕후 (Episode 1-20)
 * 청담국제고등학교
   * Season 1 (Episode 1-10)
+  * Season 2 (Episode 1-10)
 * 청의 엑소시스트 (Blue Exorcist)
   * Season 1 (Episode 1-26)
   * Season 2 (Episode 1-12)
