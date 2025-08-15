@@ -372,6 +372,7 @@
 * 악마판사 (Episode 1-16)
 * 악연 (Episode 1-6)
 * 악의 꽃 (Episode 1-16)
+* 악의 마음을 읽는 자들 (Episode 1-12)
 * 안녕? 나야! (Episode 1-16)
 * 알함브라 궁전의 추억 (Episode 1-16)
 * 약한영웅
