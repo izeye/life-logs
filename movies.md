@@ -428,6 +428,7 @@
 * 제이슨 본 (JASON BOURNE, 2016)
 * 조작된 도시 (Fabricated City, 2017)
 * 존 윅 - 리로드 (John Wick Chapter Two, 2017)
+* 좀비딸 (My Daughter is a Zombie, 2025)
 * 좋아해도 싫어하는 (My Oni Girl, 2024)
 * 좋아해줘 (Like for Likes, 2015)
 * 주토피아 (Zootopia, 2016)
