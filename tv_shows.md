@@ -591,6 +591,7 @@
 * 하이라키 (Episode 1-7)
 * 하이바이, 마마! (Episode 1-16)
 * 하이에나 (Episode 1-16)
+* 하이쿠키 (Episode 1-20)
 * 하이큐!! (Haikyu!!)
   * Season 1 (Episode 1-25)
   * Season 2 (Episode 1-25)
