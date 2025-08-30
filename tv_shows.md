@@ -388,6 +388,7 @@
   * Season 6 (Episode 1-23)
   * Season 7 (Episode 1-22)
   * Season 8 (Episode 1-10)
+* 애마 (Episode 1-6)
 * 애쉬 vs 이블 데드 (Ash vs Evil Dead)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
