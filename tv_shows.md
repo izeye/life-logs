@@ -114,6 +114,7 @@
 * 닥터 차정숙 (Episode 1-16)
 * 단다단
   * Season 1 (Episode 1-12)
+  * Season 2 (Episode 1-12)
 * 닭강정 (Episode 1-10)
 * 당신의 맛 (Episode 1-10)
 * 대행사 (Episode 1-16)
