@@ -495,6 +495,7 @@
 * 이판사판 (Episode 1-32)
 * 익스플레인: 코로나바이러스를 해설하다
   * Season 1 (Episode 1-3)
+* 인간수업 (Episode 1-10)
 * 일타 스캔들 (Episode 1-16)
 * 작은 아씨들 (Episode 1-12)
 * 장송의 프리렌 (Episode 1-28)
