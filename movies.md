@@ -177,6 +177,7 @@
 * 미첼 가족과 기계 전쟁 (Mitchells vs the Machines, 2021)
 * 밀리언 달러 베이비 (Million Dollar Baby, 2004)
 * 바람계곡의 나우시카 (Nausicaa Of The Valley Of Wind, 1984)
+* 바람이 분다 (The Wind Rises, 2013)
 * 바스터즈: 거친 녀석들 (Inglourious Basterds, 2009)
 * 박물관이 살아있다 2 (Night At The Museum 2: Battle Of The Smithsonian, 2009)
 * 박물관이 살아있다 : 비밀의 무덤 (Night at the Museum: Secret of the Tomb, 2014)
