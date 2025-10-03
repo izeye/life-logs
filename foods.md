@@ -26,6 +26,7 @@
 * 텐텐맛 멀티비타민, 한미사이언스(주)
 * 트롤리 사우어 구미 캔디, Trolli GmbH, Germany
 * 포키 극세, 해태제과식품(주)
+* 포키 딸기, 해태제과식품(주)
 * 프루팁스 리치맛, Dongguan Hsu Chi Food Co.,Ltd, China
 * 하리보 웜즈 사우어, PAMIR GIDA SAN. A.S., Turkey
 * 행운의 메론부기모양 마시멜로, Fujian Holeywood Foods Industrial Co., Ltd., China
