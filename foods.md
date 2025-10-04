@@ -14,7 +14,6 @@
 * 상하치즈 브리, 매일유업(주)
 * 서주 초코멜로 젤리, 서주제과(주)
 * 서주 흔들어차차 사우어, 서주제과(주)
-* 얼려먹는 야쿠르트 샤인머스캣, (주)에치와이
 * 와우 블랙레몬, (주)오리온
 * 우리밀 두부과자, 한살림
 * 이클립스 피치향, WRIGLEY CONFECTIONERY (SHANGHAI) CO.LTD, China
@@ -40,3 +39,4 @@
 * 모구모구 나타데코코 리치맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 망고맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 멜론향, SAPPE PUBLIC COMPANY LIMITED, Thailand
+* 얼려먹는 야쿠르트 샤인머스캣, (주)에치와이
