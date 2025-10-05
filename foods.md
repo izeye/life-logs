@@ -39,4 +39,5 @@
 * 모구모구 나타데코코 리치맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 망고맛, SAPPE PUBLIC COMPANY LIMITED, Thailand
 * 모구모구 멜론향, SAPPE PUBLIC COMPANY LIMITED, Thailand
+* 알로에베라킹, 오케이에프음료(주)
 * 얼려먹는 야쿠르트 샤인머스캣, (주)에치와이
