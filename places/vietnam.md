@@ -4,4 +4,5 @@
 * Danang International Airport
 * Đà Nẵng Museum
 * Han Market
+* Nhà hàng Madame Lân
 * Wink Hotel Danang Centre
