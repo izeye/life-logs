@@ -12,3 +12,4 @@
 * Nhà hàng Madame Lân
 * The Blue Restaurant
 * Wink Hotel Danang Centre
+* Xanh House
