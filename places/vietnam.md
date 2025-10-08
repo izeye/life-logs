@@ -7,6 +7,7 @@
 * Đà Nẵng Mikazuki
 * Đà Nẵng Museum
 * Han Market
+* Nami Beach Club
 * Nhà hàng Madame Lân
 * The Blue Restaurant
 * Wink Hotel Danang Centre
