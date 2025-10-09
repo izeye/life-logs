@@ -1,6 +1,7 @@
 # Vietnam
 * An Bang Beach
 * Ba Na Hills
+* Boulevard Gelato & Coffee
 * Brasserie
 * Cộng Cà Phê
 * Da Nang Cathedral
