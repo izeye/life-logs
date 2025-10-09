@@ -8,6 +8,7 @@
 * Đà Nẵng Museum
 * Han Market
 * Hyatt Regency Danang Resort and Spa
+* Long Phu Eco Tour & Restaurant (Basket Boat Tour)
 * Nami Beach Club
 * Nhà hàng Madame Lân
 * Osteria Al Mare
