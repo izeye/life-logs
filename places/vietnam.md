@@ -12,6 +12,7 @@
 * Long Phu Eco Tour & Restaurant (Basket Boat Tour)
 * Nami Beach Club
 * Nhà hàng Madame Lân
+* Old Town
 * Osteria Al Mare
 * The Blue Restaurant
 * The Marble Mountains
