@@ -12,5 +12,6 @@
 * Nhà hàng Madame Lân
 * Osteria Al Mare
 * The Blue Restaurant
+* Wind & Moon Restaurant & Bar/ Nhà hàng Gió Trăng
 * Wink Hotel Danang Centre
 * Xanh House
