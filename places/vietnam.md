@@ -10,6 +10,7 @@
 * Hyatt Regency Danang Resort and Spa
 * Nami Beach Club
 * Nhà hàng Madame Lân
+* Osteria Al Mare
 * The Blue Restaurant
 * Wink Hotel Danang Centre
 * Xanh House
