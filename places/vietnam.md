@@ -13,6 +13,7 @@
 * Han Market
 * Hyatt Regency Danang Resort and Spa
 * Long Phu Eco Tour & Restaurant (Basket Boat Tour)
+* Lotte Mart Supermarket
 * Nami Beach Club
 * Nhà hàng Madame Lân
 * Old Town
