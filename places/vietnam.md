@@ -18,6 +18,7 @@
 * Nhà hàng Madame Lân
 * Old Town
 * Osteria Al Mare
+* Sodam
 * The Blue Restaurant
 * The Marble Mountains
 * Wind & Moon Restaurant & Bar/ Nhà hàng Gió Trăng
