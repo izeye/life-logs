@@ -9,6 +9,7 @@
 * Danang International Airport
 * Đà Nẵng Mikazuki
 * Đà Nẵng Museum
+* Dragon Bridge
 * Han Market
 * Hyatt Regency Danang Resort and Spa
 * Long Phu Eco Tour & Restaurant (Basket Boat Tour)
