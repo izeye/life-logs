@@ -85,6 +85,7 @@
 * 너의 이름은. (君の名は。, your name., 2016)
 * 너의 췌장을 먹고 싶어 (君の膵臓をたべたい, Let Me Eat Your Pancreas, 2017)
 * 노바디 (Nobody, 2020)
+* 노이즈 (Noise, 2025)
 * 노팅 힐 (Notting Hill, 1999)
 * 눈에는 눈 이에는 이 (Eye For An Eye, 2008)
 * 니모나 (Nimona, 2023)
