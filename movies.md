@@ -33,6 +33,7 @@
 * 검사외전 (A Violent Prosecutor, 2015)
 * 겨울왕국 2 (Frozen 2, 2019)
 * 고령화 가족 (Boomerang Family, 2013)
+* 고백의 역사 (Love Untangled, 2025)
 * 고스트 워
 * 고스트캣 앙주 (Ghost Cat Anzu, 2025)
 * 고양이의 보은 (The Cat Returns, 2002)
