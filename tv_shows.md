@@ -531,6 +531,7 @@
 * 지옥 (Hellbound)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
+* 지옥락 (Episode 1-13)
 * 진격의 거인 (Attack on Titan) (Episode 1-88)
 * 착오 (Glitch)
   * Season 1 (Episode 1-6)
