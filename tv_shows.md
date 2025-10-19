@@ -159,6 +159,7 @@
 * 라켓소년단 (Racket Boys) (Episode 1-16)
 * 라팔마 (Episode 1-4)
 * 란마1/2 (Episode 1-12)
+* 로맨틱 어나니머스 (Episode 1-8)
 * 로스쿨 (Episode 1-16)
 * 로크 앤 키 (Locke & Key)
   * Season 1 (Episode 1-10)
