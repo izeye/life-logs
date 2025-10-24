@@ -522,6 +522,7 @@
 * 죠죠의 기묘한 모험
   * Season 1 (Episode 1-26)
   * Season 2 (Episode 1-48)
+  * Season 3 (Episode 1-39)
 * 주군의 태양 (Episode 1-16)
 * 주술회전 (Jujutsu Kaisen)
   * Season 1 (Episode 1-24)
