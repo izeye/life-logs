@@ -485,6 +485,7 @@
 * 위쳐 (The Witcher)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-8)
+  * Season 3 (Episode 1-8)
 * 위쳐 시즌 1 요약편: 프롬 더 비기닝 (The Witcher Season One Recap: From the Beginning, 2021)
 * 유령 (Episode 1-20)
 * 유유백서 (Episode 1-5)
