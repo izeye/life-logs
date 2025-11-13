@@ -120,6 +120,7 @@
   * Season 2 (Episode 1-12)
 * 닭강정 (Episode 1-10)
 * 당신의 맛 (Episode 1-10)
+* 당신이 죽였다 (Episode 1-8)
 * 대행사 (Episode 1-16)
 * 더 글로리 (The Glory) (Episode 1-16)
 * 더 리크루트
