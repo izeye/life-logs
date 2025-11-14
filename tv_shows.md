@@ -473,6 +473,7 @@
   * Season 3 (Episode 1-15)
   * Season 4 (Episode 1-38)
   * Season 5 (Episode 1-13)
+  * Season 6 (Episode 1-30)
 * 원헌드레드 (The 100)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-16)
