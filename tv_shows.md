@@ -248,6 +248,7 @@
 * 바이오해커스 (Biohackers)
   * Season 1 (Episode 1-6)
   * Season 2 (Episode 1-6)
+* 반짝이는 워터멜론 (Episode 1-16)
 * 밤이 되었습니다 (Episode 1-12)
 * 배가본드 (Episode 1-16)
 * 백일의 낭군님 (Episode 1-16)
