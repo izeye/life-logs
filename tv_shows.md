@@ -496,6 +496,7 @@
 * 응답하라 1988 (Episode 1-20)
 * 응답하라 1994 (Episode 1-21)
 * 응답하라 1997 (Episode 1-16)
+* 의문의 일승 (Episode 1-40)
 * 의사요한 (Episode 1-16)
 * 은중과 상연 (Episode 1-15)
 * 이 구역의 미친 X (Episode 1-13)
