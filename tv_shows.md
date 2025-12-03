@@ -313,6 +313,7 @@
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-20)
   * Season 3 (Episode 1-22)
+* 서울 자가에 대기업 다니는 김 부장 이야기 (Episode 1-12)
 * 선산 (Episode 1-6)
 * 선의의 경쟁 (Episode 1-16)
 * 성적을 부탁해 티처스
