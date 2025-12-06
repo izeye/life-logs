@@ -598,6 +598,7 @@
   * Season 2 (Episode 1-12)
 * 탄금 (Episode 1-11)
 * 태양의 후예 (Episode 1-16)
+* 태풍상사 (Episode 1-16)
 * 터널 (Episode 1-16)
 * 트라이:우리는 기적이 된다 (Episode 1-16)
 * 트렁크 (Episode 1-8)
