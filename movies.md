@@ -430,6 +430,7 @@
 * 잭 리처: 네버 고 백 (Jack Reacher: Never Go Back, 2016)
 * 잭 스나이더의 저스티스 리그 (Zack Snyder's Justice League, 2021)
 * 저스티스 리그 (Justice League, 2017)
+* 전지적 독자 시점 (Omniscient Reader, 2025)
 * 정직한 후보 (HONEST CANDIDATE, 2019)
 * 제8일의 밤 (The 8th Night, 2021)
 * 제보자 (The Whistleblower, 2014)
