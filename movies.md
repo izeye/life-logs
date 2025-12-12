@@ -8,6 +8,7 @@
 * 21 (21, 2008)
 * 3000년의 기다림 (Three Thousand Years of Longing, 2023)
 * 3:10 투 유마 (3:10 To Yuma, 2007)
+* 6시간 후 너는 죽는다 (You Will Die In 6 Hours, 2024)
 * 82년생 김지영 (KIM JI-YOUNG, BORN 1982, 2019)
 * 8비트 크리스마스 (8‐Bit Christmas, 2021)
 * ARQ (2016)
