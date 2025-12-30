@@ -574,6 +574,7 @@
 * 카케구루이
   * Season 1 (Episode 1-12)
   * Season 2 (Episode 1-12)
+* 캐셔로 (Episode 1-8)
 * 컨티넘 (Continuum)
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-13)
