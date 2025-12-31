@@ -79,6 +79,7 @@
 * 나이브스 아웃 (Knives Out, 2019)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
+* 날, 보러와요 (INSANE, 2016)
 * 남산의 부장들 (The Man Standing Next, 2019)
 * 내 이름은 마더 (The Mother)
 * 내 친구 어둠 (Orion and the Dark, 2024)
