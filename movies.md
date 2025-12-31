@@ -233,6 +233,7 @@
 * 빅 팻 라이어 (Big Fat Liar, 2003)
 * 빅쇼트 (The Big Short, 2015)
 * 사도 (The Throne, 2014)
+* 사라진 밤 (The Vanished, 2018)
 * 사랑의 하츄핑 (Heartsping : Teenieping of Love, 2024)
 * 사랑하기 때문에 (BECAUSE I LOVE YOU, 2016)
 * 사바하 (SVAHA : THE SIXTH FINGER, 2019)
