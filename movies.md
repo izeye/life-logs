@@ -324,6 +324,7 @@
 * 씽: Thriller (Sing: Thriller, 2024)
 * 아기배달부 스토크 (STORKS, 2016)
 * 아메리칸 스나이퍼 (American Sniper, 2014)
+* 아바타 (Avatar, 2009)
 * 아빠는 딸 (Daddy You, Daughter Me, 2017)
 * 아야와 마녀 (アーヤと魔女, Earwig and the Witch, 2020)
 * 아이 캔 스피크 (i Can Speak, 2017)
