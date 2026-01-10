@@ -95,6 +95,7 @@
   * Season 2 (Episode 1-10)
 * 나 혼자만 레벨업 (Episode 1-25)
 * 나 홀로 그대 (Episode 1-12)
+* 날아라 개천용 (Episode 1-20)
 * 낭만닥터 김사부
   * Season 1 (Episode 1-20, 번외편)
   * Season 2 (Episode 1-16)
