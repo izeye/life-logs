@@ -279,7 +279,7 @@
 * 스니치 (Snitch, 2013)
 * 스마트폰을 떨어뜨렸을 뿐인데 (Unlocked, 2022)
 * 스머프: 비밀의 숲 (Smurfs: The Lost Village, 2017)
-* 스물 (Twenty, 2014)
+* 스물 (Twenty, 2015)
 * 스카페이스 (Scarface, 1983)
 * 스크루지: 크리스마스 캐럴 (Scrooge: A Christmas Carol, 2022)
 * 스타게이트 (Stargate, 1994)
