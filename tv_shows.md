@@ -481,6 +481,7 @@
   * Season 5 (Episode 1-13)
   * Season 6 (Episode 1-30)
   * Season 7 (Episode 1-22)
+  * Season 8 (Episode 1-11)
 * 원헌드레드 (The 100)
   * Season 1 (Episode 1-13)
   * Season 2 (Episode 1-16)
