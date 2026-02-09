@@ -363,6 +363,7 @@
 * 어벤져스: 에이지 오브 울트론 (The Avengers: Age of Ultron, 2015)
 * 어벤져스: 엔드게임 (Avengers: Endgame, 2019)
 * 어벤져스: 인피니티 워 (Avengers: Infinity War, 2018)
+* 어쩔수가없다 (NO OTHER CHOICE, 2025)
 * 언피니시드 (The Debt, 2010)
 * 업 (Up, 2009)
 * 업그레이드 (Upgrade, 2018)
