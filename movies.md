@@ -366,6 +366,7 @@
 * 어벤져스: 인피니티 워 (Avengers: Infinity War, 2018)
 * 어쩔수가없다 (NO OTHER CHOICE, 2025)
 * 언피니시드 (The Debt, 2010)
+* 얼굴 (The Ugly, 2025)
 * 업 (Up, 2009)
 * 업그레이드 (Upgrade, 2018)
 * 에너미 앳 더 게이트 (Enemy At The Gates, 2001)
