@@ -86,6 +86,7 @@
 * 너의 결혼식 (on your wedding day, 2018)
 * 너의 이름은. (君の名は。, your name., 2016)
 * 너의 췌장을 먹고 싶어 (君の膵臓をたべたい, Let Me Eat Your Pancreas, 2017)
+* 널 기다리며 (Missing You, 2016)
 * 노바디 (Nobody, 2020)
 * 노이즈 (Noise, 2025)
 * 노팅 힐 (Notting Hill, 1999)
