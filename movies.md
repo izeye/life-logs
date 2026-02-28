@@ -341,6 +341,7 @@
 * 아이언맨 (Iron Man, 2008)
 * 아이언맨 2 (Iron Man 2, 2010)
 * 아이언맨 3 (Iron Man 3, 2013)
+* 아이엠스타!X프리파라 더 무비 -만남의 기적!- (Aikatsu! Pripara THE MOVIE -Miraculous Meeting!-, 2026)
 * 아쿠아맨 (AQUAMAN, 2018)
 * 악마는 사라지지 않는다 (The Devil All the Time, 2020)
 * 악인전 (The Gangster, The Cop, The Devil, 2019)
