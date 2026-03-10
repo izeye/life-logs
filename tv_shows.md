@@ -437,6 +437,7 @@
   * Season 6 (Episode 1-13)
 * 열혈사제 (Episode 1-20)
 * 오 나의 귀신님 (Episode 1-16)
+* 오늘부터 인간입니다만 (Episode 1-12)
 * 오리지널스 (The Originals)
   * Season 1 (Episode 1-22)
 * 오월의 청춘 (Episode 1-12)
