@@ -311,6 +311,7 @@
 * 신과함께-인과 연 (Along with the Gods: The Last 49 Days, 2017)
 * 신과함께-죄와 벌 (Along With the Gods: The Two Worlds, 2017)
 * 신데렐라 (Cinderella, 1950)
+* 신명 (The Pact, 2025)
 * 신비한 동물사전 (Fantastic Beasts and Where to Find Them, 2016)
 * 신세계 (New World, 2012)
 * 신의 한 수 (The Divine Move, 2014)
