@@ -56,6 +56,7 @@
 * 군검사 도베르만 (Episode 1-16)
 * 굿 닥터 (The Good Doctor)
   * Season 1 (Episode 1-18)
+* 굿바이 미스터 블랙 (Episode 1-20)
 * 굿보이 (Episode 1-16)
 * 굿캐스팅 (Episode 1-16)
 * 굿파트너 (Episode 1-16)
