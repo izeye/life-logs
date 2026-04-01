@@ -309,6 +309,7 @@
 * 사카모토입니다만? (Haven't You Heard? I'm Sakamoto) (Episode 1-13)
 * 살인자ㅇ난감 (Episode 1-8)
 * 삼체 (Episode 1-8)
+* 상류사회 (Episode 1-16)
 * 상속자들 (Episode 1-20)
 * 샌드맨 (The Sandman)
   * Season 1 (Episode 1-11)
