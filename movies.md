@@ -46,6 +46,7 @@
 * 국가부도의 날 (Default, 2018)
 * 국제시장 (Ode to My Father, 2014)
 * 굿바이 싱글 (Familyhood, 2016)
+* 귀공자 (The Childe, 2023)
 * 귀를 기울이면 (Whisper Of The Heart, 1995)
 * 그것만이 내 세상 (Keys to the Heart, 2017)
 * 그녀를 믿지 마세요 (Don't Believe Her, 2004)
