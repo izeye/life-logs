@@ -293,7 +293,8 @@
 * 사건수사대 Q (Episode 1-9)
 * 사냥개들
   * Season 1 (Episode 1-8)
-  * [일타강사 건우진의 《사냥개들》 시즌1 복습 | 넷플릭스](https://www.youtube.com/watch?v=zW5meEj2Jzc)
+    * [일타강사 건우진의 《사냥개들》 시즌1 복습 | 넷플릭스](https://www.youtube.com/watch?v=zW5meEj2Jzc)
+  * Season 2 (Episode 1-7)
 * 사내맞선 (Episode 1-12)
 * 사랑의 불시착 (Episode 1-16)
 * 사마귀 : 살인자의 외출  (Episode 1-8)
