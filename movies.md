@@ -123,6 +123,7 @@
 * 돈 (Money, 2018)
 * 돈 룩 업 (Don't Look Up, 2021)
 * 돈 세이 워드 (Don't Say A Word, 2001)
+* 동화지만 청불입니다 (FORBIDDEN FAIRYTALE, 2025)
 * 둠 (Doom, 2005)
 * 드라이브 (Drive, 2024)
 * 드래곤 길들이기 (How to Train Your Dragon, 2025)
