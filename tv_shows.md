@@ -540,7 +540,9 @@
 * 일타 스캔들 (Episode 1-16)
 * 자백의 대가 (Episode 1-12)
 * 작은 아씨들 (Episode 1-12)
-* 장송의 프리렌 (Episode 1-28)
+* 장송의 프리렌
+  * Season 1 (Episode 1-28)
+  * Season 2 (Episode 1-10)
 * 재벌집 막내아들 (Episode 1-16)
 * 잭 모턴과 언더월드 (The Order)
   * Season 1 (Episode 1-10)
