@@ -120,6 +120,7 @@
 * 다크
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-8)
+  * Season 3 (Episode 1-8)
 * 닥터스 (Episode 1-20)
 * 닥터슬럼프 (Episode 1-16)
 * 닥터 차정숙 (Episode 1-16)
