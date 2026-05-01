@@ -154,6 +154,7 @@
 * 마인크래프트 무비 (A MINECRAFT MOVIE, 2025)
 * 마틸다 (Matilda, 1996)
 * 마파도 2 (Mapado 2, 2007)
+* 막걸리가 알려줄거야 (FAQ, 2024)
 * 말모이 (MAL·MO·E: The Secret Mission, 2018)
 * 매그니피센트 7 (The Magnificent Seven, 2016)
 * 맨 오브 스틸 (Man of Steel, 2013)
