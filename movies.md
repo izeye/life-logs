@@ -234,6 +234,7 @@
 * 블리치 극장판 2 - 다이아몬드더스트 반란 (劇場版 Bleach The DiamondDust Rebellion, 2007)
 * 블리치 극장판 3 - 페이드 투 블랙 (劇場版 BLEACH Fade To Black, 2008)
 * 비밥바룰라 (2017)
+* 비스트 (THE BEAST, 2019)
 * 비스틀리 (Beastly, 2011)
 * 비트를 느껴봐 (Feel the Beat)
 * 빅 팻 라이어 (Big Fat Liar, 2003)
