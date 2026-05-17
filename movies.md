@@ -436,6 +436,7 @@
 * 이웃집 토토로 (My Neighbor Totoro, 1988)
 * 이집트 왕자 (The Prince Of Egypt, 1998)
 * 이터널스 (Eternals, 2021)
+* 이프: 상상의 친구 (IF, 2024)
 * 인 디 에어 (Up In The Air, 2009)
 * 인 유어 드림 (In Your Dreams, 2025)
 * 인 타임 (In Time, 2011)
