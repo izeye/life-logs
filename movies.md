@@ -334,6 +334,7 @@
 * 씽2게더 (Sing 2, 2021)
 * 씽: Thriller (Sing: Thriller, 2024)
 * 아기배달부 스토크 (STORKS, 2016)
+* 아노라 (Anora, 2024)
 * 아메리칸 스나이퍼 (American Sniper, 2014)
 * 아바타 (Avatar, 2009)
 * 아바타: 물의 길 (Avatar: The Way of Water, 2022)
