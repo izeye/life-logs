@@ -38,6 +38,7 @@
 * 고스트캣 앙주 (Ghost Cat Anzu, 2025)
 * 고양이의 보은 (The Cat Returns, 2002)
 * 고장난 론 (Ron’s Gone Wrong, 2021)
+* 고트: 더 레전드 (GOAT, 2026)
 * 곰돌이 푸 다시 만나 행복해 (Christopher Robin, 2018)
 * 공조 (共助, Confidential Assignment, 2016)
 * 공조2: 인터내셔날 (Confidential Assignment2: International, 2021)
