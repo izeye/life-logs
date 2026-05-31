@@ -520,6 +520,7 @@
 * 클라우스 (Klaus, 2019)
 * 클로버필드 (Cloverfield, 2008)
 * 클로젯 (The Closet, 2020)
+* 클리포드 더 빅 레드 독 (Clifford the Big Red Dog, 2022)
 * 킬러의 보디가드 (The Hitman's Bodyguard, 2017)
 * 킬러의 보디가드 2: 킬러의 와이프 (Hitman's Bodyguard 2, 2021)
 * 킹메이커 (Kingmaker, 2022)
