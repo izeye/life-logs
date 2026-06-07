@@ -559,6 +559,7 @@
 * 퍼스트 어벤져 (Captain America: The First Avenger, 2011)
 * 퍼시픽 림 (Pacific Rim, 2013)
 * 퍼펙트맨 (Man of Men, 2018)
+* 페르디난드 (Ferdinand, 2018)
 * 포켓몬스터W: 신이라 불리는 아르세우스 (2022)
 * 폭락 (Crypto Man, 2025)
 * 폴라 (Polar, 2019)
