@@ -562,6 +562,7 @@
   * Season 1 (Episode 1-10)
   * Season 2 (Episode 1-10)
 * 전 영역 이상현상 해결실 (Episode 1-10)
+* 절대그이 (Episode 1-18)
 * 정숙한 세일즈 (Episode 1-12)
 * 정신병동에도 아침이 와요 (Episode 1-12)
 * 조금만 초능력자 (Episode 1-9)
