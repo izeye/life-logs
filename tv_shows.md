@@ -394,6 +394,7 @@
 * 신이랑 법률사무소 (Episode 1-16)
 * 신 테르마이 로마이 (Episode 1-11)
 * 싸우자 귀신아 (Episode 1-16)
+* 싸움독학 (Episode 1-6)
 * 쌈, 마이웨이 (Episode 1-16)
 * 썸바디 (Episode 1-8)
 * 썸웨어 비트윈 (Episode 1-10)
