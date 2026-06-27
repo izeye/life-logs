@@ -72,6 +72,7 @@
 * 기억의 밤 (Forgotten, 2017)
 * 기예르모 델토로의 피노키오 (Pinocchio, 2022)
 * 기적 (Miracle, 2021)
+* 꼬마 판다 팡의 아프리카 대모험 (Panda Bear in Africa, 2025)
 * 꾼 (The Swindlers, 2017)
 * 꿀벌 대소동 (Bee Movie, 2007)
 * 끝까지 간다 (A Hard Day, 2013)
