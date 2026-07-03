@@ -199,6 +199,7 @@
 * 리락쿠마의 테마파크 어드벤처 (Episode 1-8)
 * 리미트리스 (Limitless)
   * Season 1 (Episode 1-22)
+* 리본 ~최후의 히어로~ (Episode 1-9)
 * 리전 (Legion)
   * Season 1 (Episode 1-8)
   * Season 2 (Episode 1-11)
