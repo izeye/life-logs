@@ -180,6 +180,7 @@
 * 몬스터 호텔 (Hotel Transylvania, 2012)
 * 몬스터 호텔 2 (Hotel Transylvania 2, 2015)
 * 몬스터 호텔 3 (Hotel Transylvania 3: A Monster Vacation, 2018)
+* 몽키 킹 (The Monkey King, 2023)
 * 무도실무관 (Officer Black Belt, 2024)
 * 무파사: 라이온 킹 (Mufasa: The Lion King, 2024)
 * 미녀와 야수 (Beauty and the Beast, 2017)
