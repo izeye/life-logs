@@ -390,6 +390,7 @@
 * 에너미 오브 스테이트 (Enemy Of The State, 1998)
 * 에놀라 홈즈 (Enola Holmes, 2020)
 * 에놀라 홈즈 2 (Enola Holmes 2, 2022)
+* 에놀라 홈즈 3 (Enola Holmes 3, 2026)
 * 엑스테리토리얼 (Exterritorial, 2025)
 * 엑시트 (EXIT, 2019)
 * 엔칸토: 마법의 세계 (Encanto, 2021)
