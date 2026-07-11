@@ -28,6 +28,7 @@
   * Season 3 (Episode 1-13)
 * 가면 (Episode 1-20)
 * 가석방 심사관 이한신 (Episode 1-12)
+* 가스인간 (Episode 1-8)
 * 가족X멜로 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
