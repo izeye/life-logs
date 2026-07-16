@@ -242,6 +242,7 @@
 * 비밥바룰라 (2017)
 * 비스트 (THE BEAST, 2019)
 * 비스틀리 (Beastly, 2011)
+* 비키퍼 (The Beekeeper, 2024)
 * 비트를 느껴봐 (Feel the Beat)
 * 빅 팻 라이어 (Big Fat Liar, 2003)
 * 빅쇼트 (The Big Short, 2015)
