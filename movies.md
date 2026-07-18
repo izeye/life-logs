@@ -548,6 +548,7 @@
 * 토르: 러브 앤 썬더 (Thor: Love and Thunder, 2022)
 * 토르: 천둥의 신 (Thor, 2011)
 * 토이 스토리 4 (Toy Story 4, 2019)
+* 토이 스토리 5 (Toy Story 5, 2026)
 * 트롤 (Trolls, 2016)
 * 트롤: 밴드 투게더 (Trolls Band Together, 2023)
 * 트롤: 월드 투어 (Trolls World Tour, 2020)
