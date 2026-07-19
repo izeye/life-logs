@@ -577,6 +577,7 @@
 * 정신병동에도 아침이 와요 (Episode 1-12)
 * 조금만 초능력자 (Episode 1-9)
 * 조립식 가족 (Episode 1-16)
+* 졸업 (Episode 1-16)
 * 종말의 바보 (Episode 1-12)
 * 좋아하면 울리는
   * Season 1 (Episode 1-8)
