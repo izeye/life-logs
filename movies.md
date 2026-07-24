@@ -150,6 +150,7 @@
 * 마녀 배달부 키키 (Kiki's Delivery Service, 1989)
 * 마루 밑 아리에티 (The Borrowers, 2010)
 * 마법 관리국과 비밀요원들 (Secret Magic Control Agency, 2021)
+* 마브카: 숲의 노래 (Mavka: The Forest Song, 2023)
 * 마션 (The Martian, 2015)
 * 마술사의 코끼리 (The Magician's Elephant, 2023)
 * 마스터 (Master, 2016)
