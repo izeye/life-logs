@@ -187,6 +187,7 @@
 * 무도실무관 (Officer Black Belt, 2024)
 * 무파사: 라이온 킹 (Mufasa: The Lion King, 2024)
 * 미녀와 야수 (Beauty and the Beast, 2017)
+* 미니언즈 & 몬스터즈 (MINIONS & MONSTERS, 2026)
 * 미니언즈 (Minions, 2015)
 * 미니언즈2 (Minions: The Rise of Gru, 2022)
 * 미래에서 온 남자 (O Homem do Futuro, The Man from the Future, 2011)
