@@ -132,6 +132,7 @@
 * 드래곤 길들이기 (How to Train Your Dragon, 2025)
 * 라야와 마지막 드래곤 (Raya and the Last Dragon, 2020)
 * 라이온 킹 (The Lion King, 1994)
+* 라테와 마법의 돌 (Latte and the Magic Waterstone, 2020)
 * 럭키 (LUCK-KEY, 2015)
 * 런던 해즈 폴른 (London Has Fallen, 2016)
 * 레고 배트맨 무비 (The Lego Batman Movie, 2017)
