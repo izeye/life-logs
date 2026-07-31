@@ -1,5 +1,6 @@
 # Japan
 ## Hokkaido
+* Farm Tomita (15 Kisenkita, Nakafurano, Sorachi District, Hokkaido 071-0704)
 * La’gent Stay Sapporo Odori Hokkaido (5 Chome-26-5 Minami 2 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0062)
 * New Chitose Airport (Bibi, Chitose, Hokkaido 066-0012)
 * Odori Park (〒060-0042 Hokkaido, Sapporo, Chuo Ward, Odorinishi, １〜１２丁目)
