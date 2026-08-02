@@ -1,5 +1,6 @@
 # Japan
 ## Hokkaido
+* café Biei Hills (1 Chome-4-25 Motomachi, Biei, Kamikawa District, Hokkaido 071-0208)
 * Cafe Junpei (4 Chome-4-10 Motomachi, Biei, Kamikawa District, Hokkaido 071-0208)
 * Farm Tomita (15 Kisenkita, Nakafurano, Sorachi District, Hokkaido 071-0704)
 * La’gent Stay Sapporo Odori Hokkaido (5 Chome-26-5 Minami 2 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0062)
