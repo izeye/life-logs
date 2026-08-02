@@ -23,5 +23,6 @@
 * 시로이 코이비토 파크 (SHIROI KOIBITO PARK) (北海道札幌市西区宮の沢2-2-11-36白い恋人パーク)
 * 오타루 르타오 본점 (LeTAO Hon Ten) (北海道小樽市堺町7-16)
 * 오타루 오르골 박물관 (Otaru Orgel Museum Main Building) (4-1 Sumiyoshicho, Otaru 047-0015 Hokkaido)
+* 오타루 운하 (Otaru Canal) (Minatomachi, Otaru 047-0007 Hokkaido)
 * 청의 호수 (Shirogane Blue Pond) (Shirogane, Biei-cho, Kamikawa-gun 071-0235 Hokkaido)
 * 흰수염 폭포 (Shirahige Falls) (Shirogane, Biei-cho, Kamikawa-gun 071-0235 Hokkaido)
