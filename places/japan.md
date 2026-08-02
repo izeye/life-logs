@@ -8,5 +8,6 @@
 * Sapporo Station (4 Chome Kita 6 Jonishi, Kita Ward, Sapporo, Hokkaido 060-0806)
 * Tanukikoji Shopping Street (〒060-0062 Hokkaido, Sapporo, Chuo Ward, 南2・3条西1～7丁目)
 * 札幌ジンギスカン らむすけ (〒064-0804 Hokkaido, Sapporo, Chuo Ward, Minami 4 Jonishi, 5 Chome−６−1 都志松ビル ３F)
+* 사계의 언덕 (Shikisai no Oka) (3 Shinsei, Biei-cho, Kamikawa-gun 071-0473 Hokkaido)
 * 청의 호수 (Shirogane Blue Pond) (Shirogane, Biei-cho, Kamikawa-gun 071-0235 Hokkaido)
 * 흰수염 폭포 (Shirahige Falls) (Shirogane, Biei-cho, Kamikawa-gun 071-0235 Hokkaido)
