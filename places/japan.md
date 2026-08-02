@@ -5,6 +5,7 @@
 * Farm Tomita (15 Kisenkita, Nakafurano, Sorachi District, Hokkaido 071-0704)
 * Iwato Kannondo Temple (4 Chome-377 Jozankeionsennishi, Minami Ward, Sapporo, Hokkaido 061-2303)
 * Jozankei Daiichi Hotel Suizantei (〒061-2303 Hokkaido, Sapporo, Minami Ward, Jozankeionsennishi, 3 Chome−105 定山渓第一寶亭留翠山亭 内1階)
+* Jozankei Gensen Park (3 Chome Jozankeionsenhigashi, Minami Ward, Sapporo, Hokkaido 061-2302)
 * La’gent Stay Sapporo Odori Hokkaido (5 Chome-26-5 Minami 2 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0062)
 * Miyanosawa Station (1-chōme-8 Miyanosawa 1 Jō, Nishi Ward, Sapporo, Hokkaido 063-0051)
 * New Chitose Airport (Bibi, Chitose, Hokkaido 066-0012)
