@@ -2,6 +2,7 @@
 ## Hokkaido
 * café Biei Hills (1 Chome-4-25 Motomachi, Biei, Kamikawa District, Hokkaido 071-0208)
 * Cafe Junpei (4 Chome-4-10 Motomachi, Biei, Kamikawa District, Hokkaido 071-0208)
+* Densetsu No Sutadon'ya (3 Chome-1-61 Kita 3 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0003)
 * Farm Tomita (15 Kisenkita, Nakafurano, Sorachi District, Hokkaido 071-0704)
 * Iwato Kannondo Temple (4 Chome-377 Jozankeionsennishi, Minami Ward, Sapporo, Hokkaido 061-2303)
 * Jozankei Daiichi Hotel Suizantei (〒061-2303 Hokkaido, Sapporo, Minami Ward, Jozankeionsennishi, 3 Chome−105 定山渓第一寶亭留翠山亭 内1階)
