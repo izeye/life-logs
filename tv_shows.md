@@ -5,6 +5,7 @@
   * Season 3 (Episode 1-10)
 * 18 어게인 (Episode 1-16)
 * 49일 (Episode 1-20)
+* 60일, 지정생존자 (Episode 1-16)
 * 7급 공무원 (Episode 1-20)
 * B: 더 비기닝 (B: The Beginning)
   * Season 1 (Episode 1-12)
