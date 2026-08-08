@@ -259,6 +259,7 @@
 * 살인자 리포트 (MURDER REPORT, 2025)
 * 삼진그룹 영어토익반 (SAMJIN COMPANY ENGLISH CLASS, 2020)
 * 상상 (The Imaginary, 2024)
+* 생츄어리: 마법의 소원나무 (The Wishmas Tree, 2023)
 * 샤이닝 (The Shining, 1980)
 * 샤잠! (Shazam!, 2019)
 * 샤잠! 신들의 분노 (Shazam! Fury of the Gods, 2023)
