@@ -423,6 +423,7 @@
 * 올레 (DETOUR, 2016)
 * 올빼미 (The Night Owl, 2022)
 * 와일드 로봇 (The Wild Robot, 2024)
+* 와일드 씽 (Wild Sing, 2026)
 * 외계+인 1부 (Alienoid, 2022)
 * 용서받지 못한 자 (The Unforgiven, 2005)
 * 용의자 (The Suspect, 2013)
