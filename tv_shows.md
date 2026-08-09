@@ -550,6 +550,7 @@
 * 은중과 상연 (Episode 1-15)
 * 이 구역의 미친 X (Episode 1-13)
 * 이두나! (Episode 1-9)
+* 이런 엿같은 사랑 (Episode 1-12)
 * 이로운 사기 (Episode 1-16)
 * 이번 생도 잘 부탁해 (Episode 1-12)
 * 이번 생은 처음이라 (Episode 1-16)
