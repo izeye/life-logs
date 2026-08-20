@@ -327,6 +327,7 @@
   * Season 3 (Episode 1-2)
 * 사이키 쿠스오의 재난: 끝난 줄 알았지?
   * Season 1 (Episode 1-6)
+* 사조영웅전2024 (Episode 1-30)
 * 사카모토 데이즈 (SAKAMOTO DAYS)
   * Season 1 (Episode 1-11)
   * Season 2 (Episode 1-11)
