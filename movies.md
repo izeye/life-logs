@@ -603,5 +603,6 @@
 * 화란 (Hopeless, 2023)
 * 휴민트 (HUMINT, 2026)
 * 히 네버 다이: 뱀파이어의 전설 (He Never Died, 2015)
+* 히코의 신비한 모험 (Xico's Journey, 2021)
 * 히트맨 (HITMAN: AGENT JUN, 2019)
 * 힘을 내요, 미스터 리 (CHEER UP, MR. LEE, 2018)
