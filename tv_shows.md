@@ -476,6 +476,7 @@
 * 오늘부터 인간입니다만 (Episode 1-12)
 * 오리지널스 (The Originals)
   * Season 1 (Episode 1-22)
+* 오싹한 연애 (Episode 1-12)
 * 오월의 청춘 (Episode 1-12)
 * 오징어 게임 (Squid Game)
   * Season 1 (Episode 1-9)
