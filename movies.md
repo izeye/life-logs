@@ -413,6 +413,7 @@
 * 오늘 밤, 세계에서 이 사랑이 사라진다 해도 (2025)
 * 오늘부터 히어로 (We Can Be Heroes, 2020)
 * 오늘의 연애 (Love Forecast, 2014)
+* 오디세이 (The Odyssey, 2026)
 * 오버 더 문 (Over the Moon, 2020)
 * 오싹한 연애 (Spellbound, 2011)
 * 오직 그대만 (Always, 2011)
