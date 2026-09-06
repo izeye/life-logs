@@ -78,6 +78,7 @@
 * 끝까지 간다 (A Hard Day, 2013)
 * 나 홀로 집에 (Home Alone, 1990)
 * 나의 사랑 나의 신부 (My Love, My Bride, 2014)
+* 나의 펭귄 친구, 딘딤 (My Penguin Friend, 2024)
 * 나이브스 아웃 (Knives Out, 2019)
 * 나이트 크롤러 (Nightcrawler, 2014)
 * 나이트 폴 (大追捕, Night Fall, 2012)
