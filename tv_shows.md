@@ -34,6 +34,7 @@
 * 가족X멜로 (Episode 1-12)
 * 갈릴레오 (ガリレオ)
   * Season 1 (Episode 1-10)
+* 감사합니다 (Episode 1-12)
 * 갯마을 차차차 (Episode 1-16)
 * 결혼해YOU (Episode 1-10)
 * 경성크리처
