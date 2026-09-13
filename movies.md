@@ -469,6 +469,7 @@
 * 인투 더 월드 (Migration, 2024)
 * 인페르노 (Inferno, 2016)
 * 잃어버린 세계를 찾아서 (Journey to the Center of the Earth, 2008)
+* 잃어버린 세계를 찾아서 2 : 신비의 섬 (Journey 2: The Mysterious Island, 2012)
 * 자산어보 (The Book of Fish, 2019)
 * 자투라 - 스페이스 어드벤쳐 (Zathura: A Space Adventure, 2005)
 * 장독대
