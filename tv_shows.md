@@ -656,6 +656,8 @@
   * Season 1 (Episode 1-7)
 * 키스는 괜히 해서! (Episode 1-14)
 * 킬러들의 쇼핑몰 (Episode 1-8)
+* 킬 블루 (Kill Blue)
+  * Season 1 (Episode 1-12)
 * 킹더랜드 (Episode 1-16)
 * 킹덤 (Kingdom)
   * Season 1 (Episode 1-6)
