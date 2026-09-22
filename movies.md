@@ -76,6 +76,7 @@
 * 꾼 (The Swindlers, 2017)
 * 꿀벌 대소동 (Bee Movie, 2007)
 * 끝까지 간다 (A Hard Day, 2013)
+* 끝장수사 (THE ULTIMATE DUO, 2026)
 * 나 홀로 집에 (Home Alone, 1990)
 * 나의 사랑 나의 신부 (My Love, My Bride, 2014)
 * 나의 펭귄 친구, 딘딤 (My Penguin Friend, 2024)
