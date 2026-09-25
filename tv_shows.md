@@ -183,6 +183,8 @@
 * 라팔마 (Episode 1-4)
 * 란마1/2 (Episode 1-12)
 * 레이디 두아 (Episode 1-8)
+* 레지던트 에일리언 (Resident Alien)
+  * Season 1 (Episode 1-10)
 * 로맨틱 어나니머스 (Episode 1-8)
 * 로스쿨 (Episode 1-16)
 * 로크 앤 키 (Locke & Key)
