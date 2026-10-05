@@ -41,6 +41,7 @@
 * 하리보 웜즈 사우어, PAMIR GIDA SAN. A.S., Turkey
 * 행운의 메론부기모양 마시멜로, Fujian Holeywood Foods Industrial Co., Ltd., China
 * 허니눈꽃쌀과자, TRANGAN 2 CONFECTIONERY JOINT STOCK COMPANY, Vietnam
+* 허니버터칩, 해태가루비(주)
 * 헬로키티 사과젤리, 서주제과(주)
 
 ## Beverages
