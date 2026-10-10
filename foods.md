@@ -6,6 +6,7 @@
 * 내맘몰랑쏘옥~복숭아, 서주제과(주)
 * 단짝캔디, 한투인터내셔널
 * 드럼스틱 모양 젤리, GUANGDONG SUNTREE FOODSTUFF CO., LTD, China
+* 래핑카우 벨큐브 파티믹스, FROMAGERIES BEL PRODUCTION, France
 * 리얼 그래놀라 오리지널, 농심켈로그(주)
 * 마가렛트 오리지널, (주)롯데웰푸드
 * 마로마로 레몬맛, 서주제과(주)
