@@ -1,0 +1,9 @@
+title: Life Logs
+theme: jekyll-theme-primer
+# Render with GitHub's own CommonMark so lines containing "|" stay prose, as on GitHub.com.
+markdown: CommonMarkGhPages
+commonmark:
+  options: [SMART, FOOTNOTES, UNSAFE]
+  extensions: [strikethrough, autolink, table, tagfilter]
+exclude:
+  - sort_movies.sh
