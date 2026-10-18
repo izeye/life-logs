@@ -6,7 +6,14 @@
   var select = document.getElementById('search-category');
   var results = document.getElementById('search-results');
   var main = document.getElementById('content');
-  var categoryList = document.querySelector('#category-list ul');
+  var categoryList = document.querySelector('#category-list .cards');
+  var EMOJI = {
+    'books.md': '📚', 'coffee.md': '☕', 'creatures.md': '🐾', 'deliveries.md': '🛵',
+    'drinks.md': '🥤', 'events.md': '🎉', 'foods.md': '🍽️', 'game/': '🎮',
+    'mountains.md': '⛰️', 'movies.md': '🎬', 'musicals.md': '🎭', 'places/': '📍',
+    'restaurants.md': '🍴', 'singers.md': '🎤', 'songs.md': '🎵', 'tea.md': '🍵',
+    'ted.md': '💡', 'tv_shows.md': '📺', 'wine.md': '🍷', 'you-tube.md': '▶️'
+  };
   var MAX_RESULTS = 500;
   var pagesPromise = null;
   var indexPromise = null;
@@ -60,11 +67,10 @@
 
   function indexPage(page, html) {
     var doc = new DOMParser().parseFromString(html, 'text/html');
-    var root = doc.getElementById('content') || doc.body;
+    var root = doc.querySelector('#content .doc') || doc.body;
     var entries = [];
     var headings = [];
     root.querySelectorAll('h1, h2, h3, h4, h5, h6, li').forEach(function (el) {
-      if (el.closest('#category-list')) return;
       if (el.tagName === 'LI') {
         var text = ownText(el);
         if (!text) return;
@@ -87,10 +93,25 @@
       } else {
         var level = Number(el.tagName[1]);
         while (headings.length && headings[headings.length - 1].level >= level) headings.pop();
-        headings.push({ level: level, text: el.textContent.trim(), id: el.id });
+        var text = level === 1 && page.path === 'README.md' ? 'Home' : el.textContent.trim();
+        headings.push({ level: level, text: text, id: el.id });
       }
     });
     return entries;
+  }
+
+  // Retries, so one dropped request does not leave a category looking empty.
+  function fetchText(url, attempts) {
+    return fetch(url)
+      .then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        return r.text();
+      })
+      .catch(function (err) {
+        if (attempts <= 1) throw err;
+        return new Promise(function (resolve) { setTimeout(resolve, 300); })
+          .then(function () { return fetchText(url, attempts - 1); });
+      });
   }
 
   function loadIndex() {
@@ -98,9 +119,8 @@
       indexPromise = loadPages()
         .then(function (data) {
           return Promise.all(data.pages.map(function (page) {
-            return fetch(page.url)
-              .then(function (r) { return r.ok ? r.text() : ''; })
-              .then(function (html) { return html ? indexPage(page, html) : []; })
+            return fetchText(page.url, 3)
+              .then(function (html) { return indexPage(page, html); })
               .catch(function () { return []; });
           }));
         })
@@ -136,26 +156,28 @@
       return terms.every(function (t) { return e.haystack.indexOf(t) !== -1; });
     });
     var heading = terms.length ? '검색 결과' : escapeHtml(cat.title);
-    var html = '<h2>' + heading + ' <span class="meta">' + hits.length + '건' +
-      (terms.length && cat ? ' · ' + escapeHtml(cat.title) : '') + '</span></h2>';
+    var html = '<div class="results-head"><h2>' + heading + '</h2><span class="badge">' +
+      hits.length.toLocaleString() + '</span>' +
+      (terms.length && cat ? '<span class="meta">in ' + escapeHtml(cat.title) + '</span>' : '') + '</div>';
     if (!hits.length) {
-      html += '<p class="meta">결과가 없습니다. (No results.)</p>';
+      html += '<p class="empty">결과가 없습니다.</p>';
     } else {
       // A category listing shows everything; only search results are capped.
       var limit = terms.length ? MAX_RESULTS : hits.length;
       var group = null;
       hits.slice(0, limit).forEach(function (e) {
         if (e.context !== group) {
-          if (group !== null) html += '</ul>';
+          if (group !== null) html += '</ul></div>';
           group = e.context;
-          html += '<h3><a href="' + escapeHtml(e.url) + '">' + highlight(e.context, terms) + '</a></h3><ul>';
+          html += '<div class="group"><h3><a href="' + escapeHtml(e.url) + '">' +
+            highlight(e.context, terms) + '</a></h3><ul>';
         }
         html += '<li>' + highlight(e.text, terms);
-        if (e.link) html += ' <a href="' + escapeHtml(e.link) + '">↗</a>';
-        if (e.parents) html += '<br><span class="meta">' + highlight(e.parents, terms) + '</span>';
+        if (e.link) html += '<a class="ext" href="' + escapeHtml(e.link) + '" aria-label="Open link">↗</a>';
+        if (e.parents) html += '<span class="meta">' + highlight(e.parents, terms) + '</span>';
         html += '</li>';
       });
-      html += '</ul>';
+      html += '</ul></div>';
       if (hits.length > limit) {
         html += '<p class="meta">상위 ' + MAX_RESULTS + '건만 표시합니다.</p>';
       }
@@ -177,7 +199,7 @@
     }
     results.hidden = false;
     main.hidden = true;
-    results.innerHTML = '<p class="meta">불러오는 중… (Loading…)</p>';
+    results.innerHTML = '<p class="empty">불러오는 중…</p>';
     Promise.all([loadPages(), loadIndex()]).then(function (r) {
       if (input.value.trim() !== query || select.value !== catUrl) return;
       var cat = r[0].categories.filter(function (c) { return c.url === catUrl; })[0] || null;
@@ -198,13 +220,21 @@
     });
   }
 
-  // The home page lists every category with its number of top-level items.
-  function fillCategoryList(cats, entries) {
-    categoryList.innerHTML = cats.map(function (c) {
-      var count = entries.filter(function (e) { return !e.parents && inCategory(e, c); }).length;
-      var listUrl = '?c=' + encodeURIComponent(c.url);
-      return '<li>' + indent(c.depth) + '<a href="' + escapeHtml(c.url) + '">' + escapeHtml(c.title) +
-        '</a> <a class="meta" href="' + escapeHtml(listUrl) + '">' + count + '</a></li>';
+  // The home page shows a card per top-level category, its sub-categories
+  // as chips, and its number of top-level items once the index has loaded.
+  function renderCards(cats, entries) {
+    categoryList.innerHTML = cats.filter(function (c) {
+      return c.depth === 0 && c.key !== '';
+    }).map(function (c) {
+      var subs = cats.filter(function (d) { return d.depth === 1 && d.key.indexOf(c.key) === 0; });
+      var count = entries ? entries.filter(function (e) { return !e.parents && inCategory(e, c); }).length : null;
+      return '<div class="card' + (subs.length ? ' wide' : '') + '"><div class="head"><span class="emoji" aria-hidden="true">' +
+        (EMOJI[c.key] || '📁') + '</span><a class="title" href="' + escapeHtml(c.url) + '">' +
+        escapeHtml(c.title) + '</a><span class="count">' + (count === null ? '' : count.toLocaleString()) +
+        '</span></div>' +
+        (subs.length ? '<div class="subs">' + subs.map(function (d) {
+          return '<a href="' + escapeHtml(d.url) + '">' + escapeHtml(d.title) + '</a>';
+        }).join('') + '</div>' : '') + '</div>';
     }).join('');
   }
 
@@ -225,7 +255,8 @@
     input.value = params.get('q') || '';
     if (input.value || select.value) update();
     if (categoryList) {
-      loadIndex().then(function (entries) { fillCategoryList(data.categories, entries); });
+      renderCards(data.categories, null);
+      loadIndex().then(function (entries) { renderCards(data.categories, entries); });
     }
   });
 })();
