@@ -6,7 +6,7 @@
   {%- assign ext = p.path | split: "." | last -%}
   {%- if ext == "md" -%}
     {%- unless first -%},{%- endunless -%}
-    {"url": {{ p.url | relative_url | jsonify }}, "title": {{ p.title | default: p.path | jsonify }}}
+    {"url": {{ p.url | relative_url | jsonify }}, "path": {{ p.path | jsonify }}, "title": {{ p.title | default: p.path | jsonify }}}
     {%- assign first = false -%}
   {%- endif -%}
 {%- endfor -%}
