@@ -4,6 +4,7 @@
 * 구워 만든 곡물 그대로 24 오리지널, (주)개미식품
 * 구워 만든 곡물 그대로 24 인절미맛, (주)개미식품
 * 내맘몰랑쏘옥~복숭아, 서주제과(주)
+* 너즈 구미 클러스터 레인보우, JELLY BELLY CANDY COMPANY (THAILAND) LTD, Thailand
 * 단짝캔디, 한투인터내셔널
 * 드럼스틱 모양 젤리, GUANGDONG SUNTREE FOODSTUFF CO., LTD, China
 * 래핑카우 벨큐브 파티믹스, FROMAGERIES BEL PRODUCTION, France
