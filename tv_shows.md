@@ -462,6 +462,7 @@
 * 앨리스 (Episode 1-16)
 * 어게인 마이 라이프 (Episode 1-16)
 * 어비스 (Episode 1-16)
+* 언내추럴 (アンナチュラル) (Episode 1-10)
 * 언더커버 미쓰홍 (Episode 1-16)
 * 언젠가는 슬기로울 전공의생활 (Episode 1-12)
 * 얼터드 카본 (Altered Carbon)
