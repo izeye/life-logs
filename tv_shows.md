@@ -693,6 +693,7 @@
   * Season 4 (Episode 1-12)
   * Season 5 (Episode 1-20)
   * Season 6 (Episode 1-20)
+* 펜딩 트레인 - 8시 23분, 내일 너와 (ペンディングトレイン―8時23分、明日 君と) (Episode 1-10)
 * 포켓몬스터 XY
   * Season 1 (Episode 1-3)
 * 폭군의 셰프 (Episode 1-12)
