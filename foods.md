@@ -35,6 +35,7 @@
 * 이클립스 피치향, WRIGLEY CONFECTIONERY (SHANGHAI) CO.LTD, China
 * 인디안밥, 농심
 * 자가비 짭짤한맛, 해태가루비(주)
+* 자연주의 유기농 땅콩버터, ANDALUCIA NUTS, United States
 * 조청유과, 농심
 * 질러 부드러운 육포, 샘표식품
 * 천하장사 오리지날, (주)진주햄
