@@ -43,6 +43,8 @@
 * 천하장사 오리지날, (주)진주햄
 * 천하장사 콰트로치즈, (주)진주햄
 * 초코멜로바, 서주제과(주)
+* 카스텔로 까망베르, ARLA FOODS AMBA, TROLDHEDE MEJERI, Denmark
+* 카스텔로 브리, ARLA FOODS AMBA, TROLDHEDE MEJERI, Denmark
 * 카카오별, 한살림
 * 킨더 초콜릿, Ferrero Food(Hangzhou) Co. Ltd., China
 * 탱글탱글 리치맛, 서주제과(주)
