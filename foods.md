@@ -54,6 +54,7 @@
 * 텐텐맛 멀티비타민, 한미사이언스(주)
 * 트롤리 사우어 구미 캔디, Trolli GmbH, Germany
 * 페레로 로쉐 밀크 초코릿 바, FERRERO POLSKA Sp. z o. o., Poland
+* 페레로 로쉐 오리진스, FERRERO Food(Hangzhou) Co. Ltd., China
 * 포키 극세, 해태제과식품(주)
 * 포키 딸기, 해태제과식품(주)
 * 프루팁스 리치맛, Dongguan Hsu Chi Food Co.,Ltd, China
