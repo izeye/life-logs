@@ -7,6 +7,7 @@
 * 너즈 구미 클러스터 레인보우, JELLY BELLY CANDY COMPANY (THAILAND) LTD, Thailand
 * 단짝캔디, 한투인터내셔널
 * 드럼스틱 모양 젤리, GUANGDONG SUNTREE FOODSTUFF CO., LTD, China
+* 땅콩강정, (주)오리온
 * 래핑카우 벨큐브 파티믹스, FROMAGERIES BEL PRODUCTION, France
 * 래핑카우 벨큐브 피크닉 믹스, FROMAGERIES BEL PRODUCTION, France
 * 리얼 그래놀라 오리지널, 농심켈로그(주)
